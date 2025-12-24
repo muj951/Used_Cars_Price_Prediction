@@ -1,0 +1,3727 @@
+price,year,mileage,brand,clean_model,model_encoded,brand_encoded,is_auction
+1750.0,2004,171100,BMW,5series 525i,239,6,1
+5100.0,2019,16550,Nissan,altima 25 platinum awd,466,42,0
+11995.0,2016,93981,Infiniti,q50 30t bkcam,1603,25,0
+7700.0,2013,57449,Toyota,avalon,504,60,0
+795.0,2010,167906,Mercedes-Benz,eclass e 350,962,36,1
+1990.0,2008,150000,Toyota,camry hybrid,588,60,0
+4050.0,2020,114384,BMW,4series 430i gran,200,6,0
+5000.0,2007,155808,BMW,3series xi 6speed,181,6,0
+7500.0,2016,100689,Honda,civic ex,692,21,0
+8999.0,2014,105788,Hyundai,equus signature,1017,24,0
+2075.0,2016,110348,Ford,explorer,1045,17,1
+6500.0,2012,137000,Toyota,camry,578,60,0
+9990.0,2014,107526,Acura,ilx 20l,1208,1,0
+1225.0,2009,148556,Toyota,corolla,773,60,1
+1950.0,2005,142000,Mercedes-Benz,cclass,614,36,0
+4401.0,2011,73500,Honda,accord exl leather sunroof,441,21,1
+5000.0,2015,115595,BMW,3series i,175,6,0
+14000.0,2008,139000,Audi,rs4 quattro,1668,3,1
+10500.0,2017,110102,Lincoln,continental,752,31,1
+910.0,2007,126589,Mercedes-Benz,cclass 25l,616,36,0
+7200.0,2018,108832,Honda,accord exl navi 15t one,442,21,0
+6000.0,2015,121220,Toyota,camry hybrid,588,60,1
+5250.0,2005,95553,Chrysler,300 series,109,11,0
+510.0,2006,181448,Toyota,camry,578,60,0
+5750.0,2017,102917,Kia,optima lx,1532,28,0
+20000.0,2025,3000,Honda,civic hybrid,700,21,0
+2000.0,2005,181950,Honda,accord ex,437,21,0
+2800.0,2003,79200,Jaguar,stype,1933,26,0
+4200.0,2003,173910,Lincoln,town car,1994,31,1
+2700.0,2000,160040,BMW,5series i automatic,256,6,0
+8350.0,2011,87408,Dodge,charger pursuit extremely 57 hemi ho,662,15,0
+5750.0,2015,171000,Honda,accord lx,447,21,0
+13000.0,2014,67231,Lexus,es 350,1020,30,0
+8995.0,2008,83000,Audi,a8 l quattro,423,3,0
+12499.0,2021,56827,Honda,civic,691,21,0
+14500.0,2007,34569,Infiniti,m35 one with options pristine,1358,25,0
+8800.0,2021,57721,Hyundai,elantra sel,1004,24,0
+22900.0,2016,22850,Maserati,quattroporte s 1 florida car,1627,33,0
+33000.0,2000,74000,BMW,m5 base,1361,6,0
+9990.0,2017,154246,Dodge,charger sxt,685,15,0
+18990.0,2015,26100,Maserati,quattroporte s q4,1629,33,0
+5000.0,2016,123296,Nissan,sentra s,1842,42,0
+17900.0,2005,127388,Cadillac,cts sdn,880,9,0
+9600.0,2019,40909,Mercedes-Benz,cclass,614,36,0
+22900.0,2019,61195,Audi,a6,384,3,0
+10000.0,2019,138000,Cadillac,xts,2105,9,0
+45000.0,2018,20573,Cadillac,atsv,500,9,0
+7499.0,2012,103777,Infiniti,g25 x,1117,25,0
+19950.0,2003,28681,Lincoln,town car executive,2001,31,0
+24788.0,2016,62062,Mercedes-Benz,amg 4matic,485,36,0
+84999.0,2021,30918,Mercedes-Benz,sclass s580 huge upgrades lustrous wheels 1,1822,36,0
+3900.0,2009,97102,Volkswagen,jetta s 5m,1267,61,0
+6449.0,2009,75311,Toyota,yaris,2119,60,0
+15980.0,2015,138999,Audi,a8 30l tdi,413,3,0
+2999.0,2007,105346,Hyundai,elantra gls,996,24,1
+23419.0,2013,83994,BMW,m5,1360,6,0
+9500.0,2002,182000,Audi,s8 quattro,1751,3,0
+8990.0,2017,122279,Ford,fusion titanium hybrid,1113,17,0
+7900.0,2013,93000,BMW,328i xdrive 328i xdrive awd,145,6,0
+24900.0,2015,69810,Mercedes-Benz,sclass s550,1807,36,0
+13900.0,2022,33738,Subaru,legacy,1307,57,0
+14500.0,2024,75,Chevrolet,malibu 1fl,1382,10,0
+8500.0,2009,500,Honda,accord exl,440,21,0
+11995.0,2012,98036,Audi,a8 40t quattro top bkcam ac seats,416,3,0
+19995.0,2018,114132,BMW,540i 540i,230,6,0
+79800.0,2019,25969,Audi,rs 3 25t quattro fully built 1000hp over in upgr,1660,3,0
+11858.0,2023,31312,Honda,accord lx,447,21,0
+9000.0,2016,125115,Ford,fusion plugin hybrid titanium,1105,17,0
+5778.0,2012,87930,Hyundai,46l v8 pearl white,196,24,0
+3250.0,2007,169350,Toyota,yaris,2119,60,0
+5800.0,2011,156000,Cadillac,luxury,1345,9,0
+7100.0,2022,21000,BMW,m3 competition,1351,6,1
+4000.0,2016,145554,BMW,3series i sulev,177,6,0
+7900.0,2019,43253,Nissan,sentra,1837,42,0
+24800.0,2016,122371,Porsche,panamera 4,1539,47,0
+9400.0,2014,82167,BMW,528i 528i,219,6,0
+13500.0,2007,68291,Mercedes-Benz,s550 s 550,1712,36,0
+14900.0,2022,74625,Honda,civic,691,21,0
+5900.0,2017,136547,Nissan,versa 16 sv,2039,42,0
+13593.0,2012,25265,Toyota,camry handicap controls corolla 1owner,587,60,0
+4000.0,2010,117830,Maserati,quattroporte,1618,33,0
+57450.0,2022,20432,Tesla,model s plaid,1499,59,0
+7800.0,2008,105331,Honda,accord exl v6,443,21,0
+18775.0,2009,23400,Mercedes-Benz,clsclass cls550 amg,741,36,0
+39999.0,2015,39272,Audi,a8 l 30 quattro tdi lwb texas car turbo diesel,417,3,0
+16000.0,2018,52000,BMW,3series xi,180,6,0
+15500.0,2018,56700,Maserati,ghibli s delivery call 7863283187,1148,33,0
+39950.0,2005,63100,Subaru,wrx,2051,57,0
+1150.0,2016,104040,Cadillac,xts luxury collection,2110,9,1
+17995.0,2020,64526,Acura,tlx 35 wtechnology pkg,1981,1,0
+9995.0,2010,61240,BMW,3series 328i in,164,6,0
+13460.0,2023,45158,Kia,rio s,1644,28,0
+22499.0,2021,67369,Kia,k5 line,1279,28,0
+14999.0,2018,108263,Honda,accord,433,21,0
+6999.0,2015,64755,Nissan,versa sv,2043,42,0
+23133.0,2021,63408,BMW,3series 330i,169,6,0
+4000.0,2015,122854,Nissan,sentra sr,1844,42,0
+17785.0,2019,78976,Acura,tlx 23999999999999999,1976,1,0
+20295.0,2021,55439,Subaru,wrx,2051,57,0
+9495.0,2016,113407,Audi,a3 quattro 20t,350,3,0
+6999.0,2010,140718,Ford,taurus,1945,17,0
+9250.0,2013,125524,Honda,civic exl,694,21,0
+19995.0,2022,88321,Toyota,camry,578,60,0
+17995.0,2024,57732,Chevrolet,malibu lt w1lt,1387,10,0
+14632.0,2022,54696,Kia,forte lxs,1092,28,0
+11995.0,2020,100109,Nissan,sentra s,1842,42,0
+13350.0,2018,56394,Volkswagen,passat 20t,1570,61,0
+14900.0,2015,62604,Maserati,ghibli s q4,1150,33,0
+9375.0,2014,76420,Volvo,s60 t5 premier,1737,62,0
+17995.0,2019,91574,Dodge,charger sxt,685,15,0
+27995.0,2023,57673,Audi,a6 quattro 45,403,3,0
+20000.0,2020,55961,Kia,forte line,1089,28,0
+5499.0,2016,109909,Hyundai,elantra,995,24,0
+8999.0,2015,120619,Lincoln,mks base,1444,31,0
+24795.0,2024,38898,Toyota,camry,578,60,0
+14995.0,2020,59256,Hyundai,accent,431,24,0
+52495.0,2022,69370,Mercedes-Benz,sclass s500,1806,36,0
+16181.0,2020,59380,Volkswagen,jetta sel,1270,61,0
+19250.0,2024,35970,Nissan,altima 25 sv,472,42,0
+15280.0,2021,56836,Kia,forte,1086,28,0
+20950.0,2023,41839,Toyota,corolla,773,60,0
+64900.0,2018,26628,Porsche,panamera 4s,1543,47,0
+4500.0,2008,103448,Ford,taurus sel,1953,17,0
+78999.0,2023,43157,BMW,m8 competition,1369,6,0
+5500.0,2017,156943,Chevrolet,cruze premier,830,10,0
+25999.0,2024,33429,Honda,accord ex,437,21,0
+7995.0,2017,141679,Hyundai,elantra,995,24,0
+9750.0,2019,110650,Hyundai,sonata,1889,24,0
+7995.0,2012,107009,Mercedes-Benz,c300 c300 4matic,566,36,0
+11170.0,2018,75852,Kia,optima sx,1534,28,0
+89999.0,2023,10496,Mercedes-Benz,s580 s 580,1721,36,0
+27650.0,2021,40639,Honda,accord touring 20t,453,21,0
+10495.0,2013,130537,Infiniti,g37 g37 journey,1121,25,0
+8355.0,2009,130359,Honda,civic exl,694,21,0
+7999.0,2017,164129,Nissan,maxima sv,1422,42,0
+18995.0,2021,58401,Honda,civic lx,704,21,0
+15795.0,2023,55970,Nissan,altima 25 s,467,42,0
+12995.0,2019,74521,Hyundai,elantra,995,24,0
+18932.0,2019,49112,Subaru,legacy 25i,1308,57,0
+8000.0,2014,98000,Audi,a6 plus,393,3,0
+9995.0,2016,105799,Mercedes-Benz,claclass awd 20t cla 250 4matic,722,36,0
+5999.0,2019,93463,Kia,rio s,1644,28,0
+3000.0,2007,135730,Subaru,impreza wrx,1234,57,1
+1900.0,2010,186000,Ford,focus,1082,17,0
+41995.0,2018,23853,Mercedes-Benz,sclass s 560,1792,36,0
+9990.0,2022,46164,Toyota,mirai,1441,60,0
+9900.0,2018,52446,BMW,3series,159,6,0
+8500.0,2016,135710,Dodge,charger pursuit,661,15,0
+8450.0,2009,81779,Saab,93 xwd 20 turbo,337,53,0
+8000.0,2018,107970,Nissan,altima 25,464,42,0
+6995.0,2005,72000,Mercedes-Benz,c240 c 240,557,36,0
+16995.0,2012,93455,Porsche,panamera luxury seats hwy,1549,47,0
+5500.0,2010,94000,Mini,clubman,745,38,0
+14500.0,2009,145500,Pontiac,g8,1130,46,0
+8400.0,2014,100818,Ford,taurus police interceptor awd,1952,17,0
+10495.0,2010,62585,Mercedes-Benz,eclass e 350 luxury bkcam nic,967,36,0
+13973.0,2012,83955,Mercedes-Benz,sclass s550,1807,36,0
+27595.0,2019,58075,Subaru,wrx sti,2054,57,0
+37950.0,2018,41747,Maserati,quattroporte gts,1621,33,0
+3200.0,2006,143303,Chevrolet,impala lt,1217,10,0
+17999.0,2018,65500,Toyota,camry,578,60,0
+5500.0,2017,102000,Toyota,2017 toyota,53,60,1
+16999.0,2018,103884,Cadillac,cts 36 luxury,865,9,0
+13900.0,2014,25556,Chrysler,300 series black on black immaculate condition,115,11,0
+49995.0,2018,49998,BMW,m3,1349,6,0
+8995.0,2013,99375,Mercedes-Benz,e350 e 350,933,36,0
+31499.0,2015,62907,Porsche,panamera s e hybrid carrera red seats,1553,47,0
+5591.0,2001,61110,Jaguar,stype only non smoker xj8 xf,1935,26,0
+10990.0,2019,118251,Ford,fusion plugin hybrid titanium,1105,17,0
+14286.73,2023,28580,Subaru,wrx,2051,57,1
+45500.0,2017,62000,Chevrolet,ss,1917,10,0
+1200.0,2011,156544,Ford,fiesta,1054,17,0
+24999.0,2021,47500,Acura,tlx 20 waspec pkg,1975,1,0
+35995.0,2007,32381,Bentley,continental flying spur,755,7,0
+25999.0,2003,27720,Lincoln,town car cartier only vinyl 2 owners,1997,31,0
+37895.0,2020,37007,Lincoln,continental black label,754,31,0
+5600.0,2014,95482,Dodge,charger police,659,15,0
+29990.0,2018,14772,Lexus,is300 300,1244,30,0
+30000.0,2014,89000,BMW,m5,1360,6,0
+6995.0,2015,136953,Hyundai,sonata,1889,24,0
+4550.0,2023,27119,Tesla,model 3 model 3 luxurynavigation panoramic,1467,59,1
+15950.0,2011,90150,BMW,5series i,255,6,0
+15250.0,2007,40292,Mercedes-Benz,sclass,1766,36,0
+810.0,2007,123936,BMW,3series 335i,171,6,1
+25000.0,2016,68000,Mercedes-Benz,cclass,614,36,0
+29999.0,2020,58400,Cadillac,ct5v base awd,847,9,0
+21000.0,2014,96500,Jaguar,xjr,2102,26,0
+4000.0,2019,53880,Lexus,300 awd luxury,104,30,0
+18999.0,2007,192000,Acura,tl type s,1974,1,0
+11900.0,2018,68177,Infiniti,q50,1600,25,0
+2500.0,2009,155000,Nissan,altima,462,42,0
+6950.0,2013,86000,Tesla,model s,1482,59,0
+6980.0,2016,120873,Toyota,corolla l gas saver texas car call 8329977836,784,60,0
+21995.0,2013,107500,Porsche,panamera s,1552,47,0
+17995.0,2024,17134,Subaru,legacy awdeyesight driver assist technology116 screen,1313,57,0
+4555.0,2015,122934,Chevrolet,cruze 1lt w1sd,822,10,0
+16900.0,2006,100378,Bentley,continental flying spur awd,756,7,0
+44990.0,2017,80971,BMW,m3,1349,6,0
+15495.0,2014,112559,Audi,s4 plus,1700,3,0
+14858.0,2024,19573,Subaru,wrx base,2052,57,0
+48995.0,2016,36986,Cadillac,cts ctsv cts v ctsv charger amg m3 m5 100 ship,873,9,0
+12995.0,2012,69669,Acura,tl shawd technologytop of the line,1973,1,0
+17590.0,2015,62530,Infiniti,q70l l 37,1617,25,0
+9458.0,2014,37095,Toyota,corolla l,782,60,0
+19750.0,2018,26908,Ford,taurus awd,1946,17,0
+9900.0,2013,93483,Chevrolet,caprice ppv,607,10,0
+4950.0,2009,144676,Toyota,corolla,773,60,0
+4000.0,2013,114688,Volkswagen,passat sel,1578,61,0
+19000.0,2021,57800,Tesla,model 3,1456,59,0
+14890.0,2011,80398,Mercedes-Benz,s550 s 550 4matic,1713,36,0
+16900.0,2021,38459,Toyota,camry,578,60,0
+12995.0,2017,58229,Mercedes-Benz,claclass awd 20t cla 250 4matic turbo,723,36,0
+14995.0,2015,77328,Lexus,gs350 gs 350,1192,30,0
+18000.0,2025,1825,Nissan,altima 25 sv,472,42,0
+7900.0,2017,84527,Volkswagen,jetta 14t s,1250,61,0
+6000.0,2013,134200,Jaguar,xf,2062,26,0
+15500.0,2019,84000,Honda,pilot exl awd delivery call 7863283187,1592,21,0
+14990.0,2018,123630,Chrysler,300 series 300s,112,11,0
+39773.0,2011,87980,BMW,m3,1349,6,0
+14500.0,2021,65333,Honda,civic,691,21,0
+7495.0,2011,129036,Toyota,corolla s with efficient 4cylinder,791,60,0
+5595.0,2003,38500,Saturn,ion one non smoke,1241,54,0
+21973.0,2017,87762,BMW,750i i,295,6,0
+11595.0,2012,126615,Subaru,impreza wrx,1234,57,0
+5000.0,2014,132600,Nissan,sentra s,1842,42,0
+11712.0,2000,157351,BMW,m5,1360,6,1
+36800.0,2016,71177,Mercedes-Benz,c63 amg s s,575,36,0
+1000.0,2000,120000,Audi,a4 18t quattro,355,3,0
+13999.0,2014,86442,Honda,accord,433,21,0
+25899.0,2021,40497,Mercedes-Benz,cla250 cla 250,719,36,0
+5800.0,2010,151283,Honda,civic vp 5a,716,21,0
+8495.0,2008,63253,Cadillac,dts heated seatssteering wheel ventilated seats,922,9,0
+12995.0,2015,126170,Audi,s3 quattro 20t prestige,1695,3,0
+8150.0,2019,79396,Mercedes-Benz,a220 a 220,344,36,0
+12998.0,2013,80709,BMW,335i 335i,149,6,0
+54990.0,2015,45710,Bentley,flying spur w12 21 inch wheels front and rear heated and ve,1081,7,0
+21953.0,2024,8150,Bentley,flying spur azure,1073,7,1
+10500.0,2011,97700,Mercedes-Benz,eclass 550,952,36,0
+16999.0,2019,95000,Honda,accord 15t i4 cvt,434,21,0
+7995.0,2014,103943,Volkswagen,cc 20t rline,612,61,0
+2394.0,2012,153702,Honda,accord lx,447,21,1
+25990.0,2013,89232,Porsche,panamera gts awd 48l v8 gas burmester sound system,1547,47,0
+9973.0,2006,83952,Mercedes-Benz,s500 s500,1709,36,0
+14500.0,2019,103878,Mercedes-Benz,cclass polar white apple carplay luxury tech ship,636,36,0
+15299.0,2002,50133,Lincoln,town car cartier same for 15 years,1998,31,0
+20499.0,2022,103559,Honda,accord,433,21,0
+9000.0,2007,182658,BMW,3series 335i,171,6,0
+34000.0,2019,44195,Tesla,model s long range awd liftback,1491,59,0
+20900.0,2020,60374,Cadillac,ct4 luxury,835,9,0
+71995.0,2018,42329,Bentley,bentayga onyx,542,7,0
+19995.0,2016,86000,Mercedes-Benz,s550 s 550,1712,36,0
+43800.0,2015,7557,Mitsubishi,evolution gsr,1039,39,0
+20990.0,2014,72704,Audi,s6 40t quattro,1727,3,0
+16099.0,2021,54811,Volkswagen,passat,1561,61,0
+3500.0,2013,139700,Nissan,sentra sr push 2 start navi runs drives perfect,1845,42,1
+37900.0,2022,62081,BMW,8series m850i xdrive gran,336,6,0
+10995.0,2012,91033,BMW,550i 550i,233,6,0
+21995.0,2022,69920,Dodge,charger sxt,685,15,0
+15900.0,2015,84265,Maserati,quattroporte s q4 awd,1630,33,0
+25800.0,2018,63900,BMW,750i 750i,294,6,0
+5000.0,2017,89408,Chevrolet,impala ls,1216,10,0
+13700.0,2013,127090,Chevrolet,caprice police,606,10,0
+11995.0,2015,103875,Hyundai,genesis 38,1140,24,0
+15500.0,2014,110979,Mercedes-Benz,sclass 550,1774,36,0
+4000.0,2009,92000,Nissan,altima hybrid,478,42,0
+27000.0,2020,62239,Kia,stinger,1926,28,0
+88999.0,2021,9299,Mercedes-Benz,sclass s580 4matic lots of upgades only,1819,36,0
+15990.0,2016,42238,Infiniti,q70 deluxe touring,1615,25,0
+18995.0,2019,41748,Genesis,g70 20t advanced,1126,19,0
+5900.0,2001,121984,Mercedes-Benz,sclass s500,1806,36,0
+6195.0,2009,111050,BMW,535i 535i,226,6,0
+17999.0,2015,39712,Lexus,es350 es 350,1035,30,0
+8600.0,2005,50215,Cadillac,deville,910,9,0
+35900.0,2003,36823,Bentley,arnage r,490,7,0
+12999.0,2013,86553,Lexus,es 350,1020,30,0
+8999.0,2006,121189,Honda,accord exl,440,21,0
+11990.0,2018,71192,Ford,fusion,1098,17,0
+20995.0,2024,41636,Hyundai,sonata sel,1904,24,0
+9000.0,2017,113148,Kia,optima lx,1532,28,0
+22995.0,2020,47040,Cadillac,ct5 luxury,842,9,0
+9990.0,2019,158000,Hyundai,sonata,1889,24,0
+8800.0,2016,67500,Acura,ilx base watch plus,1210,1,0
+3750.0,2011,151000,Dodge,charger rt,663,15,0
+2900.0,2012,82250,Mercedes-Benz,eclass e 350 4matic,963,36,0
+24395.0,2022,31268,BMW,2series 228i xdrive,71,6,0
+25995.0,2004,14785,BMW,545i,232,6,0
+18000.0,2014,112800,Lexus,gs f with dynamic handling,1187,30,0
+7800.0,2005,66711,Cadillac,cts,859,9,0
+5995.0,2008,163786,Toyota,avalon xl hwy in,509,60,0
+14399.0,2019,67421,Buick,lacrosse essence,1291,8,0
+39900.0,2019,29500,Cadillac,ct6,851,9,0
+13950.0,2025,29800,Mazda,3 hatchback 25 s select automatic,79,35,0
+2995.0,2011,144597,Kia,forte ex with bluetooth and dark cherry finish,1088,28,0
+2825.0,2012,157000,BMW,3series i,175,6,1
+9995.0,2018,61425,Chevrolet,cruze aveo non smoker malibu,823,10,0
+17500.0,2021,34500,Honda,accord exl w delivery call 7863283187,444,21,0
+15684.0,2014,147145,Lexus,gs350 base,1190,30,0
+12500.0,2008,105851,Lexus,ls 460,1317,30,0
+8000.0,2013,99302,Hyundai,sonata gls,1896,24,0
+23800.0,2015,79948,Mercedes-Benz,sclass s 550,1789,36,0
+6990.0,2015,157818,Honda,exl,1043,21,0
+13900.0,2018,21789,Cadillac,ats luxury,499,9,0
+17497.0,2018,34500,Audi,a4 quattro 20t quattro plus awd 7a,370,3,0
+6800.0,2010,182000,Lexus,es,1018,30,0
+13000.0,2020,103064,Volkswagen,jetta 14t s,1250,61,0
+90000.0,2016,32000,Bentley,mulsanne speed,1510,7,0
+8997.0,2009,54190,Toyota,corolla only one camry matrix prius,785,60,0
+15990.0,2014,83142,Mercedes-Benz,cls550 cls 550,733,36,0
+15900.0,2018,125000,Tesla,model 3,1456,59,0
+13900.0,2020,78829,Honda,accord,433,21,0
+31990.0,2023,9103,Genesis,g70 20t,1125,19,0
+23000.0,2005,183600,Mitsubishi,lancer evolution,1296,39,0
+93990.0,2023,27462,Audi,rs7 40t quattro rs design package black optic packa,1674,3,0
+5995.0,2009,117594,BMW,535i 535i,226,6,0
+12995.0,2022,74762,Kia,forte lxs,1092,28,0
+12400.0,2022,36289,Toyota,corolla,773,60,0
+21999.0,2021,28063,Toyota,camry,578,60,0
+8950.0,2018,48695,Ford,fusion,1098,17,0
+8999.0,2009,160000,Lexus,es350 es 350,1035,30,0
+4995.0,2007,117828,Lincoln,mkzzephyr,1451,31,0
+12900.0,2018,66192,Mercedes-Benz,cclass,614,36,0
+8000.0,2009,163062,Honda,accord exl,440,21,0
+8888.0,2004,55614,Volvo,s80 29,1753,62,0
+41973.0,2019,93002,BMW,alpina b7,461,6,0
+12900.0,2018,43507,Nissan,maxima,1409,42,0
+63980.0,2011,53438,Bentley,mulsanne,1507,7,0
+9995.0,2013,75669,Jaguar,xf 20t turbocharged,2065,26,0
+48000.0,2024,8452,Audi,rs 3 25 tfsi,1657,3,0
+16995.0,2017,73188,Subaru,wrx,2051,57,0
+19488.0,2018,100355,Audi,s4 plus,1700,3,0
+18750.0,2020,64229,Acura,tlx waspec pkg red leather,1990,1,0
+15795.0,2018,76425,Dodge,charger awd 57l v8 hemi police,654,15,0
+11990.0,2015,83306,Mercedes-Benz,c300 c 300 4matic,562,36,0
+6900.0,2011,142600,BMW,3series,159,6,0
+15995.0,2017,66229,Jaguar,xe xe 20d r,2061,26,0
+1500.0,2006,153570,Cadillac,cts hi feature v6,874,9,1
+7950.0,2010,101053,Mercedes-Benz,eclass,943,36,0
+13500.0,2004,20254,Jaguar,xtype 30,2116,26,0
+10900.0,2014,41327,Audi,a4 plus,363,3,0
+16895.0,2024,6284,Subaru,legacy,1307,57,0
+5490.0,2012,144702,Nissan,sentra 20 sr,1840,42,0
+13999.0,2017,119454,Toyota,camry,578,60,0
+16500.0,2016,89000,Lexus,es 350,1020,30,0
+9500.0,2013,154000,Dodge,charger rt plus,665,15,0
+21999.0,2019,24800,Lincoln,continental select,765,31,0
+10995.0,2014,73656,Volkswagen,jetta gli 6spd,1261,61,0
+3995.0,2014,158229,Kia,forte lx 6a,1091,28,0
+7495.0,2011,110378,Buick,lucerne cxl gorgeous heated seats and steering wheel 1,1337,8,0
+6500.0,2008,195945,Lexus,ls,1316,30,0
+5000.0,2013,132000,Hyundai,elantra gls,996,24,0
+39900.0,2010,32385,Bentley,continental flying spur florida car,757,7,0
+14300.0,2022,46798,Tesla,model 3 base,1458,59,0
+7100.0,2015,114000,Mazda,6,261,35,0
+19800.0,2019,98536,BMW,3series 330i xdrive,170,6,0
+24989.0,2021,22924,Tesla,model 3 standard range plus,1473,59,1
+3900.0,2013,139000,Chevrolet,sonic lt,1907,10,0
+14991.0,2014,109171,Lexus,ls460 ls 460,1330,30,0
+41999.0,2013,21491,BMW,7series alpina b7 lwb xdrive 1 california car,321,6,0
+21788.0,2015,65919,BMW,5series 550i xdrive m executive 3owner 65919 serviced,254,6,0
+5100.0,2018,111826,Mercedes-Benz,4 matic maybach,183,36,0
+10497.0,2018,120479,Nissan,altima 25 sr,471,42,0
+18500.0,2013,94720,Chevrolet,caprice police,606,10,0
+11995.0,2018,82851,Ford,fusion,1098,17,0
+11990.0,2015,94975,BMW,535i 535i,226,6,0
+12800.0,2017,177130,Audi,a4 20t quattro,358,3,0
+42899.0,2022,34854,BMW,745e xdrive 745e xdrive,293,6,0
+24890.0,2023,40642,Tesla,model 3 standard,1471,59,0
+8500.0,2014,92463,BMW,320i 320i,138,6,0
+11166.0,2018,25023,Nissan,maxima 35 sl,1411,42,0
+8999.0,2013,79800,Hyundai,elantra,995,24,0
+10695.0,2011,74425,Mercedes-Benz,eclass e 350 luxury bkcam,966,36,0
+13777.0,2013,93123,Lexus,es350 es 350,1035,30,0
+12999.0,2013,99776,Lexus,es350,1032,30,0
+43991.0,2021,51188,Dodge,charger scat pack widebody 1 exhaust back up camera,671,15,0
+12000.0,2017,98600,Tesla,model s,1482,59,1
+18999.0,2006,46459,Chrysler,300 series srt 8 61l v8 upgd radio,120,11,0
+22015.0,2024,7972,Volvo,s60 b5 core dark theme,1731,62,1
+32500.0,2011,5500,Jaguar,xf xfr supercharged 5500 original,2074,26,0
+9500.0,2022,101957,Nissan,sentra,1837,42,0
+15995.0,2007,85808,Mercedes-Benz,sclass s600 55l v12 amg,1824,36,0
+13900.0,2023,47512,Nissan,altima,462,42,0
+7780.0,2022,53499,Tesla,model 3 standard,1471,59,0
+45000.0,2012,45500,Bentley,continental flying spur,755,7,0
+11900.0,2017,58685,Audi,a4,354,3,0
+34995.0,2018,67147,Maserati,quattroporte s q4 granlusso,1631,33,0
+11000.0,2008,89659,Audi,s4 42l v8 quattro,1699,3,0
+10490.0,2022,36197,Toyota,mirai,1441,60,0
+20250.0,2022,17511,Subaru,wrx,2051,57,0
+24990.0,2016,55347,BMW,750i xdrive 750i xdrive,296,6,0
+21900.0,2023,9200,Infiniti,q50 luxe,1610,25,0
+20990.0,2021,55191,Tesla,model 3 standard range plus,1473,59,0
+16998.0,2019,88554,BMW,330i 330i,147,6,0
+16900.0,2007,64669,Mercedes-Benz,s550 flagship only 64713 original fully,1711,36,0
+24590.0,2014,67048,Lexus,ls460 ls 460,1330,30,0
+20000.0,2014,82000,Mercedes-Benz,sclass 4 matic,1769,36,1
+59500.0,2016,36900,Tesla,model s sdn awd 90d,1500,59,0
+23900.0,2018,126385,Tesla,model 3 long range battery awd,1464,59,0
+10700.0,2015,93000,Ford,taurus police interceptor,1951,17,0
+11550.0,2016,81089,Mercedes-Benz,eclass e 350,962,36,0
+2500.0,2000,81419,Mercedes-Benz,sclass 430,1771,36,0
+34995.0,2016,73184,Audi,rs7 prestige,1677,3,0
+30000.0,2006,99750,Mitsubishi,lancer evolution 9,1297,39,0
+18500.0,2021,27700,Cadillac,ct4 prem luxury delivery call 7863283187,836,9,0
+11700.0,2018,113000,Ford,taurus police interceptor,1951,17,0
+11995.0,2019,105855,Ford,fusion,1098,17,0
+56171.25,2023,45568,BMW,7series 760i xdrive,318,6,0
+10858.0,2023,26574,Subaru,wrx,2051,57,0
+20250.0,2020,66700,Tesla,model 3 standard range plus,1473,59,0
+5999.0,2005,135896,Subaru,outback 30 r,1535,57,0
+14995.0,2013,92073,Lexus,gs350 gs 350,1192,30,0
+13900.0,2021,45893,Ford,edge,982,17,0
+2500.0,2009,152300,Hyundai,elantra gls,996,24,0
+23495.0,2019,35687,Infiniti,q50 30t luxe,1604,25,0
+33749.0,2020,45665,BMW,740i 740i,291,6,0
+64999.0,2024,16796,Audi,s6 29t plus,1724,3,0
+13900.0,2018,40249,Infiniti,q50,1600,25,0
+12995.0,2009,76821,Lexus,250,63,30,0
+22120.0,2025,12806,Mazda,3 25 s preferred package,77,35,0
+17400.0,2016,73437,BMW,5series 550i gran turismo xdrive,252,6,0
+2995.0,2012,115375,Volvo,s60 t5 salvage,1739,62,0
+11995.0,2014,80527,Jaguar,xj supercharged 30l,2079,26,0
+15750.0,2015,120000,BMW,3series xi,180,6,0
+25000.0,2014,189534,Subaru,impreza wrx,1234,57,0
+75472.0,2023,16306,BMW,m3 base,1350,6,0
+1400.0,2005,166719,Mercedes-Benz,eclass,943,36,0
+3050.0,2016,82342,BMW,7series 750i xdrive,311,6,0
+28900.0,2006,24578,Bentley,continental flying spur,755,7,0
+9900.0,2019,84762,Infiniti,q50,1600,25,0
+4995.0,2015,59011,Audi,a3 18t s tronic salvage,348,3,0
+6997.0,2006,76515,Mercedes-Benz,cclass c280 4matic awd e350 230 240,629,36,0
+39500.0,2025,9400,Tesla,model 3,1456,59,0
+13795.0,2011,74365,Audi,s4 30t quattro prestige,1698,3,0
+9900.0,2018,74512,Ford,taurus,1945,17,0
+2450.0,2004,36354,Hyundai,sonata gls,1896,24,0
+12500.0,2016,65000,Volkswagen,jetta,1247,61,0
+8997.0,2004,49395,Toyota,matrix one 5speed with only no,1408,60,0
+5995.0,2007,187038,Toyota,corolla ce,778,60,0
+8500.0,2013,185000,Chrysler,300 s,106,11,1
+22000.0,2013,66800,BMW,m5,1360,6,0
+15998.0,2018,73728,BMW,430i gran 430i gran,194,6,0
+5995.0,2001,66103,Mercury,grand marquis ls florida,1182,37,0
+520.0,2007,146329,Mercedes-Benz,eclass e350 4matic,974,36,0
+13923.0,2015,81838,Maserati,ghibli s q4,1150,33,0
+6990.0,2014,137943,Chrysler,300 series 300,110,11,0
+7395.0,2016,74861,Chevrolet,sonic rs,1909,10,0
+7000.0,2017,168633,Volkswagen,jetta,1247,61,0
+42900.0,2024,7557,BMW,5series,238,6,0
+23000.0,2022,62036,Audi,a4 s line plus,377,3,0
+14995.0,2002,47032,Lincoln,town car executive,2001,31,0
+41995.0,2019,39762,Dodge,charger rt scat pack widebody modified,668,15,0
+42900.0,2009,19325,Bentley,continental flying spur speed,760,7,0
+11900.0,2020,39166,Nissan,sentra,1837,42,0
+18995.0,2021,95521,Cadillac,ct4 luxury,835,9,0
+31995.0,2014,91220,Audi,rs 7 40t quattro prestige,1662,3,0
+6500.0,2014,155250,Chevrolet,caprice ppv,607,10,0
+15995.0,2018,99106,Subaru,wrx,2051,57,0
+9995.0,2017,165501,Toyota,camry,578,60,0
+7900.0,2015,136304,Volkswagen,passat passat tdi vw turbo diesel moonroof,1574,61,0
+4250.0,2013,180745,BMW,3series,159,6,0
+19900.0,2018,150929,Tesla,model 3 long range battery awd,1464,59,0
+9995.0,2005,83500,Buick,lesabre,1314,8,0
+2500.0,2015,150000,Honda,civic lx,704,21,0
+3299.0,2005,139587,Toyota,camry,578,60,0
+4995.0,2012,136500,Hyundai,sonata gls,1896,24,0
+16995.0,2006,29308,Subaru,impreza wrx sti,1235,57,0
+1025.0,2010,74927,Volkswagen,cc luxury just,613,61,0
+1000.0,2000,188000,Honda,civic jdm k20a itr swap type r interior air ride,703,21,0
+29595.0,2014,78284,Mitsubishi,lancer evolution gsr,1298,39,0
+14500.0,2018,74000,Honda,accord,433,21,0
+5000.0,2007,45921,Lincoln,town car signature,2008,31,0
+21995.0,2007,71545,Bentley,continental sdn,764,7,0
+37500.0,2023,21000,Cadillac,ct5v base,846,9,0
+8000.0,2014,178000,BMW,3series i,175,6,0
+23869.0,2010,84003,Porsche,panamera hb turbo,1548,47,0
+3900.0,2013,132661,BMW,3series xi sulev,182,6,1
+6800.0,2010,184000,Honda,accord exl,440,21,0
+689.0,2001,143533,Honda,civic,691,21,1
+9900.0,2007,64700,Jaguar,xj8 l,2101,26,0
+69990.0,2006,54051,Rolls-Royce,phantom,1582,52,0
+24595.0,2010,75610,Mitsubishi,lancer evolution,1296,39,0
+9990.0,2001,44290,Cadillac,lcw limousine conversion,1306,9,0
+15000.0,2017,15000,Mercedes-Benz,clsclass 550 4matic,737,36,0
+45999.0,2014,35484,Porsche,panamera turbo executive awd rare upgraded screen,1557,47,0
+6500.0,2004,47800,Hyundai,elantra,995,24,0
+15950.0,2016,59100,Honda,accord lx,447,21,0
+48999.0,2018,85354,Porsche,panamera turbo,1556,47,0
+13995.0,2020,103257,Ford,fusion titanium awd,1112,17,0
+8995.0,2014,36889,Buick,verano 24l leather groupnicely optioned,2033,8,0
+17000.0,2018,54350,Dodge,charger police,659,15,0
+9991.0,2016,116124,Chrysler,300c 300c,128,11,0
+25000.0,2007,26000,Dodge,charger srt8,684,15,0
+7900.0,2008,150400,Mercedes-Benz,eclass 320 cdi,945,36,0
+6995.0,2014,137943,Chrysler,300 300,97,11,0
+18999.0,2014,99680,BMW,7series alpina b7 li,320,6,0
+13900.0,2023,61203,Hyundai,sonata,1889,24,0
+23698.0,2022,42905,Honda,accord,433,21,0
+8000.0,2016,63764,Chevrolet,impala,1212,10,0
+11700.0,2000,50662,Jaguar,stype 40 engine navi sunroof heated seats,1934,26,0
+14499.0,2016,101471,Toyota,avalon,504,60,0
+19990.0,2018,73361,BMW,7series 750i,310,6,0
+12999.0,2007,90101,Lexus,is250 250,1243,30,0
+37495.0,2024,25000,Audi,a6 quattro plus 55 tfsi quattro,409,3,0
+18950.0,2022,13700,Dodge,charger sxt awd,687,15,0
+12900.0,2022,53467,Nissan,altima,462,42,0
+19500.0,2022,18155,Toyota,corolla,773,60,0
+9990.0,2013,116143,BMW,640i gran,273,6,0
+26999.0,2021,37000,Cadillac,ct4v base awd,838,9,0
+15400.0,2001,41355,Cadillac,deville dhs pristine same 24 years amazing,914,9,0
+5900.0,2011,73985,Hyundai,sonata gls 6a,1897,24,0
+19995.0,2021,40229,Infiniti,q50 awd 30tt luxesunroof sensors,1607,25,0
+14500.0,2015,72128,Jaguar,xj,2075,26,0
+26995.0,2012,34119,Porsche,panamera awd hatchback 436l h6,1544,47,0
+28900.0,2007,83468,Maybach,57,236,34,0
+18950.0,2005,80018,Lincoln,town car signature l long mi serviced 50 pix ship,2009,31,0
+12990.0,2015,89305,BMW,535i 535i,226,6,0
+13499.0,2005,33533,Maserati,quattroporte recent service,1626,33,0
+19900.0,2020,30676,Genesis,g80 38,1131,19,0
+16500.0,2022,40200,Honda,civic hatchback exl cvt,699,21,0
+74999.0,2022,17729,BMW,m3,1349,6,0
+5995.0,2015,101021,Nissan,sentra sv,1846,42,0
+47999.0,2024,8635,BMW,i5 edrive40,1204,6,0
+7995.0,2014,135752,Audi,a6 plus quattro awd supercharged,395,3,0
+9995.0,2017,127863,Ford,fusion hybrid,1102,17,0
+4200.0,2014,139110,Chrysler,200 series touring,44,11,0
+19999.0,2012,115302,Porsche,panamera turbo s,1558,47,0
+9990.0,2019,72338,Toyota,mirai,1441,60,0
+11900.0,2013,58795,Toyota,corolla s only,788,60,0
+49995.0,2017,86136,Cadillac,ctsv,883,9,0
+18900.0,2021,72350,Hyundai,genesis,1138,24,0
+10000.0,2009,115000,Mercedes-Benz,clsclass,735,36,0
+12900.0,2010,44200,Mercedes-Benz,s400 s 400 hybrid,1704,36,0
+69999.0,2021,30478,Mercedes-Benz,sclass s580 huge msrp stunning wheels executive pkg,1820,36,0
+2995.0,2011,177478,Toyota,camry v4 rebuilt salvage,596,60,0
+17500.0,2022,12238,Tesla,model 3 long range awd,1462,59,0
+4999.0,2010,196956,Toyota,camry,578,60,0
+16993.0,2016,63450,Toyota,avalon 1owner only camry prius,505,60,0
+7997.0,2004,100550,Lincoln,town car ultimate,2015,31,0
+84950.0,2006,53522,Rolls-Royce,phantom,1582,52,0
+13900.0,2013,142706,Lexus,gs awd,1186,30,0
+6699.0,2015,103000,Mazda,3,75,35,0
+20999.0,2023,53998,Toyota,camry,578,60,0
+27000.0,2020,111500,Dodge,charger scat pack,669,15,0
+35995.0,2018,78580,Audi,rs 3 25t quattro,1659,3,0
+5499.0,2008,148231,Mercedes-Benz,c300 c 300 4matic,562,36,0
+38500.0,2021,47000,Mercedes-Benz,clsclass 450,736,36,0
+14900.0,2017,72772,Honda,accord 4 door,435,21,0
+1000.0,2012,183728,Nissan,altima base,477,42,1
+89499.0,2023,13439,BMW,m3 competition,1351,6,0
+65900.0,2015,21937,Bentley,flying spur w12,1080,7,0
+8795.0,2013,111043,BMW,328i xdrive 328i xdrive,144,6,0
+12495.0,2018,101078,Chevrolet,malibu lt,1386,10,0
+54990.0,2019,58158,BMW,m5,1360,6,0
+10490.0,2012,64551,BMW,328i 328i,142,6,0
+1495.0,2002,106546,Jaguar,stype salvage,1936,26,0
+18995.0,2020,79986,Toyota,camry,578,60,0
+6357.6,2008,72000,Honda,accord,433,21,0
+12325.0,2021,50127,Infiniti,q50 luxe,1610,25,1
+12995.0,2007,54633,Mercedes-Benz,cclass,614,36,0
+49995.0,2016,33146,Mercedes-Benz,sclass mercedesmaybach s 600,1783,36,0
+23990.0,2024,10781,Honda,ex,1040,21,0
+16995.0,2019,70360,Mercedes-Benz,c300 c 300,561,36,0
+25900.0,2018,58842,BMW,7series 750i xdrive,311,6,0
+29950.0,2005,81916,Subaru,impreza wrx sti,1235,57,0
+3940.0,2013,17959,Lexus,sdn 17959 1,1832,30,0
+16450.0,2018,89178,Tesla,model 3 long range,1460,59,0
+13900.0,2022,26477,Hyundai,sonata sel,1904,24,0
+16998.0,2020,96965,Infiniti,q50 30t luxe,1604,25,0
+8900.0,2018,79750,Chevrolet,cruze premier,830,10,0
+22000.0,2018,41800,BMW,5series xi,260,6,1
+29995.0,2015,76203,Audi,rs7 prestige,1677,3,0
+16980.0,2022,106254,Tesla,model 3 standard,1471,59,0
+18299.0,2018,21049,Tesla,model 3 long range millage,1466,59,0
+9997.0,2013,73749,Cadillac,ats 25l luxury,496,9,0
+87950.0,2019,8621,Cadillac,cts luxury package 640 horsepower recaro seats,878,9,0
+34895.0,2011,34874,Lexus,ls460 awd,1328,30,0
+54995.0,2020,70832,BMW,m5,1360,6,0
+13900.0,2025,29627,Chevrolet,malibu,1381,10,0
+11000.0,2011,131874,Chevrolet,caprice,599,10,0
+6978.0,2007,92618,Cadillac,dts,919,9,0
+14998.0,2016,79729,Hyundai,genesis 38,1140,24,0
+7900.0,2016,70470,Hyundai,elantra,995,24,0
+12450.0,2019,100013,Chevrolet,volt lt,2047,10,0
+7699.0,2019,51057,Ford,fiesta,1054,17,0
+16493.0,2011,95032,Subaru,impreza wrx sti,1235,57,0
+8900.0,2016,68927,BMW,3series,159,6,0
+9990.0,2019,104164,Ford,fusion hybrid,1102,17,0
+55000.0,2017,67900,BMW,m3,1349,6,0
+1000.0,2008,145000,Audi,a4 20t,356,3,1
+46665.0,2023,3330,Porsche,taycan,1956,47,1
+51900.0,2006,8936,Bentley,continental flying spur flying spur,758,7,0
+64999.0,2020,43559,Porsche,taycan turbo s,1963,47,0
+12895.0,2020,101632,Chevrolet,malibu lt,1386,10,0
+24000.0,2008,59008,Mercedes-Benz,s63 amg s 63 amg,1744,36,0
+7999.0,2016,132918,Ford,fusion,1098,17,0
+24991.0,2018,31355,Audi,s5 sportback prestige,1707,3,0
+7495.0,2016,43965,Nissan,versa sv,2043,42,0
+13490.0,2016,89180,BMW,535i 535i,226,6,0
+14800.0,2001,78137,Mercedes-Benz,sclass s 500 amg pkg 96545 msrp distronic rear po,1788,36,0
+2600.0,2013,127614,Ford,focus,1082,17,0
+15900.0,2019,14500,Ford,fusion,1098,17,0
+34995.0,2022,47034,Genesis,g70 33t launch,1128,19,0
+1750.0,2018,106740,Kia,optima fe,1531,28,1
+11800.0,2015,155548,BMW,5series xi,260,6,0
+22499.0,2021,13900,Infiniti,q50 30t luxe awd,1605,25,0
+16900.0,2022,69474,Tesla,model 3,1456,59,0
+16999.0,2023,82033,Kia,forte,1086,28,0
+20995.0,2015,99495,Audi,s4 plus,1700,3,0
+6000.0,2014,132094,Chevrolet,malibu sdn lt w1lt,1391,10,0
+24999.0,2009,142350,BMW,m3,1349,6,0
+13495.0,2019,90917,Ford,fusion titanium,1111,17,0
+17990.0,2020,133622,Toyota,camry xse,598,60,0
+48990.0,2021,55189,Tesla,model s plaid,1499,59,0
+7500.0,2012,112621,Hyundai,sonata sdn 24l,1903,24,0
+20000.0,2018,63450,BMW,7series m,327,6,0
+49500.0,2012,24000,Subaru,impreza wrx,1234,57,0
+6899.0,2018,98246,Kia,forte lx,1090,28,0
+28000.0,2023,7000,Subaru,wrx,2051,57,0
+7195.0,2014,80170,Chevrolet,impala ltz,1219,10,0
+21900.0,2019,66378,Dodge,charger,646,15,0
+5150.0,2012,116809,Honda,civic natural gas,708,21,0
+5398.5,2004,64615,Jaguar,xj8,2100,26,1
+2200.0,2019,32349,Toyota,mirai hydrogen powered,1442,60,1
+2550.0,2016,81188,Hyundai,elantra,995,24,0
+1726.0,2013,154634,Hyundai,sonata gls,1896,24,1
+8300.0,2022,86928,Subaru,impreza lt,1233,57,0
+72991.0,2022,21853,Mercedes-Benz,s580 s 580 4matic,1722,36,0
+18495.0,2019,101357,Acura,tlx v6 wtech wa spec wtechnology and a package red,1989,1,0
+24995.0,2023,39989,Infiniti,q50 awd 30tt sensory was 54030,1609,25,0
+17599.0,2024,44246,Toyota,corolla,773,60,0
+14999.0,2008,68485,Lexus,is250 250,1243,30,0
+10850.0,2020,80085,Chevrolet,malibu lt,1386,10,0
+11690.0,2023,25912,Toyota,mirai,1441,60,0
+49995.0,2020,35119,Cadillac,ct6v awd 42tt aws ct6 v was 97190,858,9,0
+73980.0,2023,22971,Lexus,ls500 108150 msrp,1331,30,0
+23900.0,2014,86207,Mercedes-Benz,sclass sdn s 550,1830,36,0
+22965.0,2021,55197,Honda,clarity plugin hybrid,727,21,0
+3995.0,2006,105581,Honda,accord v6 exl salvage,455,21,0
+42890.0,2023,19970,Lexus,350 f cert 1 warranty,155,30,0
+7500.0,2011,84781,Ford,fusion hybrid no reserve auction 456 yrs warranty option,1104,17,0
+8285.0,2014,119238,Mercedes-Benz,e350 e350,934,36,0
+11995.0,2015,81989,Acura,tlx 24l technologyheavily optioned,1978,1,0
+14999.0,2015,79407,BMW,7series,304,6,0
+510.0,2008,63391,Toyota,63391 1,272,60,0
+9495.0,2016,70121,Chevrolet,cruze 1lt bkcam alloys,821,10,0
+10995.0,2013,102584,BMW,535i 535i,226,6,0
+27499.0,2021,37734,Acura,tlx shawd aspec package,1985,1,0
+16875.0,2023,56727,Dodge,charger,646,15,0
+28500.0,2006,53000,Bentley,continental flying spur sdn awd,759,7,0
+13999.0,2017,29756,Toyota,corolla l,782,60,0
+4999.0,2012,178651,Hyundai,sonata,1889,24,0
+89900.0,2016,9137,Mercedes-Benz,maybach s600 mercedesmaybach s 600,1424,36,0
+3999.0,2009,62343,Chevrolet,aveo5 aveo5 lt hatchback,516,10,0
+20900.0,2023,28603,Honda,civic si,710,21,0
+14495.0,2013,94615,Mercedes-Benz,sclass s 550 4matic,1790,36,0
+34995.0,2018,91747,Lexus,ls500 awd,1333,30,0
+29995.0,2022,74632,Maserati,ghibli modena 1 gorgeous video in description,1145,33,0
+32995.0,2022,47449,Cadillac,ct5v awd 30tt ct5 v onyx packages,845,9,0
+14900.0,2019,123905,Toyota,prius,1594,60,0
+25477.0,2018,121300,Mercedes-Benz,s560,1715,36,0
+24099.0,2024,37036,Toyota,camry,578,60,0
+5995.0,2011,91628,Volkswagen,cc,611,61,0
+49998.0,2023,21491,BMW,3series m340i,179,6,0
+6485.0,2013,125166,Mercedes-Benz,c300 c300,565,36,0
+8999.0,2013,79579,Mercedes-Benz,c250 c 250,558,36,0
+29900.0,2021,35820,BMW,3series m340i,179,6,0
+21900.0,2021,62000,Mercedes-Benz,cclass 300,617,36,0
+17700.0,2022,32000,Honda,civic ex,692,21,0
+14995.0,2017,82229,Infiniti,q70 37 select,1613,25,0
+15550.0,2018,147850,BMW,750i xdrive 750i xdrive awd,297,6,0
+7997.0,2011,114972,Buick,lucerne cxl,1336,8,0
+59995.0,2018,48192,BMW,m3,1349,6,0
+25000.0,2018,31000,Maserati,ghibli,1143,33,0
+12900.0,2020,55794,Infiniti,q50,1600,25,0
+44995.0,2018,31335,BMW,m3 m3 m4 blackwing ats atsv ct4 ct5 shipping 100,1356,6,0
+7998.0,2015,142244,Toyota,corolla s plus,789,60,0
+10995.0,2014,69779,Jaguar,xf awd 30 luxurysupercharged,2069,26,0
+10849.0,2011,115020,Audi,a8 quattro l 42 quattro,429,3,0
+21950.0,2002,32413,Lincoln,town car cartier only ship,1996,31,0
+17998.0,2019,92802,Subaru,wrx,2051,57,0
+4500.0,2002,15400,Nissan,maxima gle,1416,42,0
+8995.0,2020,141979,Chevrolet,malibu lt,1386,10,0
+31295.0,2019,49208,Audi,a8 l 30t,418,3,0
+4900.0,2010,150947,Toyota,corolla,773,60,0
+9500.0,2020,50200,Nissan,versa s 42mpg,2042,42,0
+20953.0,2023,13417,Mercedes-Benz,e 63 s amg final e 63 s amg final 1 of 999,927,36,0
+13998.0,2017,107508,Honda,civic exl,694,21,0
+28500.0,2015,118000,Dodge,charger srt hellcat,673,15,0
+29973.0,2015,39459,Mercedes-Benz,s550 s550,1714,36,0
+10056.0,2023,12978,Dodge,charger rt,663,15,1
+12490.0,2017,100404,Chrysler,300 300,97,11,0
+10640.0,2007,94957,Toyota,avalon,504,60,0
+19750.0,2000,64000,Jaguar,xjr,2102,26,0
+19888.0,2013,26332,Audi,30l,137,3,0
+12495.0,2016,105330,Nissan,maxima platinum edi,1419,42,0
+3151.0,2004,104045,Lincoln,town car ultimate,2015,31,1
+19900.0,2021,34834,Nissan,maxima platinum,1418,42,0
+17950.0,2023,84431,Toyota,camry,578,60,0
+11999.0,2012,36060,Buick,regal turbo one century lacrosse lesabre,1640,8,0
+12700.0,2019,74588,Subaru,impreza,1228,57,0
+17500.0,2017,42000,Mazda,6,261,35,0
+21095.0,2018,70575,Mercedes-Benz,e300 e 300,928,36,0
+7000.0,2013,105182,Ford,fusion,1098,17,0
+9995.0,2007,111274,Chrysler,300 series c v8 hemi upto date srvcs hwy,116,11,0
+7995.0,2012,126292,Volkswagen,jetta tdi,1271,61,0
+19888.0,2015,72921,Lexus,is250 250,1243,30,0
+6000.0,2010,106269,Buick,lacrosse cxl,1290,8,1
+17500.0,2021,32200,Genesis,g70 elite trim delivery call 7863283187,1129,19,0
+34000.0,2021,60000,Dodge,charger scat pack,669,15,0
+25998.0,2017,52890,Mercedes-Benz,cclass c 43 amg,626,36,0
+13000.0,2019,79500,Acura,tlx technology,1986,1,0
+13999.0,2016,68500,Jaguar,xf prestige,2071,26,0
+18500.0,2016,100832,BMW,7series driver assistance plus executive pkg2 m pkg mint,323,6,0
+6000.0,2015,131459,Ford,fiesta sdn,1055,17,0
+45888.0,2014,53074,Mercedes-Benz,s63 amg s 63 amg 4matic,1745,36,0
+17500.0,2020,35900,Cadillac,ct4 delivery call 7863283187,834,9,0
+33000.0,2023,46768,Dodge,charger rt,663,15,0
+11900.0,2019,84752,Infiniti,q50,1600,25,0
+10875.0,2017,48295,Mazda,3,75,35,0
+12995.0,2017,15664,Ford,focus,1082,17,0
+18995.0,2008,55167,Mercedes-Benz,e350 35l p2,931,36,0
+12395.0,2018,82843,Volkswagen,passat 20t,1570,61,0
+17484.0,2019,87667,BMW,330i 330i,147,6,0
+17995.0,2018,51474,BMW,330i 330i,147,6,0
+18973.0,2014,72986,BMW,335i i,150,6,0
+59995.0,2013,59020,Bentley,mulsanne sdn,1509,7,0
+13499.0,2021,76781,Dodge,charger police,659,15,0
+11999.0,2001,71409,Mercedes-Benz,e55 amg e 55 amg,939,36,0
+29500.0,2021,20773,Jaguar,xf p300 rdynamic,2070,26,0
+39899.0,2019,36997,Mercedes-Benz,e53 amg amg e 53,938,36,0
+9990.0,2001,44290,Cadillac,lcw limousine conversion,1306,9,0
+9295.0,2019,108805,Nissan,sentra sv,1846,42,0
+38788.0,2017,69943,BMW,7series m760i xdrive v12 69943 heated cooled seats servi,329,6,0
+23990.0,2017,93238,BMW,340i xdrive 340i xdrive,153,6,0
+39000.0,2019,45277,Tesla,model s performance awd liftback wludicrous mode,1498,59,0
+10900.0,2021,68088,Nissan,sentra,1837,42,0
+12900.0,2017,95531,Lincoln,continental,752,31,0
+14900.0,2020,56989,Subaru,wrx,2051,57,0
+15000.0,2018,8450,Hyundai,sonata,1889,24,0
+17950.0,2024,28255,Nissan,sentra sv,1846,42,0
+3999.0,2006,155042,Ford,fusion,1098,17,0
+31995.0,2022,66093,BMW,740i 740i,291,6,0
+39999.0,2013,60500,Bentley,continental flying spur awd,756,7,0
+12499.0,2014,97391,Maserati,ghibli,1143,33,0
+23899.0,2018,34905,Maserati,ghibli s gransport,1149,33,0
+9750.0,2013,126450,Mercedes-Benz,cclass 250,615,36,0
+40777.0,2017,70942,BMW,m3,1349,6,0
+84800.0,2022,5454,Dodge,charger srt hellcat redeye,677,15,0
+33495.0,2014,81216,Mercedes-Benz,e63 amg s e 63 amg 4matic smodel,941,36,0
+12995.0,2020,82000,Chevrolet,malibu lt,1386,10,0
+18900.0,2025,506,Subaru,legacy,1307,57,0
+89900.0,2012,42202,Rolls-Royce,ghost base,1156,52,0
+1200.0,2006,183103,BMW,3series,159,6,1
+7985.0,2014,98786,Chevrolet,impala lt,1217,10,0
+24995.0,2018,93882,Mercedes-Benz,cls550,732,36,0
+15999.0,2014,150000,Tesla,model s,1482,59,0
+7495.0,2013,129644,Subaru,impreza 20i heated seats 1 since,1230,57,0
+5800.0,2013,116917,Dodge,dart sxt,898,15,1
+7740.0,2004,90859,Infiniti,g35 base wleather,1118,25,0
+27259.0,2022,29811,Subaru,wrx,2051,57,0
+14500.0,2007,199000,Mercedes-Benz,s 65,1683,36,0
+9995.0,2012,82028,Hyundai,genesis v6 38l,1142,24,0
+9995.0,2008,72274,Toyota,camry 5a,580,60,0
+3750.0,2010,111721,Mercedes-Benz,eclass e350,973,36,0
+38973.0,2015,72431,Mercedes-Benz,s63 amg s63 amg,1747,36,0
+5995.0,2003,132435,Mercedes-Benz,e500 e 500,937,36,0
+18980.0,2019,72903,BMW,3series 330i,169,6,0
+50450.0,2023,34387,Tesla,model s base,1489,59,0
+18999.0,2014,42512,Mercedes-Benz,clsclass sdn cls 550 4matic only body kit,743,36,0
+16990.0,2013,89720,BMW,335i xdrive 335i xdrive,152,6,0
+9000.0,2017,50000,Nissan,versa s,2041,42,0
+6499.0,2012,144881,Lincoln,mkz base awd,1447,31,0
+35444.0,2022,55677,BMW,540i 540i,230,6,0
+25000.0,2020,57312,Dodge,charger scat pack,669,15,0
+12997.0,2003,4235,Jaguar,xtype awd only one stype xf xk8,2118,26,0
+55800.0,2010,42161,Mercedes-Benz,eclass,943,36,0
+7998.0,2014,174979,Toyota,corolla s,787,60,0
+18800.0,2016,17482,Maserati,ghibli,1143,33,0
+6895.0,2012,100317,Volvo,s60 t5,1734,62,0
+29995.0,2016,32899,Cadillac,xts 3 row coachbuilder limoarmbrusterstageway,2106,9,0
+34973.0,2017,44534,BMW,750i xdrive xi,300,6,0
+71600.0,2016,37733,Bentley,flying spur v8,1078,7,0
+15999.0,2016,95413,BMW,740i 740i,291,6,0
+3500.0,2008,124000,Saturn,aura xe,501,54,0
+16995.0,2018,72551,Subaru,wrx,2051,57,1
+9667.0,2012,63268,Honda,civic lx 5a,705,21,0
+21491.0,2017,77804,Subaru,wrx sti sti,2056,57,0
+89900.0,2011,29251,Rolls-Royce,ghost,1155,52,0
+71999.0,2021,44862,Mercedes-Benz,sclass s580 4matic burmester pkg upgrades 1,1815,36,0
+14995.0,2018,123630,Chrysler,300 300s,98,11,0
+12495.0,2013,75829,BMW,5series 535i xdrive prmsports pkg,247,6,0
+12000.0,2015,112500,Toyota,corolla,773,60,0
+13995.0,2018,75856,Ford,fusion s hybrid,1109,17,0
+20990.0,2017,66789,Tesla,model s 75,1486,59,0
+69999.0,2014,99750,Rolls-Royce,ghost base,1156,52,0
+54995.0,2009,29680,Bentley,arnage r,490,7,0
+9995.0,2017,154246,Dodge,charger sxt,685,15,0
+39375.0,2022,57809,Lexus,500 f performance,212,30,0
+8240.0,2013,130182,Lincoln,mkz base awd,1447,31,0
+13500.0,2022,81930,Chevrolet,malibu lt,1386,10,0
+8493.0,2013,102505,BMW,528i 528i,219,6,0
+11495.0,2013,122689,BMW,335i 335i,149,6,0
+1495.0,2004,104291,Jaguar,stype salvage,1936,26,0
+16999.0,2025,12250,Nissan,versa s,2041,42,0
+59900.0,2022,39283,Tesla,model s plaid,1499,59,0
+22877.0,2021,72266,Maserati,ghibli s,1147,33,0
+34990.0,2019,67965,Mercedes-Benz,s560 s 560,1716,36,0
+24999.0,2011,107000,Porsche,panamera turbo,1556,47,0
+32990.0,2018,71936,Mercedes-Benz,s560 s 560,1716,36,0
+33899.0,2018,99282,Lexus,ls500 ls 500,1334,30,0
+89752.0,2023,18051,Cadillac,ct5v blackwing,848,9,0
+12995.0,2020,93385,Chevrolet,malibu lt,1386,10,0
+20499.0,2016,81454,Tesla,model s 90d,1488,59,0
+8000.0,2013,156300,Volkswagen,golf,1171,61,0
+35990.0,2020,70250,BMW,m340i xdrive m340i xdrive,1357,6,0
+11993.0,2012,100126,BMW,335i 335i,149,6,0
+21495.0,2022,48803,Tesla,model 3 standard,1471,59,0
+10495.0,2017,47273,Hyundai,sonata,1889,24,0
+14982.0,2014,74800,Maserati,ghibli,1143,33,0
+42000.0,2021,4523,Tesla,model s,1482,59,1
+35995.0,2021,71783,Audi,a8 l 55,419,3,0
+26799.0,2021,39253,BMW,530i xdrive 530i xdrive,225,6,0
+8490.0,2016,145000,Nissan,maxima 35s,1415,42,0
+7500.0,2015,17125,Kia,forte lx,1090,28,0
+38555.0,2017,94656,Mercedes-Benz,s63 amg s 63 amg,1744,36,0
+1495.0,2005,120356,Cadillac,v6 salvage,2028,9,0
+5995.0,2012,130109,Chevrolet,cruze ltz,829,10,0
+7000.0,2010,138333,Mercedes-Benz,eclass,943,36,0
+17999.0,2015,149218,Lexus,l,1286,30,0
+13495.0,2015,59966,Toyota,avalon,504,60,0
+8999.0,2014,164500,Infiniti,q50 37,1606,25,0
+21500.0,2020,91210,Cadillac,ct5,841,9,0
+53000.0,2019,69159,BMW,m5 competition,1362,6,0
+10795.0,2015,86861,Toyota,camry in,590,60,0
+10995.0,2017,59230,Dodge,charger police,659,15,0
+7400.0,2013,51640,Nissan,sentra s,1842,42,0
+8900.0,2012,62421,Mini,cooper countryman 1,769,38,0
+89800.0,2021,26658,Audi,rs7 40t quattro satin bronze wrap vossen wheels apr,1675,3,0
+8640.0,2009,130125,Toyota,camry base,583,60,0
+4995.0,2016,103952,Mini,cooper 4 door salvage,768,38,0
+25993.0,2025,464,Toyota,camry,578,60,0
+7000.0,2009,166001,Cadillac,cts luxury awd w navi,876,9,0
+8500.0,2010,152607,BMW,5series 528i,240,6,0
+8995.0,2017,122279,Ford,fusion titanium hybrid,1113,17,0
+13495.0,2020,131059,Toyota,corolla,773,60,0
+19858.0,2024,2344,Lexus,350 f design,156,30,0
+20830.0,2021,60000,Honda,accord special,451,21,0
+28888.0,2015,68986,BMW,alpina b6 alpina b6 gran xdrive,460,6,0
+9995.0,2002,105925,Infiniti,q45 luxury performance,1598,25,0
+5800.0,2019,48102,Infiniti,q50 luxe,1610,25,0
+30900.0,2023,17705,Mercedes-Benz,cclass c 300 4matic,624,36,0
+55000.0,2016,9500,Mercedes-Benz,eclass,943,36,0
+12900.0,2020,45980,Mazda,3,75,35,0
+74900.0,2016,6000,Cadillac,cts cts v only,872,9,0
+37400.0,2022,6568,Mercedes-Benz,eclass e 450 4matic,968,36,0
+5900.0,2015,138000,Ford,taurus police interceptor,1951,17,0
+85400.0,2024,21535,BMW,m3 competition xdrive,1353,6,0
+15500.0,2020,91975,Dodge,charger sxt,685,15,0
+5995.0,2012,105051,Chevrolet,cruze ltz,829,10,0
+2500.0,2000,45000,Toyota,crown athlete,807,60,0
+21495.0,2018,101000,Cadillac,ct6 platinum awd,856,9,0
+76990.0,2023,9164,BMW,m850i xdrive gran m performance package m,1373,6,0
+9999.0,2018,128580,Ford,fusion s,1108,17,0
+9250.0,2012,109700,Volkswagen,jetta,1247,61,0
+61995.0,2016,36353,Bentley,flying spur v8,1078,7,0
+16889.0,2020,126225,Toyota,camry,578,60,0
+15995.0,2016,48881,Chevrolet,malibu lt w1lt,1387,10,0
+10999.0,2014,144263,Mercedes-Benz,claclass cla 250 4matic awd,725,36,0
+49997.0,2019,56822,Mercedes-Benz,gt53 amg,1194,36,0
+5995.0,2014,113235,Chevrolet,cruze 1lt,819,10,0
+4999.0,2015,136854,Nissan,sentra s,1842,42,0
+56983.0,2024,12333,Cadillac,ct4v blackwing,839,9,0
+67998.0,2022,35396,BMW,m3 competition,1351,6,0
+28999.0,2024,15790,Acura,integra 15t waspec pkg hatchback,1239,1,0
+7999.0,2014,105882,Chrysler,300 s awd,107,11,0
+38900.0,2018,37827,BMW,m3,1349,6,0
+22500.0,2018,24100,Lexus,es 350 only 24000,1023,30,0
+8900.0,2015,105682,Tesla,model s,1482,59,0
+6750.0,2016,151600,Audi,a3,346,3,0
+5000.0,2001,141210,Toyota,avalon xls,510,60,0
+9900.0,2015,88400,BMW,7series i,324,6,0
+8858.0,2024,22371,Honda,civic,691,21,0
+2600.0,2009,184031,Chevrolet,cobalt ls,746,10,0
+9800.0,2005,98000,Cadillac,cts,859,9,0
+7900.0,2010,69435,Lincoln,mkzzephyr base,1452,31,0
+8700.0,2012,116055,BMW,7series,304,6,0
+5400.0,2017,174005,Volkswagen,passat rline,1575,61,0
+3300.0,2016,92848,Subaru,legacy 25i awd,1309,57,0
+3500.0,2017,47000,Nissan,altima 25,464,42,0
+3500.0,2012,178078,Cadillac,cts luxury collection,877,9,0
+3200.0,2014,152052,Chevrolet,impala lt,1217,10,0
+12900.0,2017,32600,Cadillac,ct6 luxury 360 camera blind spot navigation power trunklid,854,9,0
+12999.0,2013,94950,Infiniti,g37 g37s,1122,25,0
+15600.0,2008,83797,Jaguar,xj xj8 l one since immaculate,2088,26,0
+2999.0,2013,152231,Nissan,altima 25 sv 2 owners florida car moonroof,473,42,0
+7000.0,2007,113000,Mercedes-Benz,clclass,728,36,0
+14900.0,2006,84528,Bentley,continental flying spur,755,7,0
+10980.0,2023,17146,Toyota,camry,578,60,0
+12120.0,2018,99000,Mercedes-Benz,eclass 400 4matic,948,36,1
+9995.0,2000,40370,Nissan,maxima 1own altima sentra,1410,42,0
+67980.0,2023,17484,BMW,m5,1360,6,0
+52999.0,2024,9295,BMW,8series m850i xdrive gran,336,6,0
+21999.99,2013,110258,Mercedes-Benz,eclass,943,36,0
+9495.0,2018,99266,BMW,3series 330i,169,6,0
+8997.0,2010,85255,Mercury,grand marquis ls,1181,37,0
+8100.0,2018,88560,Lincoln,continental premier,762,31,1
+22000.0,2019,29024,Toyota,avalon,504,60,0
+3000.0,2013,184705,BMW,3series i,175,6,0
+16499.0,2016,47850,Toyota,avalon,504,60,0
+10990.0,2019,41204,Kia,rio s tech package apple carplay backup cam,1645,28,0
+37500.0,2021,19999,Dodge,charger scat pack,669,15,0
+29990.0,2018,130243,Lexus,ls 500 awd luxury,1320,30,0
+33999.0,2022,46299,Acura,tlx type s w30t,1988,1,0
+26799.0,2024,39194,Toyota,camry xse,598,60,0
+8900.0,2018,37783,Hyundai,elantra,995,24,0
+15495.0,2015,57661,BMW,650i xdrive gran 650i gran xdrive,279,6,0
+17299.0,2019,82010,BMW,530e 530e iperformance,221,6,0
+5995.0,2011,160415,Chevrolet,volt,2046,10,0
+17500.0,2023,36000,Nissan,altima sv,481,42,0
+21858.0,2021,42598,Subaru,wrx sti,2054,57,0
+9940.0,2008,80237,BMW,335i 335i,149,6,0
+88990.0,2021,29845,Porsche,taycan turbo s 750 horsepower package ventilat,1964,47,0
+16890.0,2018,74125,Mercedes-Benz,cclass c300 benz certified serviced,633,36,0
+20995.0,2022,112748,Toyota,camry hybrid,588,60,0
+27995.0,2020,32415,Mercedes-Benz,cclass,614,36,0
+27950.0,2021,21578,Tesla,model 3 performance,1469,59,0
+19999.0,2021,37376,Nissan,maxima 35 sr,1412,42,0
+26990.0,2021,44964,Tesla,model 3 performance,1469,59,0
+13999.0,2019,96856,Dodge,charger sxt,685,15,0
+64995.0,2018,18554,BMW,m3,1349,6,0
+17999.0,2019,85584,Tesla,model 3 standard range plus,1473,59,0
+24250.0,2022,53137,Tesla,model 3 long range,1460,59,0
+5499.0,2009,148789,BMW,328i xdrive 328i xdrive,144,6,0
+44999.0,2024,11129,Mercedes-Benz,eqe 350,1009,36,0
+11999.0,2017,93540,Alfa Romeo,giulia ti,1167,2,0
+89900.0,2011,40534,Rolls-Royce,ghost,1155,52,0
+11500.0,2020,73584,Ford,fusion,1098,17,0
+24996.0,2018,77784,BMW,750i xdrive 750i xdrive,296,6,0
+9295.0,2015,138630,Mercedes-Benz,cla250 cla 250,719,36,0
+25500.0,2019,34625,Dodge,charger,646,15,0
+18500.0,2016,61628,Honda,accord ex,437,21,0
+32700.0,2025,37003,Toyota,camry xse,598,60,0
+11995.0,2018,121745,Mercedes-Benz,cla 250 cla250,718,36,0
+26642.0,2021,50885,BMW,5series 530i,242,6,0
+29995.0,2022,44882,Lexus,es300h es 300h,1031,30,0
+5795.0,2007,148697,Nissan,altima hybrid,478,42,0
+8250.0,2012,56759,Hyundai,sonata hybrid,1899,24,0
+9998.0,2017,122315,Toyota,corolla 50th anniversary 18lt 4cylinders,776,60,0
+23495.0,2015,81211,Mercedes-Benz,sclass s 550 msrp top pano drive asst,1791,36,0
+21999.0,2015,73478,Tesla,model s p85d battery and rear drive unit,1494,59,0
+84999.0,2023,28044,BMW,m8 competition,1369,6,0
+13700.0,2014,767,Kia,optima lx,1532,28,0
+11900.0,2019,55684,Lincoln,mkc,1443,31,0
+60990.0,2023,19513,Audi,a8 l 55 tfsi long wheelbase executive package blac,420,3,0
+12950.0,2002,54154,Lincoln,continental only mi leather serviced ship,761,31,0
+8950.0,2013,108710,Mercedes-Benz,e350 e 350,933,36,0
+21500.0,2015,114098,Mercedes-Benz,sclass 550 4matic,1775,36,0
+64991.0,2021,42493,Mercedes-Benz,s580 4matic 1 amg line night pkg rear axle steering,1718,36,0
+8900.0,2017,88759,Chevrolet,impala,1212,10,0
+14900.0,2018,83714,Honda,ridgeline,1641,21,0
+21900.0,2015,57541,BMW,650i xdrive gran 650i xdrive,280,6,0
+14995.0,2012,86319,Lexus,es350 base,1034,30,0
+28000.0,2013,94225,Mercedes-Benz,eclass designo package amg 1 of a kind 2 tone leather seats,957,36,0
+9999.0,2000,30245,Mercury,grand marquis ls only nonsmoker,1183,37,0
+21395.0,2015,68871,Mercedes-Benz,cls400 cls400 4matic,731,36,0
+13900.0,2025,19267,Chevrolet,malibu,1381,10,0
+13900.0,2019,35000,Dodge,charger,646,15,0
+32996.0,2018,69628,Mercedes-Benz,s450 s450 4matic,1705,36,0
+82999.0,2022,40587,Mercedes-Benz,sclass s580 huge msrp upgrades 1,1821,36,0
+12777.0,2012,123720,Toyota,camry,578,60,0
+18599.0,2025,15401,Volkswagen,jetta,1247,61,0
+14111.0,2018,59520,Honda,civic ex,692,21,0
+2500.0,2007,170000,Ford,fusion,1098,17,0
+28900.0,2018,108596,Lexus,ls 500 luxury msrp 79588,1321,30,0
+25990.0,2022,90333,Tesla,model 3 performance,1469,59,0
+560.0,2011,148700,Honda,civic ex with moon,693,21,0
+25395.0,2019,43168,Cadillac,ct6 luxury awd,855,9,0
+13991.0,2015,128784,Dodge,charger sdn rt,672,15,0
+33788.0,2018,51054,BMW,6series 650i xdrive m gran 51054 serviced,284,6,0
+13999.41,2014,83169,Lexus,is250 250,1243,30,0
+29995.0,2001,35849,Bentley,arnage mans,489,7,0
+74995.0,2019,47481,Mercedes-Benz,mercedesamg sclass s 63 amg,1427,36,0
+6000.0,2003,105655,Jaguar,xj8,2100,26,0
+16999.0,2018,112535,Tesla,model 3 long range,1460,59,0
+9990.0,2007,73928,Mercedes-Benz,55l v8,235,36,0
+28999.0,2022,33989,Cadillac,ct4v 27tt vtechnology package,837,9,0
+75999.0,2022,14881,BMW,m4,1359,6,0
+5000.0,2005,140000,Mercury,grand marquis ls,1181,37,0
+13900.0,2023,7240,Hyundai,elantra,995,24,0
+10000.0,2017,103717,Volkswagen,jetta 14t s,1250,61,0
+67999.0,2022,16790,Porsche,taycan 4s,1957,47,0
+16999.0,2014,69264,Lexus,gs350 f,1191,30,0
+31900.0,2021,27085,Dodge,charger scat pack widebody,670,15,0
+59999.0,2013,23639,Mercedes-Benz,eclass,943,36,0
+19995.0,2019,52762,Kia,cadenza blackblack ez only,577,28,0
+10995.0,2018,107899,Hyundai,sonata,1889,24,0
+52888.0,2019,97330,Cadillac,ctsv,883,9,0
+7500.0,2011,135469,BMW,535i 535i,226,6,0
+16500.0,2018,63840,Nissan,altima 25 s,467,42,0
+9333.0,2011,83607,Mercedes-Benz,c300 c 300,561,36,0
+18600.0,2022,42580,Dodge,charger sxt,685,15,0
+10750.0,2016,130749,Audi,a4,354,3,0
+8740.0,2010,79544,Saab,93 xwd awd,338,53,0
+10500.0,2017,75789,Subaru,legacy 25i,1308,57,0
+5995.0,2017,127483,Volkswagen,jetta 14t s 6a,1251,61,0
+17290.0,2018,105601,Tesla,model 3 long range,1460,59,0
+39900.0,2019,10791,Honda,civic type r,714,21,0
+13900.0,2020,17516,Mazda,3,75,35,0
+16990.0,2023,25895,Kia,forte lxs,1092,28,0
+11900.0,2018,68254,Audi,a3,346,3,0
+24950.0,2021,32660,Mercedes-Benz,a 220 4matic pkg w burmester sound system,343,36,0
+8999.0,2013,117058,Mercedes-Benz,e350 4matic,932,36,0
+6540.0,2005,67262,Volvo,s40 24i,1702,62,0
+5200.0,2008,108000,Mercedes-Benz,sclass,1766,36,1
+10500.0,2021,40279,Toyota,mirai,1441,60,0
+16900.0,2014,48245,Mercedes-Benz,eclass sdn e 350,980,36,0
+49995.0,2022,47174,Audi,rs etron,1663,3,0
+48777.0,2019,61994,BMW,m5,1360,6,0
+9900.0,2020,97144,Nissan,altima,462,42,0
+17150.0,2015,76600,BMW,5series xi,260,6,0
+15000.0,2015,114000,BMW,6series alpina b6 gran xdrive,285,6,0
+6499.0,2013,123478,Ford,fusion,1098,17,0
+17450.0,2021,101098,Honda,civic,691,21,0
+10000.0,2015,85878,Nissan,altima 25,464,42,0
+16900.0,2021,71450,Tesla,model 3,1456,59,0
+5000.0,2010,108000,Nissan,sentra 20,1839,42,0
+20900.0,2023,24898,Tesla,model 3,1456,59,0
+19500.0,2025,5172,Hyundai,elantra sel convenience,1005,24,0
+11500.0,2009,40954,Acura,tl,1970,1,0
+15999.0,2023,109948,Tesla,model 3 standard,1471,59,0
+17800.0,2022,27413,Nissan,altima 25 s,467,42,0
+49999.0,2020,23304,Mercedes-Benz,sclass 560,1776,36,0
+18995.0,2019,63188,Mercedes-Benz,a220 a 220 4matic,345,36,0
+16998.0,2020,88417,Subaru,wrx,2051,57,0
+40000.0,2020,39563,Tesla,model s performance awd liftback,1497,59,0
+14490.0,2024,23740,Toyota,mirai,1441,60,0
+22799.0,2020,69736,Cadillac,ct5 luxury,842,9,0
+24995.0,2020,99417,Genesis,g90 50l ultimate,1134,19,0
+20690.0,2022,101148,Tesla,model 3 long range,1460,59,0
+84995.0,2011,45340,Bentley,mulsanne,1507,7,0
+17998.0,2014,64500,Mobility Ventures,mv1 lx wheelchair,1514,40,0
+37950.0,2022,4200,Mercedes-Benz,eqs 450,1013,36,0
+24995.0,2021,16989,Tesla,model 3 awd model 3 long rangedual motors,1457,59,0
+13900.0,2022,76999,Dodge,charger,646,15,0
+7995.0,2011,99413,Cadillac,cts 30l performance,864,9,0
+42695.0,2021,16774,Mercedes-Benz,eclass e 450 4matic luxury wdriver assistanceprem,969,36,0
+12900.0,2022,45226,Nissan,altima,462,42,0
+34999.0,2019,71600,Mercedes-Benz,s560 s 560,1716,36,0
+27890.0,2018,17764,Tesla,model s 75d,1487,59,0
+22999.0,2020,69817,Honda,accord ex,437,21,0
+5500.0,2011,132668,Volvo,s40 sdn,1703,62,0
+16995.0,2017,81430,Mercedes-Benz,e300 e 300 4matic,929,36,0
+51800.0,2022,27393,BMW,m550i xdrive m550i xdrive,1366,6,0
+5995.0,2012,123953,Nissan,altima base,477,42,0
+12999.0,2016,165678,Tesla,model s 75,1486,59,0
+28000.0,2022,44000,Dodge,charger rt,663,15,0
+28998.0,2020,21152,Dodge,charger rt,663,15,0
+12900.0,2018,49582,Chrysler,300 series,109,11,0
+58990.0,2021,36191,Tesla,model s plaid,1499,59,0
+12500.0,2016,84312,Toyota,corolla sdn,792,60,0
+67991.0,2021,41700,BMW,m3 competition,1351,6,0
+7000.0,2005,50000,Maserati,quattroporte m139,1623,33,1
+32333.0,2014,71278,Chevrolet,ss,1917,10,0
+15000.0,2015,91000,Honda,accord lx,447,21,0
+37499.0,2022,11500,Genesis,g80 prestige,1132,19,0
+16500.0,2018,123332,Tesla,model 3 long range awd fastback,1463,59,0
+19999.95,2008,56123,Maserati,quattroporte m139,1623,33,0
+10995.0,2013,89369,BMW,3series 328i premsports pkg,165,6,0
+84999.0,2022,28326,Mercedes-Benz,sclass s580 4matic burmester pkg 1 exec line pkg,1814,36,0
+11500.0,2011,106800,Jaguar,xj xj base,2082,26,0
+18500.0,2024,33370,Kia,forte line,1089,28,0
+9900.0,2020,43392,Nissan,sentra,1837,42,0
+7499.0,2016,101211,Chrysler,200,37,11,0
+6250.0,2011,141900,Cadillac,cts,859,9,0
+31999.0,2023,14427,Dodge,charger scat pack,669,15,0
+21999.0,2019,41223,Honda,civic si,710,21,0
+24000.0,2023,32461,Tesla,model 3 base,1458,59,0
+9800.0,2004,140655,Volvo,s60 r type no reserve turbo awd s60r v70r shipping,1733,62,0
+71990.0,2024,2401,Mercedes-Benz,cclass s amg e performance 671 horsepower amg night pac,637,36,0
+22576.0,2024,27758,Honda,civic,691,21,0
+62999.0,2023,39678,BMW,i7 xdrive60,1206,6,0
+34500.0,2021,33800,Mercedes-Benz,eclass 4matic pkg driver assistance amg line n,951,36,0
+46500.0,2018,85950,Mercedes-Benz,eclass amg e 63 s 4matic,955,36,0
+8500.0,2014,180000,Dodge,charger police,659,15,0
+27999.0,2023,43242,Nissan,maxima 35 sr,1412,42,0
+61999.0,2023,18989,Porsche,taycan,1956,47,0
+89420.0,2024,9020,BMW,m3 competition,1351,6,0
+9795.0,2016,124429,Chrysler,300 300,97,11,0
+27800.0,2002,12477,Infiniti,q45 prototype factory promo and pace car one o,1599,25,0
+48999.0,2001,43454,BMW,7series 740i package absolutely immaculate only,308,6,0
+27888.0,2018,65324,Mercedes-Benz,claclass cla 45 4matic 2 65324 serviced,726,36,0
+14990.0,2014,84604,BMW,7series 750li wexecutive m lighting pa,315,6,0
+16000.0,2020,181000,Nissan,altima s,479,42,0
+24800.0,2016,99800,Mercedes-Benz,sclass s 550,1789,36,0
+25500.0,2023,45100,Audi,a3 40 tfsi,349,3,0
+28988.0,2018,69439,Mercedes-Benz,cclass amg c 43 4matic designo 2 69439 serviced,621,36,0
+8850.0,2019,67398,Mitsubishi,mirage es,1436,39,0
+8400.0,2011,115688,Subaru,impreza 25i awd 4a,1232,57,0
+25099.0,2022,29577,Honda,accord cvt,436,21,0
+9900.0,2019,69775,Chevrolet,malibu,1381,10,0
+42888.0,2014,34923,Mercedes-Benz,clsclass cls63 amg smodel 4matic perform pkg 34923,742,36,0
+31999.0,2022,21534,Mercedes-Benz,eclass,943,36,0
+7993.0,2014,102986,Volvo,s60 t5,1734,62,0
+12900.0,2013,87277,Toyota,corolla l 4a,783,60,0
+11900.0,2003,63000,Jaguar,s type,1687,26,0
+17900.0,2007,67000,Mercedes-Benz,s550,1710,36,0
+7900.0,2017,47694,Nissan,sentra,1837,42,0
+16995.0,2021,0,Nissan,altima sr,480,42,0
+12900.0,2017,74807,Mercedes-Benz,eclass,943,36,0
+7995.0,2007,142834,Jaguar,xj vanden plas rear entertainment system gorgeous,2081,26,0
+84900.0,2023,11609,BMW,m760i xdrive luxury rear seating theater screen,1368,6,0
+16999.0,2019,101610,Toyota,camry,578,60,0
+18995.0,2023,3422,Nissan,sentra sv,1846,42,0
+21598.0,2023,52007,Honda,civic,691,21,0
+9000.0,2005,24500,Ford,crown victoria police interceptor,817,17,0
+6900.0,2011,190770,Ford,taurus,1945,17,0
+5788.0,2016,107726,Chrysler,200,37,11,0
+9695.0,2015,96216,BMW,328i 328i,142,6,0
+70999.0,2023,19806,BMW,i7 xdrive60,1206,6,0
+9240.0,2008,68006,Mercedes-Benz,e350 e 350,933,36,0
+14999.0,2023,49696,Hyundai,elantra sel,1004,24,0
+17599.0,2022,37022,Chevrolet,malibu lt,1386,10,0
+18500.0,2019,42750,Volkswagen,golf,1171,61,0
+19998.0,2020,67881,Infiniti,q50 30t luxe,1604,25,0
+51995.0,2019,0,Mercedes-Benz,s560 s560,1717,36,0
+27498.0,2023,838,Chrysler,300 touring,126,11,0
+7995.0,2011,139127,Toyota,camry 6a,581,60,0
+12900.0,2022,23333,Chevrolet,malibu,1381,10,0
+24500.0,2015,40500,Subaru,impreza,1228,57,0
+10990.0,2015,110552,Chrysler,300 series 300s,112,11,0
+15500.0,2021,22082,Honda,civic lx,704,21,0
+77995.0,2020,40656,Mercedes-Benz,sclass s 63 amg,1800,36,0
+40000.0,2019,55894,BMW,m5,1360,6,0
+28777.0,2021,48119,Dodge,charger scat pack,669,15,0
+20999.0,2021,37027,Mercedes-Benz,aclass a 220,456,36,0
+73999.0,2022,37545,Porsche,taycan gts,1958,47,0
+53995.0,2021,15889,Audi,rs5 awd 29t quattro rs5 sportbackturbo,1670,3,0
+20995.0,2018,86099,Dodge,charger rt,663,15,0
+18999.0,2020,79548,Kia,optima s,1533,28,0
+48799.0,2018,67483,BMW,m3,1349,6,0
+59890.0,2017,44060,Mercedes-Benz,sclass s600 v12 just serviced 2 cert,1827,36,0
+84999.0,2022,28646,Mercedes-Benz,sclass s580 4matic exec rear seat pkg only,1817,36,0
+27500.0,2019,43149,BMW,5series stunning bluestone metallic mpower m550i xdrive,259,6,0
+14000.0,2008,65000,Chrysler,300 touring,126,11,0
+67500.0,2023,23566,Tesla,model s plaid,1499,59,0
+61000.0,2022,37508,Tesla,model s plaid,1499,59,0
+26999.0,2016,47535,Tesla,model s p90d,1495,59,0
+11250.0,2013,72690,Audi,a6 quattro 30t plus,399,3,0
+17250.0,2018,99983,Tesla,model 3 long range,1460,59,0
+12900.0,2019,46149,Ford,mustang,1511,17,0
+13900.0,2020,66648,Hyundai,santa fe,1763,24,0
+14777.0,2020,54134,Volkswagen,jetta 14t rline,1249,61,0
+6900.0,2011,140309,Nissan,altima 35 sr,476,42,0
+17988.0,2014,63243,Jaguar,xj xjl portfolio awd v6 supercharged 2 63243 serviced,2092,26,0
+23990.0,2019,54678,Tesla,model 3 long range,1460,59,0
+14999.0,2003,24280,Mercedes-Benz,eclass 320,944,36,0
+11000.0,2014,86400,Mercedes-Benz,cclass 250,615,36,0
+46995.0,2021,51755,Audi,a8 quattro quattro l 60,430,3,0
+7995.0,2010,172000,Hummer,h3,1197,23,0
+15999.0,2019,108469,Kia,optima s,1533,28,0
+8995.0,2015,118422,Mini,cooper s hardtop 4 door,771,38,0
+22000.0,2023,6649,Hyundai,sonata sel,1904,24,0
+89999.0,2021,15129,Mercedes-Benz,sclass s580 4matic 1 highly upgraded big msrp,1813,36,0
+15495.0,2019,118339,Audi,a4 20t plus,357,3,0
+92999.0,2025,22863,BMW,i7 xdrive60,1206,6,0
+9999.0,2017,132734,Volkswagen,passat 18t,1562,61,0
+10250.0,2015,94500,Jaguar,xf 20t,2063,26,0
+51999.0,2023,41648,Mercedes-Benz,eqs 580,1015,36,0
+64950.0,2021,42251,Porsche,taycan 4s,1957,47,0
+20000.0,2021,85343,Dodge,charger sxt,685,15,0
+16700.0,2018,66210,Honda,civic ex,692,21,0
+20950.0,2020,48889,Tesla,model 3,1456,59,0
+99995.0,2023,25198,Audi,rs7 sportback,1678,3,0
+16925.0,2018,90001,Tesla,model 3 long range,1460,59,0
+8995.0,2013,102306,Mercedes-Benz,e350 e 350,933,36,0
+58777.0,2017,50992,Cadillac,ctsv,883,9,0
+23975.0,2017,38000,Mercedes-Benz,eclass e300 luxury 4matic,971,36,0
+17999.0,2019,45075,Honda,civic ex,692,21,0
+8500.0,2002,88000,BMW,530i 530ia sdn 5spd,224,6,0
+12900.0,2022,41782,Nissan,sentra,1837,42,0
+8695.0,2014,106499,BMW,328i 328i,142,6,0
+6390.0,2014,147000,Volkswagen,passat tdi,1579,61,0
+14500.0,2020,107505,Toyota,corolla,773,60,0
+14900.0,2023,31816,GMC,terrain,1967,18,0
+18900.0,2018,65317,Ford,expedition,1044,17,0
+25500.0,2020,63500,Audi,a6,384,3,0
+21800.0,2017,51009,Maserati,s,1680,33,0
+19900.0,2018,68721,Dodge,challenger,643,15,0
+9499.0,2019,100071,Ford,fusion,1098,17,0
+39900.0,2024,2886,Alfa Romeo,giulia giulia ti,1164,2,0
+76995.0,2021,26989,Audi,rs7 awd aws 40t quattro rs7all wheel steering,1676,3,0
+18995.0,2019,48090,Dodge,charger sxt,685,15,0
+5000.0,2007,187000,Mercedes-Benz,500series,214,36,1
+78900.0,2012,42140,Rolls-Royce,ghost,1155,52,0
+37000.0,2019,67053,Tesla,model s performance awd liftback wludicrous mode,1498,59,0
+11640.0,2011,60540,Infiniti,g25 base,1115,25,0
+23950.0,2023,57963,Audi,a4 s line plus 45 tfsi quattro,378,3,0
+21998.0,2017,56786,Maserati,ghibli s,1147,33,0
+15900.0,2022,83613,Toyota,corolla,773,60,0
+6499.0,2010,182929,Honda,accord ex,437,21,0
+6900.0,2018,68505,Ford,fiesta,1054,17,0
+19495.0,2017,92664,Mercedes-Benz,c300 c300,565,36,0
+22881.0,2021,87113,BMW,5series 540i,248,6,0
+60222.0,2021,48789,Mercedes-Benz,s580 s 580 4matic,1722,36,0
+39850.0,2013,19500,Chrysler,300 series,109,11,0
+30996.0,2019,60996,BMW,650i gran 650i,277,6,0
+14500.0,2023,21499,Toyota,corolla,773,60,0
+71999.0,2023,23372,BMW,i7 xdrive60,1206,6,0
+16490.0,2023,34500,Kia,forte lxs,1092,28,0
+19899.0,2018,94594,Audi,a8 quattro l 30t,427,3,0
+8980.0,2017,113854,Chevrolet,malibu lt,1386,10,0
+65900.0,2016,47042,Bentley,flying spur v8,1078,7,0
+11995.0,2019,117679,Ford,fusion sel,1110,17,0
+68990.0,2025,13500,Audi,2025 audi,54,3,0
+32495.0,2021,55097,Tesla,model s long range plus,1492,59,0
+42995.0,2023,22178,Cadillac,ct4 blackwing ats v atsv ct4 6 speed shipping,833,9,0
+13900.0,2022,52219,Nissan,altima,462,42,0
+37800.0,2024,5781,BMW,3 series 330i xdrive,89,6,0
+13995.0,2016,41222,Hyundai,sonata hybrid,1899,24,0
+23800.0,2021,27000,Mercedes-Benz,aclass a 220 4matic,457,36,0
+53800.0,2025,15144,BMW,4 series m440i gran,186,6,0
+6900.0,2010,109973,Dodge,charger,646,15,0
+66999.0,2021,48959,Mercedes-Benz,sclass s580 4matic huge window sticker custom 22 wheels,1818,36,0
+5999.0,2011,182100,Honda,civic lx,704,21,0
+4643.19,2009,116000,Cadillac,dts,919,9,0
+26800.0,2024,22288,Toyota,corolla,773,60,0
+11900.0,2021,20661,Mitsubishi,mirage,1435,39,0
+31995.0,2023,4329,Lexus,es300h es 300h,1031,30,0
+13500.0,2013,79600,Mercedes-Benz,eclass e 350 luxury,965,36,0
+49999.0,2022,48873,BMW,750i xdrive 750xi,298,6,0
+17995.0,2021,73369,Toyota,corolla,773,60,0
+63999.0,2024,42173,BMW,i7 xdrive60,1206,6,0
+89500.0,2023,24371,BMW,760i xdrive 760i xdrive,303,6,0
+15900.0,2023,8800,Toyota,corolla,773,60,0
+65000.0,2023,26950,Dodge,charger srt hellcat jailbreak widebody,676,15,0
+11900.0,2023,26260,Chevrolet,malibu,1381,10,0
+16999.0,2020,50844,Honda,civic exl,694,21,0
+11900.0,2018,66318,Mercedes-Benz,claclass,721,36,0
+81000.0,2025,32898,BMW,m3 competition,1351,6,0
+13600.0,2019,136000,Nissan,altima sr,480,42,0
+44988.0,2022,57643,BMW,750i xdrive 750xi,298,6,0
+20777.0,2022,39526,Honda,civic,691,21,0
+16495.0,2017,88205,Mercedes-Benz,c300 4matic,560,36,0
+4000.0,2000,114462,Mercedes-Benz,eclass 4matic,950,36,0
+14900.0,2019,72140,Cadillac,xt5,2104,9,0
+17998.0,2014,89755,Mobility Ventures,mv1 wheelchair,1515,40,0
+42799.0,2022,39695,BMW,3series m340i,179,6,0
+24699.0,2025,9878,Toyota,corolla,773,60,0
+66990.0,2023,67510,Mercedes-Benz,s 580 4matic amg line package 21 amg wheels heated an,1681,36,0
+58991.0,2021,63841,Mercedes-Benz,s580 4matic 2 luxury pano back up camera,1719,36,0
+29586.0,2023,20528,Chrysler,300 series touring,122,11,0
+8098.0,2018,106297,Hyundai,elantra,995,24,0
+69995.0,2018,8916,Mercedes-Benz,eclass amg e 63 s,954,36,0
+8999.0,2019,112696,Nissan,sentra sv,1846,42,0
+28300.0,2019,47532,Maserati,ghibli s q4 30l 1 autocheck,1152,33,0
+4999.0,2015,150000,Hyundai,elantra,995,24,0
+7999.0,2016,96503,Buick,verano,2032,8,0
+14895.0,2019,123927,Dodge,charger sxt awd,687,15,0
+17995.0,2005,183718,Cadillac,ctsv v,887,9,0
+29995.0,2024,27449,Cadillac,ct4 20t ct4 luxurynicely optioned,832,9,0
+69999.99,2018,37145,Mercedes-Benz,sclass amg s 63 4maic,1779,36,0
+34095.0,2023,24008,BMW,2series m235i xdrive,73,6,0
+75995.0,2021,16106,BMW,m3 competition,1351,6,0
+16995.0,2016,88903,Jaguar,xj xjl portfolio,2090,26,0
+10500.0,2013,59565,Jaguar,xf 20t turbo,2064,26,0
+25199.0,2022,26906,BMW,2series 228i xdrive,71,6,0
+34800.0,2024,9705,BMW,3 series 330i,88,6,0
+24990.0,2021,25153,Tesla,model 3 standard range plus,1473,59,0
+14999.0,2016,79950,Mercedes-Benz,c300 c 300 4matic,562,36,0
+15680.0,2022,69090,Nissan,altima 25 sv,472,42,0
+20500.0,2020,48800,Chevrolet,blazer premier awd delivery call 7863283187,550,10,0
+46995.0,2018,47753,Dodge,charger srt hellcat,673,15,0
+72800.0,2022,22998,Mercedes-Benz,sclass s 580 4matic,1795,36,0
+15495.0,2021,84528,Nissan,sentra s,1842,42,0
+88000.0,2023,3661,Dodge,charger king daytona hellcat redeye,658,15,0
+13900.0,2023,52888,Chevrolet,malibu,1381,10,0
+62995.0,2020,11989,Dodge,charger srt widebody hellcatsupercharged,683,15,0
+21990.0,2024,6225,Nissan,altima 25 sr,471,42,0
+13500.0,2021,25319,Hyundai,elantra navi leather interior heated seats,1003,24,0
+25319.0,2024,2716,Honda,accord ex,437,21,0
+11900.0,2018,68290,Lincoln,mkc,1443,31,0
+44990.0,2021,30750,Dodge,charger,646,15,0
+44995.0,2024,6838,Lexus,is350 f awd,1245,30,0
+23950.0,2022,53191,Mercedes-Benz,a220 a 220,344,36,0
+16900.0,2025,47858,Nissan,altima,462,42,0
+14999.0,2017,92587,Audi,a4 quattro plus,372,3,0
+7900.0,2016,105353,Buick,lacrosse,1287,8,0
+25950.0,2021,21122,Tesla,model 3 long range,1460,59,0
+23990.0,2020,74028,BMW,m235i xdrive gran m235i xdrive gran,1348,6,0
+15900.0,2022,116679,Tesla,model 3,1456,59,0
+64895.0,2022,28371,Mercedes-Benz,sclass s580,1811,36,0
+22000.0,2021,58670,Tesla,model 3,1456,59,0
+6990.0,2007,105595,BMW,335i 335i,149,6,0
+23000.0,2020,79000,Honda,accord,433,21,0
+23999.0,2020,59136,Toyota,camry xse,598,60,0
+13900.0,2018,82851,Ford,explorer,1045,17,0
+35400.0,2023,9300,BMW,3series,159,6,0
+37000.0,2022,28727,Dodge,charger scat pack,669,15,0
+16995.0,2006,50000,Cadillac,dts funeral coach,921,9,0
+26248.0,2024,17500,Honda,accord,433,21,0
+20995.0,2024,42853,Nissan,altima 25 sv,472,42,0
+21450.0,2019,97750,Dodge,charger rt,663,15,0
+25995.0,2024,19540,Honda,accord ex,437,21,0
+11999.0,2017,129346,Chevrolet,malibu ls,1384,10,0
+62499.0,2022,7000,Cadillac,cts vblackwing,882,9,0
+64500.0,2022,51340,Mercedes-Benz,sclass s 580 s580 s class 580 4matic awd highly optioned,1798,36,0
+22999.0,2019,26836,Ford,model a,1477,17,0
+22595.0,2017,14021,Honda,civic si,710,21,0
+9900.0,2017,65300,Kia,sorento,1910,28,0
+27500.0,2017,65000,Mercedes-Benz,eclass amg e43,956,36,0
+14900.0,2025,7922,Chevrolet,malibu,1381,10,0
+18995.0,2020,78143,Dodge,charger sxt 36l 292hp alloys 1 only,686,15,0
+21450.0,2019,70299,Tesla,model 3 long range,1460,59,0
+10395.0,2018,57602,Kia,forte lx,1090,28,0
+24800.0,2020,69182,BMW,5 series 540i,208,6,0
+15999.0,2020,96500,Toyota,corolla,773,60,0
+58500.0,2023,20824,Dodge,charger srt hellcat widebody jailbreak,680,15,0
+8499.0,2014,112433,Hyundai,elantra,995,24,0
+10999.0,2017,66225,Hyundai,sonata pzev,1902,24,0
+6999.0,2015,135199,Chrysler,200 200c,38,11,0
+27895.0,2022,22849,Audi,a4 s line 45 tfsi plus,376,3,0
+89991.0,2022,7348,Dodge,charger srt hellcat redeye jailbreak,678,15,0
+12900.0,2018,64300,Ford,mustang,1511,17,0
+17999.0,2018,70742,Hyundai,elantra,995,24,0
+6995.0,2012,111692,Volvo,s60 t5,1734,62,0
+14996.0,2017,88589,BMW,330i 330i,147,6,0
+6444.0,2009,139680,Toyota,corolla s,787,60,0
+59900.0,2024,5500,Mercedes-Benz,eqs eqs 450,1016,36,0
+14999.0,2021,43071,Nissan,sentra s,1842,42,0
+15495.0,2023,96141,Chevrolet,malibu lt,1386,10,0
+79995.0,2023,36000,Mercedes-Benz,sclass s 580 4matic,1795,36,0
+16990.0,2019,98438,Tesla,model 3 standard range plus,1473,59,0
+14500.0,2019,51620,Nissan,sentra s,1842,42,0
+12500.0,2017,41980,Chevrolet,malibu ls fleet,1385,10,0
+18900.0,2018,64272,Maserati,ghibli,1143,33,0
+13995.0,2019,58699,Hyundai,elantra,995,24,0
+11900.0,2018,50189,Mini,cooper,767,38,0
+14500.0,2017,30685,Hyundai,sonata,1889,24,0
+19900.0,2018,83560,Tesla,model 3 long range,1460,59,0
+30295.0,2022,49148,BMW,5series 530i,242,6,0
+69999.0,2023,3908,Porsche,taycan,1956,47,0
+21995.0,2021,68280,Dodge,charger,646,15,0
+80995.0,2023,2472,Dodge,charger srt hellcat jailbreak widebody,676,15,0
+7999.0,2019,123788,Nissan,sentra sv,1846,42,0
+24990.0,2021,42027,Tesla,model 3 long range,1460,59,0
+14900.0,2025,23333,Chevrolet,malibu,1381,10,0
+21733.0,2023,73431,Kia,k5 line,1279,28,0
+16777.0,2023,71139,Toyota,camry,578,60,0
+30900.0,2004,16699,Chevrolet,impala ss pace car,1225,10,0
+12500.0,2000,87945,Lexus,es platinum,1028,30,0
+3495.0,2007,167870,Mercedes-Benz,sclass s550 awd clear title not salvage,1809,36,0
+7999.0,2005,92430,Lincoln,town car one 29 service records non smoker,2005,31,0
+89900.0,2006,45174,Rolls-Royce,phantom florida car,1584,52,0
+9999.0,2017,78254,Audi,a4,354,3,0
+3200.0,2011,188000,Chevrolet,malibu lt w2lt,1388,10,0
+12995.0,2013,118000,BMW,3series 335i xdrive1,173,6,0
+3400.0,2005,0,Saturn,ion 2,1240,54,0
+9900.0,2009,71898,Cadillac,dts sdn w1sd,924,9,0
+1299.0,2009,193200,Toyota,camry base,583,60,1
+2475.0,2007,109428,Honda,civic lx like corolla camry subaru,707,21,1
+26899.0,2018,38761,Acura,rlx sh awd hybrid advance,1647,1,0
+26699.0,2018,55838,Cadillac,xts coachbuilder limo rare find rear seat pkg,2107,9,0
+7995.0,2007,56000,Mercedes-Benz,c230 c 230,556,36,0
+94999.0,2013,26439,Rolls-Royce,ghost,1155,52,0
+16000.0,2017,115000,Audi,a8 l quattro,423,3,0
+7997.0,2002,54720,Lincoln,ls rare lse town car continental,1325,31,0
+12000.0,2011,72033,Lexus,es 350,1020,30,0
+8500.0,2001,78000,Lexus,es,1018,30,0
+12900.0,2002,49550,Mercedes-Benz,sclass s 600,1799,36,0
+21288.0,2015,67315,Audi,s3 20t prestige performance pkg 2 67315 serviced,1694,3,0
+15900.0,2021,30800,Chevrolet,malibu rs,1390,10,0
+14995.0,2019,45669,Subaru,legacy awd 25i symmetrical,1312,57,0
+12999.0,2012,139794,Lexus,ls460 ls 460,1330,30,0
+11950.0,2014,124653,BMW,535i 535i,226,6,0
+27995.0,2007,105202,Audi,rs4 quattro,1668,3,0
+17488.0,2021,93713,Kia,k5 line,1279,28,0
+16800.0,2003,36969,Mercedes-Benz,50l,218,36,0
+25999.0,2018,60038,BMW,7series 740i,307,6,0
+14495.0,2018,95150,Mercedes-Benz,cla250 cla 250 4matic,720,36,0
+9900.0,2018,16992,Ford,ecosport,981,17,0
+31900.0,2021,38723,Dodge,charger scat pack widebody,670,15,0
+19991.0,2018,70983,Maserati,ghibli sq4,1154,33,0
+54890.0,2020,14175,Porsche,taycan taycan 4s all wheel drive 1,1962,47,0
+32759.0,2023,15232,Mercedes-Benz,claclass cla 250,724,36,0
+8993.0,2012,88942,BMW,328i 328i,142,6,0
+16491.0,2020,77452,Dodge,charger sxt,685,15,0
+7395.0,2012,102048,Volvo,s60 t5,1734,62,0
+23950.0,2020,31844,Tesla,model 3 long range,1460,59,0
+18999.0,2020,78660,Nissan,altima 25 s,467,42,0
+3000.0,2013,170000,Dodge,avenger sxt,513,15,0
+88500.0,2023,16470,Mercedes-Benz,s 580 4matic warmth comfort pkg w 3d cluster,1682,36,0
+40999.0,2023,4830,Mercedes-Benz,c43 amg 4matic 7103000,570,36,0
+10900.0,2018,62859,Mini,cooper s,770,38,0
+16100.0,2019,81479,Nissan,altima 25 sl,470,42,0
+53800.0,2025,14693,BMW,3 series m340i,93,6,0
+41000.0,2023,7706,Dodge,charger scat pack widebody,670,15,0
+19995.0,2022,85943,Nissan,altima 25 sl,470,42,0
+73995.0,2024,2755,Alfa Romeo,giulia quadrifoglio carbon,1166,2,0
+29777.0,2018,74518,Honda,civic touring hatchback,713,21,0
+10200.0,2018,82000,Ford,fusion s,1108,17,0
+8395.0,2013,102559,BMW,328i 328i,142,6,0
+8900.0,2013,100388,Audi,a4 plus,363,3,0
+10950.0,2014,113919,Mercedes-Benz,eclass e 350,962,36,0
+62500.0,2022,31500,Tesla,model s,1482,59,0
+31837.5,2023,29440,Dodge,charger scat pack,669,15,0
+7460.0,2011,127098,Subaru,legacy 25i awd cvt,1310,57,0
+74900.0,2023,31057,Mercedes-Benz,s580 4matic msrp 146910,1720,36,0
+13495.0,2013,81256,Audi,a7 30t quattro prem top,410,3,0
+27900.0,2019,45583,Tesla,model 3,1456,59,0
+16900.0,2021,113059,Toyota,camry,578,60,0
+9995.0,2017,87945,Hyundai,elantra,995,24,0
+36950.0,2021,26100,Dodge,charger scat pack widebody,670,15,0
+76500.0,2005,51271,Rolls-Royce,phantom rear curtains picnic tables sunroof 22 wheels,1588,52,0
+21500.0,2018,75920,Tesla,model 3 long range fastback,1465,59,0
+70000.0,2021,28542,Mercedes-Benz,sclass 580 4matic,1777,36,0
+54000.0,2023,23942,Cadillac,ct4v blackwing,839,9,0
+23450.0,2020,40221,Tesla,model 3 long range,1460,59,0
+17799.0,2014,66432,Mercedes-Benz,clsclass cls 550,738,36,0
+20998.0,2022,57410,Toyota,corolla,773,60,0
+81991.0,2023,6660,Dodge,charger srt hellcat jailbreak,675,15,0
+19930.0,2017,102186,Audi,a3,346,3,0
+17715.55,2015,136500,BMW,6series m and luxury package,286,6,0
+20998.0,2024,45350,Nissan,sentra sv,1846,42,0
+19999.0,2023,67427,Dodge,charger sxt,685,15,0
+28537.75,2010,55000,Bentley,continental flying spur,755,7,0
+10357.88,2017,107637,Nissan,altima,462,42,0
+3570.97,2010,193455,Mazda,3,75,35,0
+13215.23,2013,108000,Subaru,impreza,1228,57,0
+5143.22,2014,179800,Volkswagen,jetta,1247,61,0
+23930.28,2023,16000,Hyundai,elantra hybrid luxury,999,24,0
+3214.52,2002,180000,Audi,a4 a4,362,3,0
+5357.53,2006,116400,Chrysler,300 series,109,11,0
+12858.06,2012,55302,Chrysler,300 series 300c,111,11,0
+5928.99,2007,168000,Lincoln,town car,1994,31,0
+12140.15,2012,83347,Mercedes-Benz,cclass,614,36,0
+12500.89,2019,120700,Volkswagen,jetta,1247,61,0
+4920.35,2013,180965,Kia,optima,1529,28,0
+20572.9,2015,70000,Maserati,ghibli,1143,33,0
+17858.42,2015,110000,BMW,4series gran,201,6,0
+9286.38,2017,140900,Ford,fusion,1098,17,0
+8857.78,2013,172035,Volkswagen,jetta,1247,61,0
+9965.0,2014,60315,Kia,forte ex,1087,28,0
+17501.25,2019,75500,Nissan,sentra sv,1846,42,0
+8572.04,2013,165000,Buick,regal,1635,8,0
+4928.92,2005,199000,Jaguar,xtype,2114,26,0
+7857.7,2015,156800,Chrysler,200 series sports model,43,11,0
+4030.29,2002,193000,Mercedes-Benz,clkclass,730,36,0
+13178.8,2018,111447,Hyundai,elantra,995,24,0
+8572.04,2004,76000,Chrysler,pt cruiser,1595,11,0
+23400.0,2025,11828,Chevrolet,malibu 1lt,1383,10,0
+23690.0,2021,62431,Tesla,model 3 long range,1460,59,0
+13890.0,2019,96012,Honda,civic lx,704,21,0
+45995.0,2020,0,BMW,840i gran 840i grn,334,6,0
+7640.0,2015,130772,Volvo,s60 t5 drive e premier,1735,62,0
+89995.0,2023,21768,Dodge,charger srt redeye jailbreak,682,15,0
+38000.0,2022,15072,Dodge,charger scat pack widebody,670,15,0
+17999.0,2022,120883,Tesla,model 3 long range,1460,59,0
+7900.0,2013,107002,Hyundai,sonata gls pzev,1898,24,0
+11900.0,2023,66293,Chevrolet,malibu,1381,10,0
+79800.0,2023,12000,BMW,7 series 740i,287,6,0
+12900.0,2019,33357,GMC,terrain,1967,18,0
+2142.3,2012,191000,Chevrolet,cruze,818,10,0
+11995.0,2018,0,Hyundai,elantra,995,24,0
+27900.0,2023,37500,Kia,k5,1277,28,0
+11999.0,2017,114809,Hyundai,elantra,995,24,0
+12995.0,2015,104675,Mercedes-Benz,c300 sdn c 300,568,36,0
+13998.0,2022,170508,Toyota,corolla,773,60,0
+22999.0,2022,49162,Tesla,model 3 standard,1471,59,0
+20999.0,2019,90438,Tesla,model s long range,1490,59,0
+13995.0,2015,132801,Honda,accord ex l,438,21,0
+21998.0,2024,31645,Chevrolet,malibu lt,1386,10,0
+19995.0,2024,38972,Nissan,sentra sv,1846,42,0
+17777.0,2021,97157,Cadillac,ct4 luxury,835,9,0
+8900.0,2019,55481,Nissan,sentra,1837,42,0
+19900.0,2021,64979,RAM,1500,6,48,0
+79973.0,2022,39724,Dodge,charger srt hellcat redeye widebody,679,15,0
+13999.0,2020,46234,Hyundai,elantra,995,24,0
+14999.0,2017,101209,Mercedes-Benz,eclass e 300,958,36,0
+20200.0,2024,24245,Chevrolet,malibu lt,1386,10,0
+630.0,2007,162421,Lincoln,mkzzephyr,1451,31,1
+12995.0,2014,132498,Honda,accord ex l,438,21,0
+42599.0,2022,10452,Lexus,es350 base,1034,30,0
+64800.0,2023,971,Mercedes-Benz,eqe amg eqe 4matic,1010,36,0
+6998.0,2009,186204,Toyota,corolla base,777,60,0
+13900.0,2022,23757,Chevrolet,malibu,1381,10,0
+2000.14,2009,198500,Nissan,altima,462,42,0
+16195.0,2016,24636,Volkswagen,jetta 23998,1257,61,0
+21995.0,2022,94307,Honda,accord,433,21,0
+14990.0,2017,102450,Honda,civic touring,711,21,0
+24999.0,2021,80573,BMW,530i 530i,223,6,0
+5357.53,2001,165000,Saab,95,340,53,0
+13899.0,2023,105788,Chevrolet,malibu 1lt,1383,10,0
+16499.0,2022,34821,Nissan,altima 25 sl,470,42,0
+8795.0,2004,69803,Audi,a6 27t sline quattro automatic,387,3,0
+53795.0,2025,16474,BMW,5 series 540i xdrive,209,6,0
+38997.0,2025,14155,Mercedes-Benz,cclass c 300 4matic,624,36,0
+14950.0,2017,89466,Jaguar,xf 35t awd,2067,26,0
+7195.0,2000,81078,Jaguar,xj l,2076,26,0
+13950.0,2014,72502,Audi,a6 quattro 20t plus,397,3,0
+10950.0,2023,62996,Mitsubishi,mirage es cvt,1437,39,0
+9495.0,2016,146314,Mercedes-Benz,eclass e 350 4matic,963,36,0
+18550.0,2016,62798,Subaru,wrx,2051,57,0
+65995.0,2023,17655,Audi,rs etron quattro,1665,3,0
+40995.0,2023,19929,Mercedes-Benz,eqe eqe 500 4matic,1012,36,0
+80995.0,2025,7350,BMW,7 series 740i xdrive,288,6,0
+54599.0,2025,14518,Mercedes-Benz,eclass e 350 4matic,963,36,0
+15950.0,2013,75450,Tesla,model s performance,1496,59,0
+54595.0,2025,14667,Mercedes-Benz,eclass e 350 4matic,963,36,0
+43990.0,2023,29641,Lexus,es es 350 ultra luxury,1026,30,0
+5795.0,2009,121121,Audi,a4 20t quattro,358,3,0
+20490.0,2024,12113,Volkswagen,jetta automatic,1258,61,0
+13950.0,2013,88954,Jaguar,xj,2075,26,0
+20750.0,2019,78830,Subaru,wrx,2051,57,0
+13000.0,2006,89537,Volkswagen,phaeton,1581,61,0
+35999.0,2014,81445,Mercedes-Benz,s63 amg s 63 amg awd 4matic,1746,36,0
+15000.0,2019,26993,Hyundai,sonata,1889,24,0
+9999.0,2014,120197,Mercedes-Benz,eclass e 350,962,36,0
+24999.0,2025,3918,Hyundai,sonata,1889,24,0
+32995.0,2015,115880,BMW,m3,1349,6,0
+21980.0,2024,27217,Hyundai,sonata sel,1904,24,0
+5999.0,2008,99987,Lincoln,town car limousine pkg,2004,31,0
+13929.57,2015,168234,Cadillac,cts 4 door,869,9,0
+6071.86,2015,140700,Chevrolet,cruze,818,10,0
+7500.54,2014,184676,Ford,fusion,1098,17,0
+26355.45,2020,71839,Lexus,es300h,1029,30,0
+3214.52,2001,167700,Chrysler,300 series,109,11,0
+49923.57,2022,17273,Mercedes-Benz,claclass,721,36,0
+5857.56,2013,187000,Hyundai,makes elantra,1379,24,0
+5857.56,2008,131200,Mercedes-Benz,350e 4matic,157,36,0
+8929.21,2013,110000,Nissan,sentra,1837,42,0
+8464.89,2001,79000,Toyota,crown majesta majesta crown,808,60,0
+12858.06,2018,61000,Hyundai,elantra tech fully equipped 200hp,1006,24,0
+15622.54,2019,69710,Toyota,corolla,773,60,0
+10000.71,2012,129800,Volvo,s60,1729,62,0
+67777.0,2022,22052,Porsche,taycan taycan 4 door,1961,47,0
+9286.38,2015,166000,Volkswagen,jetta treadline,1272,61,0
+20358.6,2013,192000,Tesla,model s,1482,59,0
+12858.06,2015,154900,Ford,fusion titanium,1111,17,0
+37995.0,2025,16734,BMW,3 series 330i xdrive,89,6,0
+9995.0,2012,135993,Subaru,impreza wrx wrx,1236,57,0
+18495.0,2019,54593,BMW,4 series line,185,6,0
+5795.0,2011,168030,Toyota,camry i4 automatic,589,60,0
+26997.0,2024,25202,BMW,2 series 228i gran,35,6,0
+26995.0,2022,29875,BMW,2 series 228i xdrive gran,36,6,0
+26950.0,2017,74191,BMW,6 series 650i gran,267,6,0
+40995.0,2025,13383,Mercedes-Benz,cclass c 300 4matic,624,36,0
+44995.0,2025,14038,BMW,5 series 530i xdrive,205,6,0
+9995.0,2017,124763,Volkswagen,golf alltrack 18t sel dsg,1172,61,0
+40950.0,2020,53835,Audi,a8 l 60 tfsi quattro,422,3,0
+47595.0,2024,1960,Mercedes-Benz,eqe eqe 350,1011,36,0
+39595.0,2023,28305,Audi,a6 55 tfsi quattro,392,3,0
+9750.0,2006,74496,Mercedes-Benz,sclass s350 37l,1805,36,0
+42995.0,2025,10365,BMW,3 series 330i xdrive,89,6,0
+18995.0,2013,73826,BMW,6 series 650i xdrive gran,268,6,0
+40990.0,2023,10643,BMW,4 series 430i xdrive gran,184,6,0
+10995.0,2014,84777,Chrysler,300 300s awd,100,11,0
+8395.0,2008,80210,BMW,5 series 535xi,207,6,0
+11750.0,2009,49226,Mercedes-Benz,cclass c300 30l 4matic,631,36,0
+6495.0,2007,173336,Lexus,250 automatic awd,65,30,0
+6395.0,2007,167265,Audi,a4 20t quattro,358,3,0
+69995.0,2024,13361,Porsche,taycan,1956,47,0
+10495.0,2015,139674,Infiniti,q70l 37 awd,1616,25,0
+26950.0,2022,58441,Volkswagen,golf gti 20t autobahn,1173,61,0
+15495.0,2011,118428,BMW,3 series 335i,90,6,0
+10950.0,2024,52972,Mitsubishi,mirage g4 black cvt,1439,39,0
+24995.0,2023,14485,Nissan,altima 20 sr,463,42,0
+9495.0,2015,120548,BMW,3 series 328i xdrive,86,6,0
+18950.0,2015,55465,Jaguar,xj xjl portfolio awd,2091,26,0
+8495.0,2013,154958,Lexus,ct 200h 5dr hybrid,831,30,0
+53795.0,2025,16323,BMW,5 series 540i xdrive,209,6,0
+37998.0,2022,34568,Maserati,ghibli modena q4 30l,1146,33,0
+23900.0,2002,110955,Lexus,300 5speed 2jz 30l 6cyl lsd millenniu,101,30,0
+42495.0,2022,11483,Maserati,ghibli modena q4 30l,1146,33,0
+59900.0,2016,49745,Cadillac,ctsv ctsv carbon fiber pack 62l v8 sc all stoc,885,9,0
+14495.0,2019,83811,Acura,tlx 35l wtechnology pkg,1982,1,0
+38990.0,2023,36427,Infiniti,q50 red 400 awd,1612,25,0
+33950.0,2024,22459,BMW,3 series 330e xdrive plugin hybrid,87,6,0
+6295.0,2015,125603,Hyundai,sonata 24l,1891,24,0
+13950.0,2018,73337,Ford,fusion hybrid,1102,17,0
+17900.0,2017,66361,BMW,5 series 530i xdrive,205,6,0
+41995.0,2022,16522,Maserati,ghibli modena q4 30l,1146,33,0
+18995.0,2018,66974,Subaru,wrx,2051,57,0
+4999.0,2005,155193,Acura,tsx,2016,1,0
+24500.0,2024,33542,Honda,civic,691,21,0
+52999.0,2022,20722,Porsche,taycan,1956,47,0
+29900.0,2018,95808,BMW,m3,1349,6,0
+10995.0,2020,85843,Ford,fusion sel,1110,17,0
+14250.0,2021,110103,Kia,k5 lxs,1280,28,0
+9995.0,2014,73312,Volkswagen,jetta gli 30 6m,1260,61,0
+4900.0,2007,75831,BMW,5series i,255,6,0
+3100.0,2017,172474,Kia,forte lx,1090,28,0
+11749.0,2011,63678,Toyota,camry 6a,581,60,0
+19500.0,2005,35805,Jaguar,xj xj8 l,2087,26,0
+19220.0,2019,57666,Honda,civic exl,694,21,0
+37999.0,2021,37758,BMW,7series 740i,307,6,0
+10000.0,2008,42205,Jaguar,stype,1933,26,0
+4900.0,2007,154506,Honda,accord,433,21,0
+8999.0,2013,120931,BMW,335i 335i,149,6,0
+32990.0,2023,59038,Toyota,camry trd v6,595,60,0
+14995.0,2020,52322,Hyundai,elantra sel,1004,24,0
+3900.0,2017,192064,Nissan,altima 25 s,467,42,0
+42585.0,2018,51812,Porsche,panamera,1538,47,0
+9650.0,2019,123207,Lincoln,mkz reserve i,1450,31,0
+7795.0,2014,90118,BMW,3series 328i xdrive sulev,168,6,0
+6495.0,2013,159559,BMW,528i xdrive 528i xdrive,220,6,0
+2500.0,2009,169340,Ford,fusion,1098,17,0
+17400.0,2024,70020,Toyota,camry,578,60,0
+9999.0,2009,145823,Honda,civic si,710,21,0
+22500.0,2023,17234,Subaru,legacy,1307,57,0
+13999.0,2020,112024,Lincoln,mkz reserve,1449,31,0
+6595.0,2015,119886,Ford,fusion titanium,1111,17,0
+6900.0,2016,118081,Subaru,wrx,2051,57,0
+47500.0,2015,60000,BMW,m3 m3 competition upgrades exceptional transportation,1355,6,0
+4995.0,2002,158820,Toyota,camry,578,60,0
+10699.0,2014,96718,Lexus,es300h 300h,1030,30,0
+9275.0,2014,129995,Honda,accord exl,440,21,0
+15500.0,2020,10301,Hyundai,elantra value,1007,24,0
+3495.0,2012,77480,Honda,civic salvage damaged,709,21,0
+6877.0,2012,120293,BMW,528i xdrive 528i xdrive,220,6,0
+6999.0,2015,137234,Mazda,6 i touring,265,35,0
+38500.0,2015,79709,BMW,m3,1349,6,0
+14495.0,2022,49826,Volkswagen,passat,1561,61,0
+12663.0,2016,151028,BMW,4series 428i,198,6,0
+13500.0,2019,133002,Dodge,charger,646,15,0
+11900.0,2003,116018,Dodge,neon srt4,1516,15,0
+26580.0,2020,23115,Honda,accord,433,21,0
+68999.0,2024,2160,Mercedes-Benz,e350 e 350,933,36,0
+7495.0,2013,132942,Chrysler,300 series base awd,114,11,0
+8800.0,2013,118921,Volkswagen,passat tdi sel,1580,61,0
+13850.0,2017,41554,Volkswagen,passat 18t,1562,61,0
+8350.0,2001,59859,Toyota,camry,578,60,0
+13395.0,2013,167842,Lexus,es300h es 300h,1031,30,0
+9995.0,2015,76011,Jaguar,xf,2062,26,0
+10995.0,2008,49520,Mercury,grand marquis ls,1181,37,0
+15500.0,2024,95333,Toyota,camry,578,60,0
+14405.0,2014,79320,Maserati,quattroporte s q4,1629,33,0
+6999.0,2013,46149,Hyundai,accent gls,432,24,0
+13499.0,2023,34051,Nissan,sentra sr,1844,42,0
+12995.0,2000,105177,BMW,5series 540i,248,6,0
+18999.0,2013,95089,Lexus,ls460 base awd,1329,30,0
+8500.0,2004,52717,Honda,accord lx,447,21,0
+7900.0,2011,83580,BMW,3series 328i xdrive awd sulev,167,6,0
+49990.0,2017,32374,Chevrolet,ss base,1918,10,0
+13499.0,2019,40313,Chevrolet,cruze lt,827,10,0
+10800.0,2014,105192,Toyota,camry l,591,60,0
+13985.0,2014,52833,Mercedes-Benz,c300 c 300 4matic luxury,563,36,0
+18456.0,2025,17369,Nissan,altima 25 sv,472,42,0
+21900.0,2023,41938,Toyota,camry,578,60,0
+17000.0,2022,42545,Subaru,legacy,1307,57,0
+2999.0,2008,165336,Hyundai,elantra gls,996,24,0
+3900.0,2014,136014,Hyundai,elantra,995,24,0
+12995.0,2018,98133,Honda,civic ext cvt,697,21,0
+6999.0,2005,74202,Toyota,corolla,773,60,0
+7495.0,2016,118161,Ford,fusion s,1108,17,0
+24500.0,2014,33672,Lexus,gs350 350,1189,30,0
+12495.0,2018,96270,Ford,fusion titanium hybrid,1113,17,0
+18995.0,2018,38913,Mazda,6 touring,270,35,0
+7499.0,2018,147043,Nissan,altima 25 s,467,42,0
+6600.0,2014,122754,Audi,a4,354,3,0
+5500.0,2007,171849,Lexus,es 350 350,1021,30,0
+12995.0,2012,74006,BMW,5series 550i xdrive awd,253,6,0
+13985.0,2006,43316,Mercedes-Benz,sclass s 430,1785,36,0
+4999.0,2006,91760,Honda,civic hybrid,700,21,0
+13000.0,2002,113463,Nissan,maxima,1409,42,0
+16494.0,2020,99207,Chevrolet,impala lt,1217,10,0
+19995.0,2018,94536,BMW,5 series m550i xdrive awd heated leather moon gps m pkg,210,6,0
+20785.0,2020,95703,BMW,540i xdrive 540i xdrive,231,6,0
+3900.0,2013,191323,Honda,accord,433,21,0
+44999.0,2018,32523,BMW,m6 gran,1367,6,0
+15995.0,2013,67157,Audi,a8 30t quattro awd,415,3,0
+6900.0,2003,149885,Dodge,neon srt4,1516,15,0
+13999.0,2018,114216,Toyota,camry,578,60,0
+5990.0,2009,164907,Chevrolet,impala ss,1222,10,0
+15707.0,2022,54269,Kia,k5 lxs,1280,28,0
+2700.0,2006,190649,Honda,accord lx,447,21,0
+92990.0,2023,5917,BMW,m3 competition executive driving assist carbon fiber,1352,6,0
+18999.0,2016,62703,BMW,7series 750i xdrive,311,6,0
+11499.0,2016,128379,Honda,accord,433,21,0
+13688.0,2020,105228,Hyundai,sonata,1889,24,0
+19585.0,2016,60208,BMW,7series 750i xdrive,311,6,0
+7480.0,2023,118645,Kia,k5 line,1279,28,0
+36999.0,2019,46028,Jaguar,xj supercharged,2078,26,0
+8995.0,2016,186939,Honda,civic lx cvt,706,21,0
+2025.0,2003,130067,Lexus,gs,1185,30,1
+9995.0,2015,27000,Honda,civic natural gas,708,21,0
+7588.0,2011,52870,Ford,fusion hybrid florida rust focus,1103,17,0
+8998.0,2013,175831,Toyota,camry,578,60,0
+9200.0,2017,93500,BMW,grand grand,1177,6,0
+4995.0,2006,94091,BMW,7series 750li no rust straight socal lwb luxury,314,6,0
+85900.0,2013,26867,Bentley,mulsanne,1507,7,0
+10995.0,2007,76200,Lexus,es 350,1020,30,0
+8999.0,2013,139500,BMW,3series 328i,163,6,0
+16950.0,2009,37605,Ford,crown victoria police ho v8 street appearance package,816,17,0
+15000.0,2006,41600,Lincoln,town car designer,2000,31,0
+3490.0,2016,107000,Ford,focus s,1083,17,1
+10950.0,2014,83263,BMW,528i 528i,219,6,0
+11973.0,2017,141483,Honda,accord,433,21,0
+9850.0,2017,6450,Ford,focus s,1083,17,0
+17999.0,2008,40965,Mercedes-Benz,sclass only awd 4matic fully serviced,1784,36,0
+8000.0,2009,88699,Ford,crown victoria police interceptor,817,17,0
+5999.0,2012,56000,Ford,focus,1082,17,0
+6200.0,2013,170000,Buick,regal gs,1638,8,0
+12900.0,2019,52514,Chrysler,300 series,109,11,0
+13495.0,2020,63534,Ford,fusion,1098,17,0
+7199.0,2015,127231,Nissan,altima 25 sl,470,42,0
+11980.0,2017,115537,Cadillac,ats,494,9,0
+39999.0,2017,37570,Chevrolet,ss chevy ss ls3 v8 ship recaro seats,1919,10,0
+21999.0,2003,49547,Lincoln,town car cartier same for 21 years,1999,31,0
+7500.0,2012,99504,Honda,civic lx,704,21,0
+26995.0,2017,55012,Mercedes-Benz,cls550 cls 550 4matic,734,36,0
+22990.0,2021,65410,Audi,a5 sportback,383,3,0
+17000.0,2018,56376,Tesla,model 3,1456,59,1
+16995.0,2021,60247,Volkswagen,passat,1561,61,0
+29599.0,2015,53227,Porsche,panamera s e hybrid supercharged florida owned,1554,47,0
+6900.0,2014,118260,Volkswagen,cc,611,61,0
+9800.0,2016,92550,Ford,fusion titanium phev,1114,17,0
+27995.0,2018,101861,Mercedes-Benz,sclass,1766,36,0
+12595.0,2019,109632,Mercedes-Benz,cclass c300,630,36,0
+4395.0,2015,97797,Ford,fusion,1098,17,0
+17995.0,2021,114710,Toyota,camry,578,60,0
+29295.0,2017,47659,BMW,6series 650i gran,282,6,0
+5280.0,2002,117777,Toyota,camry,578,60,0
+14999.0,2020,189061,Toyota,camry,578,60,0
+6999.0,2000,91039,Honda,accord lx,447,21,0
+14995.0,2017,80190,Lincoln,continental,752,31,0
+6780.0,2005,172452,Ford,five hundred sel,1058,17,0
+17800.0,2017,15173,Honda,civic ex,692,21,0
+4995.0,2010,166239,Mercedes-Benz,cclass c300 4matic,632,36,0
+22300.0,2023,46149,Kia,k5 line,1279,28,0
+5500.0,2014,103109,Ford,focus,1082,17,0
+13499.0,2019,110556,Tesla,model 3 standard range,1472,59,0
+8995.0,2011,113034,Honda,accord lx,447,21,0
+23650.0,2019,90432,Audi,a8 30t l,414,3,0
+22595.0,2006,100471,Subaru,impreza wrx sti,1235,57,0
+25985.0,2022,73633,Kia,stinger gt2,1928,28,0
+7699.0,2009,96784,Ford,focus sel,1084,17,0
+22890.0,2019,61453,Dodge,charger 1 awd 57l hemi pursuit interceptor stealth cruiser,648,15,0
+7999.0,2013,176250,Honda,civic si,710,21,0
+8999.0,2009,104764,BMW,5series 535i xdrive awd,246,6,0
+8000.0,2018,158856,Ford,fusion,1098,17,0
+7900.0,2014,101194,Lexus,ls,1316,30,0
+10995.0,2013,42900,Audi,a6 20t quattro plus awd,386,3,0
+11608.0,2020,123843,Lincoln,mkzzephyr,1451,31,0
+9995.0,2007,63734,Lexus,es es 350 prem pkg sun heatcool seat wood,1025,30,0
+22700.0,2022,39019,Honda,civic touring,711,21,0
+58990.0,2019,72107,BMW,m5 base,1361,6,0
+5999.0,2010,80474,Hyundai,accent gls,432,24,0
+7900.0,2019,94973,Jaguar,xe,2058,26,0
+42977.0,2022,21671,BMW,540i xdrive 540i xdrive,231,6,0
+9995.0,2018,96166,Kia,optima ex,1530,28,0
+12500.0,2021,52969,Toyota,corolla,773,60,0
+57999.0,2023,34617,Porsche,taycan,1956,47,0
+19948.0,2014,106981,Lexus,sdn awd f,1833,30,0
+7995.0,2007,57428,Cadillac,dts base,920,9,0
+26745.0,2019,55931,BMW,640i xdrive gran turismo 640i gran turismo xdrive,276,6,0
+14250.0,2019,74753,Lincoln,mkz reserve i,1450,31,0
+17750.0,2021,83533,Kia,k5 line,1279,28,0
+7895.0,2002,59921,Mercedes-Benz,e430 e 430,935,36,0
+8499.0,2013,114642,BMW,535i xdrive 535i xdrive,228,6,0
+8995.0,2009,113223,Lincoln,town car signature,2008,31,0
+10555.0,2011,81342,Toyota,camry 6a,581,60,0
+13900.0,2010,69611,Lexus,ls 460,1317,30,0
+8995.0,2014,140723,Dodge,charger police awd v8,660,15,0
+8195.0,2010,92154,Lexus,es 350,1020,30,0
+12511.0,2013,82511,Honda,civic lx,704,21,0
+2095.0,2004,107092,Mercedes-Benz,cclass c230 salvage,628,36,0
+28995.0,2013,82439,BMW,m5,1360,6,0
+19000.0,2022,18086,Hyundai,sonata sel,1904,24,0
+28895.0,2024,18442,Hyundai,sonata n line 4door,1901,24,0
+14995.0,2018,113280,BMW,530i xdrive 530i xdrive,225,6,0
+10999.0,2013,132705,Lexus,es350 350,1033,30,0
+3795.0,2011,178169,Ford,crown victoria police interceptor,817,17,0
+2500.0,2011,190060,Hyundai,sonata gls,1896,24,0
+10995.0,2018,65411,Nissan,sentra sv,1846,42,0
+17800.0,2018,85163,Honda,accord exl,440,21,0
+11995.0,2018,132103,Chrysler,300 series s,118,11,0
+11999.0,2007,56477,Lexus,awd awd,517,30,0
+3500.0,2017,178776,Nissan,versa s,2041,42,0
+7995.0,2015,121042,Volkswagen,passat 20l tdi 6a wsunroof and navigation,1567,61,0
+17595.0,2015,73728,Subaru,impreza wrx,1234,57,0
+8800.0,2014,93992,Lincoln,mkzzephyr,1451,31,0
+7800.0,2014,126876,Volkswagen,passat 20l tdi,1566,61,0
+8995.0,2018,52237,Chevrolet,cruze ls,825,10,0
+8495.0,2008,97264,Lexus,is250 250,1243,30,0
+45595.0,2014,45364,ASTON MARTIN,rapide,1633,0,0
+20995.0,2023,56547,Toyota,camry,578,60,0
+16650.0,2018,50897,Audi,a6,384,3,0
+5495.0,2008,142284,BMW,535xi 535xi,229,6,0
+9995.0,2018,122376,Hyundai,sonata,1889,24,0
+7495.0,2011,136492,Acura,tsx base,2018,1,0
+16480.0,2017,76967,Infiniti,q50 30t,1602,25,0
+23995.0,2025,33108,Honda,civic,691,21,0
+23600.0,2025,3002,Hyundai,sonata sel,1904,24,0
+8999.0,2008,98876,Honda,accord ex,437,21,0
+13985.0,2007,57322,Mercedes-Benz,sclass s 550,1789,36,0
+39900.0,2020,85928,Audi,s8 40 tfsi,1748,3,0
+10999.0,2021,115189,Toyota,corolla,773,60,0
+39995.0,2018,60345,Chrysler,300 series hellcat swapped 800hp,117,11,0
+18950.0,2019,56030,BMW,5series 530i,242,6,0
+14900.0,2018,98456,Honda,civic si,710,21,0
+8350.0,2014,175802,Ford,fusion,1098,17,0
+24000.0,2023,16793,Honda,civic ex,692,21,0
+22995.0,2019,75588,Audi,a8 quattro l 30t,427,3,0
+15900.0,2022,42749,Toyota,corolla,773,60,0
+19500.0,2020,35136,Acura,ilx,1207,1,0
+4500.0,2007,127200,Toyota,corolla ce,778,60,0
+6999.0,2019,105404,Kia,forte lxs,1092,28,0
+23500.0,2023,8948,Honda,accord ex,437,21,0
+3995.0,2011,141450,Ford,fusion,1098,17,0
+11995.0,2015,102677,BMW,4series 428i xdrive gran awd,199,6,0
+11000.0,2017,39074,Hyundai,sonata,1889,24,0
+11999.0,2018,92136,Subaru,legacy 25i,1308,57,0
+13677.0,2023,48254,Nissan,versa sv,2043,42,0
+9995.0,2011,114000,BMW,7series v8 twin turbo,330,6,0
+12900.0,2022,49929,Chevrolet,malibu lt,1386,10,0
+12900.0,2022,62910,Chevrolet,malibu lt,1386,10,0
+10900.0,2013,66770,Toyota,corolla,773,60,0
+3500.0,2012,153843,Ford,taurus sel,1953,17,0
+29997.0,2025,21582,Toyota,camry awd,582,60,0
+13500.0,2022,40150,Chevrolet,malibu lt,1386,10,0
+18995.0,2019,86154,BMW,540i xdrive 540i xdrive,231,6,0
+19200.0,2024,29328,Toyota,corolla,773,60,0
+9795.0,2016,98102,Ford,taurus police awd,1950,17,0
+19795.0,2020,57746,Mercedes-Benz,cclass c300,630,36,0
+6800.0,2008,74839,Buick,lacrosse cx,1289,8,0
+11995.0,2019,109690,Toyota,corolla,773,60,0
+8891.0,2011,157308,Toyota,camry,578,60,0
+8495.0,2012,90026,Honda,civic lx,704,21,0
+8800.0,2014,137056,Volkswagen,passat 20l tdi sel,1569,61,0
+61999.0,2024,421,Mercedes-Benz,eqe 350,1009,36,0
+2995.0,2006,101190,Buick,lucerne cxs,1339,8,0
+7495.0,2012,79613,Volkswagen,passat s,1576,61,0
+11800.0,2010,84444,BMW,5series 550i,251,6,0
+5995.0,2006,65418,Buick,lacrosse cx,1289,8,0
+16995.0,2016,117952,Audi,a8 quattro l 40t,428,3,0
+3900.0,2015,129337,Nissan,altima,462,42,0
+9995.0,2011,63165,Mazda,3 s grand touring 5a,83,35,0
+7995.0,2014,86031,Ford,taurus police,1949,17,0
+4999.0,2007,84094,Audi,a6 quattro,396,3,0
+9750.0,2005,97878,Infiniti,q45 base,1597,25,0
+8000.0,2013,140130,Infiniti,g37 g37 journey,1121,25,0
+11995.0,2015,98591,Chrysler,300 series,109,11,0
+27480.0,2019,79038,Audi,a8,411,3,0
+4500.0,2014,146492,Ford,focus,1082,17,0
+16480.0,2019,39168,Kia,optima ex,1530,28,0
+10795.0,2017,119355,Dodge,charger awd 57l v8 hemi police,654,15,0
+3600.0,2014,158205,Dodge,avenger,511,15,0
+24995.0,2022,39000,BMW,2series 228i xdrive gran awd,72,6,0
+4999.0,2007,113025,Lincoln,town car executive wlimousine pkg,2002,31,0
+7995.0,2012,103957,Subaru,legacy 25i awd,1309,57,0
+24000.0,2023,19916,Honda,civic touring,711,21,0
+8395.0,2008,36619,Chevrolet,impala lt,1217,10,0
+94999.0,2016,59539,Rolls-Royce,ghost series ii,1160,52,0
+6795.0,2015,143227,Ford,taurus police awd,1950,17,0
+5995.0,2012,81594,Buick,verano leather,2035,8,0
+12500.0,2010,119615,BMW,535i i,227,6,0
+25985.0,2019,64370,Volvo,s90 t8 inscription,1760,62,0
+29999.0,2020,67549,Tesla,model s long range plus,1492,59,0
+16499.0,2019,85895,Honda,civic ex,692,21,0
+10495.0,2015,126092,Honda,accord exl,440,21,0
+7995.0,2013,123890,Honda,civic exl,694,21,0
+23000.0,2004,107322,Mercury,marauder,1393,37,0
+6800.0,2011,84758,Ford,fusion sel,1110,17,0
+14997.0,2016,93872,BMW,5 series 535i,206,6,0
+5800.0,2014,97767,Mercedes-Benz,cclass,614,36,0
+25999.0,2006,63215,BMW,m5,1360,6,0
+20995.0,2005,172102,Mitsubishi,lancer evolution viii,1302,39,0
+47999.0,2019,55071,Porsche,panamera 4,1539,47,0
+6499.0,2017,119895,Mazda,3 touring,95,35,0
+6995.0,2006,89837,Cadillac,dts leather wood cruise pwr seats mls,923,9,0
+8999.0,2014,36728,Volkswagen,jetta s 6a,1268,61,0
+6500.0,2015,68024,Chevrolet,cruze ls,825,10,0
+15900.0,2016,139519,BMW,3series 340i m,174,6,0
+8795.0,2018,113491,Ford,taurus police awd,1950,17,0
+19995.0,2003,65860,Audi,rs6 quattro awd only 450hp twin turbo leather moon,1673,3,0
+8500.0,2012,160508,Honda,accord exl,440,21,0
+2900.0,2013,164026,Hyundai,sonata hybrid,1899,24,0
+9999.0,2014,107962,Honda,civic lx,704,21,0
+9999.0,2013,60439,Mercedes-Benz,cclass c 300 4matic awd,625,36,0
+25999.0,2014,25575,Mercedes-Benz,sclass s 550,1789,36,0
+8995.0,2014,79737,Ford,fusion,1098,17,0
+19450.0,2024,37635,Toyota,corolla,773,60,0
+20250.0,2025,16603,Toyota,corolla,773,60,0
+2050.0,2007,119354,Volkswagen,jetta wolfsburg salvage,1273,61,0
+30950.0,2024,48076,Toyota,crown,806,60,0
+8995.0,2012,59728,Volkswagen,passat 6a,1572,61,0
+20500.0,2016,58582,Lexus,es300h 300h,1030,30,0
+32995.0,2020,41641,Audi,s6 premiumplus,1728,3,0
+15795.0,2012,116035,Mercedes-Benz,sclass s63,1828,36,0
+6795.0,2005,97053,Toyota,corolla ce,778,60,0
+6900.0,2001,48123,Mercedes-Benz,sclass s600,1823,36,0
+7800.0,2008,124673,Lexus,ls 460,1317,30,0
+42985.0,2018,36778,BMW,6series alpina b6 gran xdrive,285,6,0
+17995.0,2022,60512,Honda,civic,691,21,0
+20988.0,2019,71908,Honda,accord,433,21,0
+5499.0,2017,134610,Hyundai,elantra,995,24,0
+4500.0,2011,97169,Ford,taurus sho,1955,17,0
+10999.0,2014,54755,Cadillac,ats base,498,9,0
+9995.0,2005,19101,Dodge,neon sxt,1517,15,0
+22500.0,2019,29057,Toyota,camry,578,60,0
+9995.0,2011,76894,Nissan,maxima 35 sv,1413,42,0
+9995.0,2014,142000,BMW,750li 750 v8 turbo,301,6,0
+5495.0,2005,142657,Honda,civic hybrid 13l 5 speed 45 mpg,701,21,0
+10995.0,2002,48449,Infiniti,q45 base,1597,25,0
+18995.0,2021,37621,Toyota,camry,578,60,0
+16985.0,2018,90097,Volvo,s90 t6 momentum,1759,62,0
+7500.0,2014,146629,Acura,rlx tech,1648,1,0
+19999.0,2020,77943,Kia,stinger gt1 awd,1927,28,0
+43585.0,2020,32557,Mercedes-Benz,sclass s 560,1792,36,0
+3500.0,2006,137240,Lincoln,zephyr,2123,31,0
+25936.0,2017,63500,Audi,s3 20 tfsi plus,1692,3,0
+21895.0,2020,52309,Audi,a6,384,3,0
+24595.0,2017,65519,Subaru,wrx sti,2054,57,0
+6499.0,2018,129303,Hyundai,elantra sel,1004,24,0
+28995.0,2022,23152,Kia,stinger gt2,1928,28,0
+4995.0,2009,182703,Lexus,is250 250,1243,30,0
+11495.0,2011,119542,Honda,accord lx pink wide body show car,449,21,0
+8995.0,2016,154900,Honda,civic lx,704,21,0
+15259.0,2016,48459,Audi,a6 plus,393,3,0
+15995.0,2017,75316,Chevrolet,impala premier,1220,10,0
+9995.0,2013,59584,Ford,fusion,1098,17,0
+4495.0,2014,148375,Hyundai,elantra,995,24,0
+6500.0,2011,148762,Toyota,camry,578,60,0
+9999.0,2010,62298,Buick,lacrosse cxl,1290,8,0
+23700.0,2024,13509,Honda,accord ex,437,21,0
+8995.0,2011,80695,Toyota,camry,578,60,0
+4995.0,2013,95524,Audi,a6 20t quattro awd salvage,385,3,0
+6995.0,2010,165656,Honda,accord exl,440,21,0
+6900.0,2014,115594,Cadillac,cts luxury collection,877,9,0
+18995.0,2021,92875,Audi,a6 45 tfsi,389,3,0
+11585.0,2015,61162,Hyundai,sonata 20t,1890,24,0
+25999.0,2019,74815,Subaru,wrx sti sti awd w wing spoiler,2057,57,0
+15495.0,2018,59766,Nissan,maxima sv,1422,42,0
+5500.0,2007,156394,Lexus,ls 460,1317,30,0
+18927.0,2022,61645,Honda,civic,691,21,0
+25000.0,2024,15709,Honda,accord ex,437,21,0
+6800.0,2007,67631,Chevrolet,impala lt,1217,10,0
+5995.0,2011,110000,Chevrolet,cruze lt fleet,828,10,0
+13900.0,2017,92009,Honda,civic ext,696,21,0
+19999.0,2016,24123,Jaguar,xj xj r,2083,26,0
+49999.0,2022,14286,Audi,rs etron,1663,3,0
+2495.0,2006,136247,Audi,a4 20t quattro awd salvage damaged,360,3,0
+17450.0,2018,116746,Toyota,avalon,504,60,0
+12995.0,2018,90236,Honda,civic lx,704,21,0
+17995.0,2024,24499,Kia,forte lxs,1092,28,0
+6900.0,2019,138220,Toyota,yaris l,2120,60,0
+17995.0,2022,21649,Subaru,wrx only 24l 6 speed lowered 18s,2053,57,0
+3995.0,2008,177900,Hyundai,sonata gls,1896,24,0
+14995.0,2015,100806,BMW,3 series 335i xdrive m pkg leather gps moon,91,6,0
+6999.0,2018,124273,Hyundai,accent,431,24,0
+19999.0,2016,92555,Audi,a8 30 quattro tdi awd,412,3,0
+8900.0,2019,39878,Toyota,camry,578,60,0
+4200.0,2013,170018,Hyundai,sonata,1889,24,0
+3400.0,2016,127231,Dodge,dart sxt,898,15,0
+7495.0,2005,45599,Chevrolet,malibu ls,1384,10,0
+17985.0,2015,87388,BMW,335i 335i,149,6,0
+19495.0,2021,97710,Honda,accord,433,21,0
+9999.0,2016,106413,Mazda,6 i touring,265,35,0
+5499.0,2007,0,BMW,328i 328i,142,6,0
+39900.0,2015,57650,Mercedes-Benz,sclass s 63 amg 4matic stock 171031,1803,36,0
+37888.0,2024,17991,Mercedes-Benz,cclass c 300,623,36,0
+20595.0,2018,0,Infiniti,q50 30t luxe,1604,25,0
+25500.0,2024,16492,Toyota,camry nightshade,592,60,0
+19999.0,2022,112451,Toyota,avalon,504,60,0
+12495.0,2019,110822,Nissan,altima 25 sv awd moon backup cam newer tires,475,42,0
+10999.0,2008,123133,Lexus,ls460 460,1327,30,0
+11900.0,2014,58331,Mercedes-Benz,c300 c 300 luxury,564,36,0
+9890.0,2015,91262,BMW,328i 328i sulev,143,6,0
+33000.0,2003,16220,Mercury,marauder,1393,37,0
+9999.0,2018,50691,Nissan,sentra nismo,1841,42,0
+10499.0,2012,95984,Mercedes-Benz,s550 s 550,1712,36,0
+7995.0,2010,58881,Volkswagen,passat komfort,1573,61,0
+5900.0,2015,119738,Hyundai,sonata,1889,24,0
+7995.0,2005,50647,Cadillac,deville dts,915,9,0
+8990.0,2016,94281,Audi,a4,354,3,0
+23500.0,2021,32661,Hyundai,sonata sel,1904,24,0
+9950.0,2016,125186,Audi,a6 plus,393,3,0
+25488.0,2023,44141,Toyota,camry,578,60,0
+24995.0,2025,22443,Toyota,camry,578,60,0
+9900.0,2016,98961,Audi,a3 18t,347,3,0
+17495.0,2015,61653,BMW,5series m pkg msrp,257,6,0
+10999.0,2020,113688,Nissan,versa sv,2043,42,0
+25795.0,2020,54317,Dodge,charger awd 57l v8 hemi redblue visor and led lights,655,15,0
+5995.0,2006,82274,Mazda,6 i,263,35,0
+11994.0,2014,90856,Volkswagen,jetta gli automatic california car,1262,61,0
+13995.0,2017,55432,Chevrolet,malibu premier,1389,10,0
+9195.0,2010,74443,Acura,tsx 5speed at,2017,1,0
+53899.0,2023,23291,Mercedes-Benz,amg eqe,487,36,0
+12795.0,2019,117332,Dodge,charger awd 57l v8 hemi police,654,15,0
+27495.0,2023,53121,Dodge,charger rt,663,15,0
+52999.0,2022,5368,Audi,rs etron,1663,3,0
+5499.0,2013,138855,BMW,320i xdrive 320i xdrive,140,6,0
+22111.0,2015,53377,BMW,6series 650i xdrive gran,283,6,0
+8800.0,2012,135915,Honda,accord exl,440,21,0
+26500.0,2024,17314,Honda,accord ex,437,21,0
+27890.0,2025,16,Honda,accord,433,21,0
+4600.0,2008,90553,Ford,focus,1082,17,0
+16490.0,2019,88635,Honda,accord,433,21,0
+29995.0,2017,32093,Honda,accord touring v6 6spd at,454,21,0
+12500.0,2016,98924,Audi,a4 premiumplus,365,3,0
+23985.0,2012,26136,Porsche,panamera 4,1539,47,0
+14495.0,2025,10303,Nissan,sentra sv,1846,42,0
+11995.0,2016,0,Honda,civic lx,704,21,0
+22832.0,2025,23981,Nissan,altima 25 sv,472,42,0
+12990.0,2015,105628,Ford,taurus h0 35l turbo awd police interceptor hd pursuit ppv ssp,1948,17,0
+13990.0,2018,64867,Toyota,corolla l,782,60,0
+11795.0,2016,72823,Dodge,charger 36l v6 police w street appearance package,650,15,0
+9800.0,2000,144124,Toyota,corolla ve,794,60,0
+22500.0,2017,72074,Hyundai,elantra,995,24,0
+10990.0,2011,101557,Mercedes-Benz,s550 s 550,1712,36,0
+16900.0,2016,76218,Honda,civic lx,704,21,0
+27999.0,2024,22883,Hyundai,sonata,1889,24,0
+4795.0,2015,194523,Ford,taurus police awd,1950,17,0
+10999.0,2019,107249,Nissan,sentra sr,1844,42,0
+6495.0,2015,152487,Chrysler,200 series,40,11,0
+13995.0,2015,155644,Lexus,f,1046,30,0
+22307.0,2025,36873,Toyota,camry,578,60,0
+4800.0,2001,90005,Buick,century custom,640,8,0
+9995.0,2014,123134,Audi,a6 30 quattro tdi plus awd,388,3,0
+12900.0,2015,88000,Audi,a4 quattro premiumplus,373,3,0
+14995.0,2017,97915,Infiniti,q50 30t,1602,25,0
+19495.0,2016,51768,BMW,7series xdrive msrp,332,6,0
+10995.0,2007,60924,Lincoln,town car signature,2008,31,0
+8995.0,2012,92704,Lexus,es es 350,1024,30,0
+24900.0,2013,61512,BMW,6series 640i gran,281,6,0
+11800.0,2017,128703,Audi,a4 20t quattro plus,361,3,0
+84999.0,2023,26029,BMW,m8 competition gran,1372,6,0
+17995.0,2020,68167,Lincoln,mkzzephyr standard,1454,31,0
+20895.0,2016,76428,Lexus,gs350 350,1189,30,0
+12750.0,2016,71537,BMW,3series 328i,163,6,0
+4200.0,2012,100834,Hyundai,sonata gls,1896,24,0
+18899.0,2017,78984,Mercedes-Benz,e300 e 300,928,36,0
+8890.0,2001,118006,Toyota,camry ce 22l dohc 16v 5speed cold ac classic,585,60,0
+26350.0,2021,67361,Chrysler,300 touring l,127,11,0
+59999.0,2021,32376,Porsche,panamera,1538,47,0
+10495.0,2015,81900,Mazda,6 i grand touring,264,35,0
+8499.0,2015,128676,Mazda,3 i,80,35,0
+8500.0,2013,131727,Lincoln,mkzzephyr,1451,31,0
+9395.0,2014,94778,BMW,3series 320i xdrive,161,6,0
+6495.0,2010,126695,Honda,civic lx,704,21,0
+14349.0,2015,118637,BMW,640i xdrive gran 640i xdrive,275,6,0
+14885.0,2015,75459,BMW,740li 740li,292,6,0
+25900.0,2024,58415,Honda,accord l,446,21,0
+14500.0,2008,85592,Cadillac,dts,919,9,0
+50999.0,2022,46358,BMW,7series 750i xdrive,311,6,0
+79998.0,2020,39287,Mercedes-Benz,sclass s 63 amg 4matic 172995 msrp,1802,36,0
+18000.0,2019,98080,Honda,accord touring 20t,453,21,0
+25300.0,2024,28553,Honda,accord,433,21,0
+16424.0,2018,40091,Ford,fusion s,1108,17,0
+6995.0,2006,46256,Chrysler,300 series touring,122,11,0
+7800.0,2009,81562,Mercedes-Benz,eclass e 350 4matic,963,36,0
+16621.0,2018,57843,Audi,a4 quattro,367,3,0
+12950.0,2021,123381,Hyundai,sonata,1889,24,0
+32500.0,2021,50376,Lexus,es 300h,1019,30,0
+8825.0,2014,80398,Jaguar,xf 30l sc,2066,26,0
+46995.0,2021,47050,BMW,5series m550i xdrive,258,6,0
+4995.0,2008,152343,Audi,a4 20t quattro,358,3,0
+17995.0,2011,64054,Porsche,panamera msrp,1550,47,0
+19477.0,2024,19027,Hyundai,elantra sel,1004,24,0
+7999.0,2013,96414,Hyundai,elantra gls,996,24,0
+9995.0,2016,70231,Nissan,altima 35 sr,476,42,0
+3995.0,2013,103821,Kia,rio lx 37mpg 5 speed,1643,28,0
+16700.0,2023,50631,Hyundai,sonata sel,1904,24,0
+6995.0,2011,110290,BMW,535i xdrive 535i xdrive,228,6,0
+8995.0,2021,45566,Mitsubishi,mirage g4,1438,39,0
+41900.0,2018,45849,BMW,m3 competition,1351,6,0
+13995.0,2016,70984,Nissan,maxima 35 sr,1412,42,0
+22995.0,2025,6524,Honda,civic,691,21,0
+13999.0,2016,68330,Toyota,camry,578,60,0
+2800.0,2009,161695,Subaru,impreza 25i,1231,57,0
+10500.0,2022,150545,Toyota,corolla,773,60,0
+6999.0,2007,67424,Mercedes-Benz,cclass c 230,622,36,0
+6990.0,2016,110171,Nissan,altima 25 sv,472,42,0
+14650.0,2019,49573,Volkswagen,jetta 14t s,1250,61,0
+31985.0,2019,19353,BMW,5series 540i xdrive,249,6,0
+10500.0,2007,142210,Honda,civic si,710,21,0
+13995.0,2018,82155,Chevrolet,impala lt,1217,10,0
+8995.0,2010,72191,Audi,a4 20t quattro awd 6m,359,3,0
+17495.0,2019,53897,Honda,civic lx,704,21,0
+20495.0,2022,16023,Acura,ilx pkg,1211,1,0
+3500.0,2014,161870,Volkswagen,passat s 18t wolfsburg,1577,61,0
+20295.0,2024,9362,Honda,civic,691,21,0
+52499.0,2013,60353,Mercedes-Benz,cclass c63 amg,635,36,0
+5995.0,2012,56180,Chevrolet,sonic ls,1906,10,0
+8500.0,2001,67052,Lincoln,town car hearse,2003,31,0
+1900.0,2001,172800,Buick,century custom,640,8,0
+5246.0,2008,102299,Nissan,altima 25 s,467,42,0
+15500.0,2019,72022,Honda,civic ex,692,21,0
+8495.0,2017,92369,Chevrolet,cruze lt,827,10,0
+6995.0,2018,102165,Ford,fiesta,1054,17,0
+17834.0,2024,50952,Hyundai,sonata sel,1904,24,0
+9566.0,2015,103897,Hyundai,sonata,1889,24,0
+9995.0,2012,86642,Honda,civic lx,704,21,0
+73985.0,2022,32528,BMW,7series m760i xdrive,328,6,0
+19350.0,2023,34064,Hyundai,sonata,1889,24,0
+11495.0,2016,88882,Nissan,maxima sl,1421,42,0
+9999.0,2013,103587,Honda,accord,433,21,0
+6999.0,2015,98414,Lincoln,mks ecoboost,1445,31,0
+8900.0,2016,133210,Ford,taurus awd,1946,17,0
+4295.0,2006,175352,Toyota,corolla,773,60,0
+11985.0,2018,63364,Volvo,s60 t5 dynamic,1736,62,0
+16980.0,2016,76846,Mercedes-Benz,cclass c 300,623,36,0
+5800.0,2007,93123,Buick,lucerne cxl v6,1338,8,0
+13950.0,2019,97742,BMW,530i xdrive 530i xdrive,225,6,0
+69800.0,2008,63387,Audi,rs4 quattro 42 v8 6speed amd hp supercharger kit ton,1669,3,0
+14900.0,2018,55500,Dodge,charger awd,651,15,0
+51999.0,2020,49112,Porsche,panamera 4 msrp pkg heatedcooled seats,1542,47,0
+26995.0,2017,51192,BMW,650i gran 650i gran,278,6,0
+11911.0,2017,93242,Ford,fusion titanium,1111,17,0
+12995.0,2016,84900,Mercedes-Benz,eclass e350,973,36,0
+12499.0,2016,100627,Nissan,maxima platinum,1418,42,0
+19211.0,2017,78028,Cadillac,ct6 30l twin turbo luxury,852,9,0
+6499.0,2017,124564,Ford,fusion s,1108,17,0
+6995.0,2014,103550,Ford,taurus police,1949,17,0
+17995.0,2016,76382,Subaru,wrx,2051,57,0
+3995.0,2010,168786,Honda,civic lx,704,21,0
+10991.0,2016,126590,Honda,civic ext,696,21,0
+26850.0,2024,20651,BMW,2series 228i,70,6,0
+13500.0,2009,82000,Ford,crown victoria police interceptor,817,17,0
+7000.0,2017,46037,Toyota,mirai,1441,60,0
+1400.0,2001,150000,Toyota,prius,1594,60,0
+3000.0,2004,140000,Lincoln,mkc,1443,31,0
+14595.0,2011,93052,Audi,s4 30 plus,1696,3,0
+7400.0,2000,23560,Toyota,camry ce,584,60,0
+2799.0,2014,178401,Chevrolet,cruze 1lt,819,10,0
+12000.0,2006,148000,BMW,m5,1360,6,0
+8865.0,2009,50225,Lincoln,signature 50225,1866,31,0
+22499.0,2014,55436,Porsche,panamera 4 awd marsala red interior only bose audio,1541,47,0
+16650.0,2014,74106,Porsche,panamera,1538,47,0
+49900.0,2016,93250,Mercedes-Benz,sclass s600 maybach celebrity owned massive msrp,1826,36,0
+8995.0,2016,76511,Dodge,charger police,659,15,0
+19999.0,2003,53488,Lincoln,town car cartier florida car,1995,31,0
+21399.0,2017,42604,Cadillac,ct6 plugin hybrid 20t turbocharged rare find,857,9,0
+21890.0,2019,72616,BMW,5 series msport 530i cert financeship,211,6,0
+32800.0,2020,36541,Subaru,wrx sti,2054,57,0
+13900.0,2019,65481,Jaguar,xe,2058,26,0
+19995.0,2004,115051,Subaru,impreza wrx sti,1235,57,0
+35585.0,2023,16089,Lexus,350 f,154,30,0
+25980.0,2014,97755,BMW,m5,1360,6,0
+7995.0,2014,176245,Toyota,camry,578,60,0
+22500.0,2024,4926,Nissan,sentra sr,1844,42,0
+5900.0,2014,137843,Cadillac,ats luxury,499,9,0
+19997.0,2002,57146,Lexus,300,96,30,0
+13450.0,2015,128114,Volkswagen,passat 20 diesel tdi,1565,61,0
+6900.0,2014,130818,BMW,7series 750li,313,6,0
+22788.0,2022,30144,Hyundai,sonata,1889,24,0
+9995.0,2003,76452,Lexus,ls430 430,1326,30,0
+9995.0,2016,104792,Chrysler,200 series s awd,42,11,0
+29800.0,2022,49444,Mercedes-Benz,cclass c 300,623,36,0
+23995.0,2019,23409,Maserati,ghibli s q4 granlusso,1153,33,0
+14552.0,2020,63327,Hyundai,sonata sel,1904,24,0
+9699.0,2015,98625,Cadillac,ats luxury,499,9,0
+20100.0,2024,45842,Nissan,altima 25 sv,472,42,0
+13800.0,2014,80950,Volkswagen,jetta tdi,1271,61,0
+27999.0,2023,37009,Audi,a4 quattro quattro s line prem plus 45 tfsi,374,3,0
+17000.0,2020,101192,Honda,accord,433,21,0
+17500.0,2021,61202,Honda,civic lx,704,21,0
+10995.0,2015,100546,Honda,accord exl,440,21,0
+10999.0,2017,111192,Nissan,maxima 35 sv midyear release,1414,42,0
+14488.0,2018,94386,Audi,a4 quattro premiumplus,373,3,0
+31990.0,2024,2659,Subaru,wrx,2051,57,0
+4900.0,2001,174004,Lexus,300,96,30,0
+20400.0,2024,42851,Nissan,altima 25 sv,472,42,0
+16985.0,2013,56331,Jaguar,xj xjl portfolio,2090,26,0
+28999.0,2024,22866,Hyundai,sonata,1889,24,0
+9995.0,2010,71548,Audi,a4 20t quattro awd 6m,359,3,0
+21500.0,2023,14237,Honda,civic lx,704,21,0
+15400.0,2018,46271,Cadillac,ats 20t awd,495,9,0
+7995.0,2016,64901,Chevrolet,cruze 1lt,819,10,0
+7995.0,2005,56731,Chrysler,300 series touring awd,123,11,0
+7995.0,2013,71461,Chevrolet,malibu ls,1384,10,0
+27800.0,2023,39000,Honda,accord touring,452,21,0
+13995.0,2018,3841,Ford,focus s,1083,17,0
+6487.0,2004,146327,Toyota,camry sdn natl,593,60,0
+8995.0,2015,111625,Nissan,altima 25 sv,472,42,0
+9999.0,2018,86521,Chevrolet,cruze ls,825,10,0
+5999.0,2001,81881,Mazda,millenia,1434,35,0
+11950.0,2018,81918,BMW,3series 320i,160,6,0
+29000.0,2024,16901,Honda,accord,433,21,0
+14995.0,2018,92704,BMW,530e xdrive 530e xdrive iperformance,222,6,0
+20999.0,2017,61143,Maserati,ghibli base,1144,33,0
+29980.0,2014,92339,Jaguar,xf v8 xfrs,2072,26,0
+7995.0,2011,65964,Hyundai,sonata gls 6a,1897,24,0
+3595.0,2006,49271,Volkswagen,jetta insurance theft recovery salvage,1264,61,0
+8995.0,2010,47324,Lincoln,mkzzephyr base,1452,31,0
+12995.0,2021,105821,Hyundai,sonata sel,1904,24,0
+9995.0,2014,94545,BMW,328i xdrive 328i xdrive,144,6,0
+24495.0,2017,64030,Tesla,model s p100d awd fsd autopilot pano wood mls,1493,59,0
+26675.0,2022,50076,Chrysler,300 300s,98,11,0
+6500.0,2020,85788,Chevrolet,malibu lt,1386,10,0
+18900.0,2016,70305,Mercedes-Benz,e350 e 350,933,36,0
+6877.0,2013,92659,Lincoln,mkz base,1446,31,0
+21995.0,2022,68733,Chrysler,300 series touring l,124,11,0
+46999.0,2020,31642,Mercedes-Benz,sclass s 560 4matic,1793,36,0
+21000.0,2025,11506,Hyundai,sonata,1889,24,0
+20995.0,2016,86713,BMW,7series 750i xdrive awd,312,6,0
+11500.0,2017,106420,Audi,a4 ultra,379,3,0
+2990.0,2009,89070,Nissan,versa base,2040,42,0
+13990.0,2017,90129,Audi,a4 quattro,367,3,0
+11995.0,2018,83791,Hyundai,sonata,1889,24,0
+3995.0,2010,198395,Audi,a4 20t,356,3,0
+13995.0,2021,101565,Hyundai,sonata,1889,24,0
+27326.0,2024,56305,Honda,accord ex,437,21,0
+46995.0,2023,37704,BMW,540i xdrive 540i xdrive,231,6,0
+10750.0,2012,66265,Honda,accord lx p,448,21,0
+10400.0,2019,31814,Ford,fiesta,1054,17,0
+13285.0,2019,71116,Kia,optima s,1533,28,0
+28000.0,2020,41204,Cadillac,ct5v vseries,850,9,0
+22500.0,2021,13866,Honda,accord special,451,21,0
+23999.0,2018,64144,Infiniti,q50 red 400,1611,25,0
+33999.0,2019,45462,Audi,a8 l 30t,418,3,0
+14995.0,2023,42068,Mazda,3 select,84,35,0
+11999.0,2013,93652,Honda,accord exl v6,443,21,0
+22495.0,2021,38752,Toyota,camry,578,60,0
+7977.0,2014,125819,Toyota,corolla plus,786,60,0
+54999.0,2016,53000,Mercedes-Benz,sclass mercedesmaybach s 600,1783,36,0
+10350.0,2016,110278,Mercedes-Benz,cclass c300,630,36,0
+18999.0,2021,87444,Honda,accord,433,21,0
+25700.0,2022,24844,Toyota,camry,578,60,0
+14995.0,2022,102273,Dodge,charger awd 36l v6 police redblue lightbar and led li,653,15,0
+20000.0,2009,142740,Cadillac,ctsv ctsv,884,9,0
+16785.0,2019,100314,Audi,a6 quattro 55 tfsi prestige,407,3,0
+39985.0,2018,45479,Mercedes-Benz,sclass s 560,1792,36,0
+10500.0,2016,59445,Ford,fusion,1098,17,0
+7999.0,2016,112178,Chrysler,200 series c,41,11,0
+23995.0,2019,78033,Audi,s4 premiumplus,1701,3,0
+37997.0,2002,77923,Bentley,arnage red label,491,7,0
+7995.0,2014,87299,Volkswagen,passat,1561,61,0
+29395.0,2018,94218,Mercedes-Benz,s560 s 560,1716,36,0
+30995.0,2017,99083,Lexus,ls ls 460,1323,30,0
+12987.0,2019,54521,Kia,optima s,1533,28,0
+68999.0,2018,32272,Mercedes-Benz,mercedesmaybach sclass s 560 4matic,1430,36,0
+25995.0,2019,82501,Subaru,wrx sti,2054,57,0
+69985.0,2021,39009,BMW,7series alpina b7 xdrive,322,6,0
+8995.0,2011,71678,Toyota,camry,578,60,0
+11990.0,2019,93650,Toyota,corolla,773,60,0
+8999.0,2014,96002,Lincoln,mkz base,1446,31,0
+24995.0,2018,85338,BMW,540i xdrive 540i xdrive,231,6,0
+8999.0,2012,149815,Honda,civic lx,704,21,0
+5995.0,2006,90297,Jaguar,xtype 30l awd,2117,26,0
+15985.0,2018,27776,Jaguar,xf xf 35t portfolio,2073,26,0
+48136.0,2025,4662,Cadillac,ct4v vseries,840,9,0
+8495.0,2014,139030,BMW,7series 740i,307,6,0
+46999.0,2024,8257,Mercedes-Benz,c300 c 300,561,36,0
+23995.0,2020,54279,BMW,540i xdrive 540i xdrive,231,6,0
+11395.0,2012,37352,Cadillac,cts luxury,875,9,0
+25890.0,2024,7761,Honda,accord ex,437,21,0
+15795.0,2021,60284,Nissan,versa sv,2043,42,0
+21990.0,2023,19525,Honda,civic,691,21,0
+44995.0,2018,52282,Porsche,panamera,1538,47,0
+26495.0,2025,9156,Honda,civic si,710,21,0
+96500.0,2023,11310,BMW,m3 competition xdrive,1353,6,0
+38585.0,2018,34195,Mercedes-Benz,sclass s 450 4matic,1786,36,0
+6499.0,2014,128246,Chevrolet,impala lt,1217,10,0
+19900.0,2023,29740,Honda,civic,691,21,0
+9995.0,2018,44477,Ford,focus,1082,17,0
+8900.0,2021,100870,Volkswagen,passat,1561,61,0
+12999.0,2016,60287,Mercedes-Benz,claclass cla 250,724,36,0
+10499.0,2015,65184,Kia,cadenza,576,28,0
+81800.0,2024,5475,Tesla,model s plaid,1499,59,0
+15995.0,2018,67067,Honda,accord,433,21,0
+25980.0,2014,87812,BMW,m5,1360,6,0
+12995.0,2015,72921,BMW,528i xdrive 528i xdrive,220,6,0
+8499.0,2018,85934,Hyundai,elantra,995,24,0
+17995.0,2015,57293,Honda,accord exl,440,21,0
+12999.0,2017,126909,Mercedes-Benz,e300 e 300,928,36,0
+10999.0,2019,91185,Ford,fusion titanium,1111,17,0
+9995.0,2006,50641,Honda,accord ex wleather 5a,439,21,0
+12700.0,2015,84835,BMW,750li xdrive 750li xdrive,302,6,0
+7800.0,2004,125249,Buick,park avenue,1559,8,0
+15995.0,2019,78179,Honda,civic,691,21,0
+12880.0,2020,81248,Chevrolet,sonic premier,1908,10,0
+25554.0,2022,30306,Honda,civic si,710,21,0
+13999.0,2021,60931,Nissan,sentra sr,1844,42,0
+18400.0,2021,77155,Nissan,altima 25 sv,472,42,0
+3499.0,2015,169416,Chevrolet,malibu lt,1386,10,0
+9995.0,2014,119444,BMW,535i xdrive 535i xdrive,228,6,0
+23500.0,2019,75817,Lincoln,continental reserve,763,31,0
+7495.0,2008,109433,Lexus,es350 350,1033,30,0
+28990.0,2018,62479,BMW,3 series 340i,92,6,0
+11950.0,2015,89524,BMW,528i 528i,219,6,0
+12995.0,2016,92931,BMW,320i 320i,138,6,0
+3995.0,2011,193549,Kia,optima ex,1530,28,0
+16995.0,2019,30205,Mazda,3,75,35,0
+25727.0,2024,20875,Nissan,altima 25 sr,471,42,0
+18995.0,2021,100583,Chrysler,300 series s v6,119,11,0
+31995.0,2021,96185,BMW,m340i xdrive m340i xdrive,1357,6,0
+4499.0,2009,115161,Nissan,sentra s,1842,42,0
+13900.0,2015,78682,Volkswagen,jetta gli sel 6a,1263,61,0
+25000.0,2022,13135,Honda,accord special,451,21,0
+13900.0,2017,137873,BMW,740i 740i,291,6,0
+14995.0,2018,52428,Hyundai,sonata eco,1895,24,0
+25495.0,2018,50485,Honda,accord touring 20t,453,21,0
+7500.0,2006,36511,Lincoln,zephyr base,2124,31,0
+36999.0,2023,5457,Genesis,g70 33t,1127,19,0
+5995.0,2012,107405,Chrysler,200 lx,39,11,0
+8995.0,2015,52456,Nissan,altima 25 sv,472,42,0
+19895.0,2016,96149,Mercedes-Benz,sclass s550,1807,36,0
+5995.0,2014,131727,Volkswagen,passat,1561,61,0
+19995.0,2020,46765,Lincoln,mkzzephyr standard,1454,31,0
+22995.0,2020,49510,Audi,a6 quattro awd sun blind mls,408,3,0
+9995.0,2021,119738,Nissan,altima 25 sv,472,42,0
+20499.0,2025,14641,Hyundai,sonata sel,1904,24,0
+31888.0,2022,28728,BMW,i4 edrive40 gran,1203,6,0
+22995.0,2022,39794,Honda,civic,691,21,0
+14999.0,2021,39329,Hyundai,sonata,1889,24,0
+34995.0,2022,42374,Audi,a6 plus 55 tfsi,394,3,0
+6950.0,2013,73158,Chevrolet,impala ls,1216,10,0
+43987.0,2017,63339,BMW,m3 base,1350,6,0
+24990.0,2021,38189,Subaru,wrx,2051,57,0
+19900.0,2010,99704,Mercedes-Benz,eclass e63 amg,978,36,0
+18999.0,2015,69700,Dodge,charger sxt,685,15,0
+15480.0,2020,154982,Honda,civic,691,21,0
+19499.0,2014,41089,Maserati,quattroporte gts,1621,33,0
+30995.0,2015,69178,BMW,m3 base,1350,6,0
+26700.0,2024,18513,Honda,civic,691,21,0
+10499.0,2017,70285,Volkswagen,jetta 14t s,1250,61,0
+24995.0,2015,73915,Mercedes-Benz,sclass s550 4matic,1808,36,0
+23988.0,2022,49610,Honda,accord,433,21,0
+4600.0,2008,181585,Honda,accord exl,440,21,0
+14995.0,2018,55735,Hyundai,sonata eco,1895,24,0
+5999.0,2019,97153,Nissan,sentra s,1842,42,0
+15895.0,2018,112269,Lexus,es350 350,1033,30,0
+6999.0,2010,150091,Honda,accord exl,440,21,0
+3500.0,2015,140362,Hyundai,sonata,1889,24,0
+34999.0,2019,36654,Audi,a8 l 30t,418,3,0
+17777.0,2018,72020,BMW,7series 740i,307,6,0
+9995.0,2015,160546,Subaru,wrx,2051,57,0
+30995.0,2014,65751,Mitsubishi,lancer evolution gsr,1298,39,0
+15000.0,2017,66692,BMW,330i xdrive 330i xdrive,148,6,0
+9495.0,2007,52547,Toyota,camry 24l i4 5a,579,60,0
+12499.0,2020,80787,Dodge,charger sxt,685,15,0
+15225.0,2021,84691,Hyundai,sonata,1889,24,0
+23995.0,2021,25269,Subaru,wrx,2051,57,0
+11450.0,2019,106478,Kia,forte s,1094,28,0
+14994.0,2022,33813,Nissan,altima 25 s,467,42,0
+10495.0,2016,94952,Cadillac,xts luxury collection,2110,9,0
+8495.0,2012,54197,Mitsubishi,lancer awd,1294,39,0
+13495.0,2023,31048,Nissan,sentra sv,1846,42,0
+10900.0,2017,122855,BMW,530i xdrive 530i xdrive,225,6,0
+7495.0,2014,135445,Ford,fusion titanium,1111,17,0
+15999.0,2020,127144,BMW,330i xdrive 330i xdrive,148,6,0
+13995.0,2017,105698,BMW,5series 530i xdrive awd,243,6,0
+5450.0,2016,125009,Nissan,maxima platinum,1418,42,0
+12999.0,2014,113038,BMW,750i 750i,294,6,0
+15100.0,2019,46329,Kia,forte lxs,1092,28,0
+15888.0,2022,55556,Hyundai,sonata,1889,24,0
+29895.0,2022,54108,Toyota,avalon hud sun blind jbl camera mls,507,60,0
+11995.0,2018,101459,Hyundai,sonata eco,1895,24,0
+7999.0,2020,66776,Chevrolet,sonic lt,1907,10,0
+7999.0,2015,111078,Chrysler,200 series,40,11,0
+5300.0,2003,52283,Chevrolet,impala,1212,10,0
+21995.0,2022,53611,Honda,civic ex,692,21,0
+7598.0,2008,142119,Lexus,ls ls 460,1323,30,0
+4000.0,2013,169463,Hyundai,sonata gls,1896,24,0
+23000.0,2022,56411,Volkswagen,arteon 20t sel rline,493,61,0
+28595.0,2020,40097,Volvo,s90 t6 inscription awd wluxuryadvanced pkgs,1758,62,0
+5999.0,2004,159233,Toyota,corolla ce,778,60,0
+25995.0,2018,13017,Toyota,camry,578,60,0
+16733.0,2020,90195,Honda,accord lx,447,21,0
+12990.0,2015,84272,Toyota,camry,578,60,0
+17995.0,2021,89747,BMW,228i xdrive gran 228i xdrive,60,6,0
+56999.0,2021,45305,Porsche,panamera base,1545,47,0
+5000.0,2007,123483,Lexus,gs350 350,1189,30,0
+8995.0,2011,70196,BMW,3series 328i sulev,166,6,0
+30888.0,2020,87193,BMW,m550i xdrive m550i xdrive,1366,6,0
+10995.0,2018,81374,Nissan,altima 25 sv,472,42,0
+12000.0,2001,121284,BMW,7series 4 door,305,6,0
+5167.0,2012,133815,Volkswagen,jetta base,1259,61,0
+13500.0,2019,77665,Ford,fusion,1098,17,0
+29450.0,2023,30652,Toyota,camry xse,598,60,0
+12495.0,2016,107932,BMW,535i xdrive 535i xdrive,228,6,0
+26785.0,2022,54711,Mercedes-Benz,c300 c 300,561,36,0
+45999.0,2021,32186,Porsche,taycan,1956,47,0
+6900.0,2010,109002,Jaguar,xf,2062,26,0
+53999.0,2024,6670,Audi,etron plus,1036,3,0
+12495.0,2013,138436,Lexus,es 350 base,1022,30,0
+20300.0,2020,38789,Honda,civic ex,692,21,0
+27779.0,2023,40619,Toyota,camry,578,60,0
+12995.0,2013,86762,Honda,accord exl,440,21,0
+52888.0,2022,29663,Audi,a8 quattro 55 tfsi awd,426,3,0
+16995.0,2017,86094,Toyota,camry hybrid,588,60,0
+4999.0,2014,129228,Nissan,sentra s,1842,42,0
+5955.0,2012,83761,Cadillac,cts base,870,9,0
+9995.0,2016,79100,BMW,528i xdrive 528i xdrive,220,6,0
+20995.0,2023,16037,Toyota,corolla,773,60,0
+2000.0,2010,99999,Chevrolet,malibu lt w1lt,1387,10,0
+23350.0,2019,29401,Volvo,s60 t6 momentum,1740,62,0
+3995.0,2009,136596,Hyundai,accent gls,432,24,0
+20995.0,2018,43190,Audi,a5 20t quattro plus awd sun mls,382,3,0
+54999.0,2023,23334,Genesis,g90 35t esupercharger,1133,19,0
+26595.0,2018,69105,Subaru,wrx sti,2054,57,0
+6800.0,2006,62712,Cadillac,dts,919,9,0
+66888.0,2019,45649,Porsche,panamera gts awd,1546,47,0
+7895.0,2013,108475,Nissan,altima 25 sv,472,42,0
+7999.0,2010,112731,Honda,accord lx,447,21,0
+16797.0,2019,44737,Ford,fusion,1098,17,0
+48992.0,2021,42888,Porsche,taycan pkg performance battery plus 22 vossen,1960,47,0
+13011.0,2020,76449,Ford,fusion titanium,1111,17,0
+5300.0,2003,53735,Chevrolet,impala,1212,10,0
+20950.0,2020,64135,Audi,a6,384,3,0
+23999.0,2022,42257,Nissan,altima 25 sr,471,42,0
+9283.0,2017,121343,Subaru,impreza 20i,1229,57,0
+15695.0,2016,52807,Mercedes-Benz,eclass e350,973,36,0
+9999.0,2019,135398,Lincoln,mkz reserve i,1450,31,0
+11995.0,2008,83878,Mercedes-Benz,s550 s 550,1712,36,0
+9995.0,2010,63999,Cadillac,cts 36l v6 awd,868,9,0
+7900.0,2018,66945,Cadillac,xts luxury,2109,9,0
+17999.0,2018,76068,BMW,740e xdrive 740e xdrive,290,6,0
+67999.0,2022,23865,Porsche,taycan 4s,1957,47,0
+6499.0,2020,105573,Chevrolet,sonic lt,1907,10,0
+10995.0,2016,120524,Toyota,camry,578,60,0
+4499.0,2015,120811,Ford,fusion s,1108,17,0
+9999.0,2012,135629,Toyota,corolla s,787,60,0
+9995.0,2016,33831,Ford,fiesta,1054,17,0
+11900.0,2009,66759,Lexus,es350 350,1033,30,0
+15495.0,2014,116083,BMW,640i gran 640i,274,6,0
+5900.0,2012,146109,Toyota,camry,578,60,0
+5495.0,2014,153408,Mercedes-Benz,e350 e 350,933,36,0
+14500.0,2016,94970,Honda,civic ex,692,21,0
+23980.0,2013,69265,Porsche,panamera s,1552,47,0
+10999.0,2014,160550,Honda,civic si,710,21,0
+24995.0,2024,6290,Audi,a3,346,3,0
+58800.0,2021,22207,BMW,7series 750i xdrive,311,6,0
+5500.0,2012,164192,Volvo,s80 t6,1754,62,0
+23988.0,2022,29651,Honda,accord,433,21,0
+54899.0,2023,19246,Cadillac,ct4v vseries,840,9,0
+9995.0,2017,58789,Ford,fiesta,1054,17,0
+19995.0,2021,87399,Nissan,altima 25 platinum,465,42,0
+13495.0,2024,12665,Mitsubishi,mirage g4 es,1440,39,0
+18750.0,2017,96361,Mercedes-Benz,c43 amg c 43 amg,571,36,0
+8495.0,2020,118930,Kia,forte lxs,1092,28,0
+20995.0,2020,93924,Toyota,camry,578,60,0
+47900.0,2019,38890,Mercedes-Benz,sclass s 560,1792,36,0
+44999.0,2019,36303,Audi,rs3 394hp rated when,1666,3,0
+10999.0,2016,56004,Kia,optima lx,1532,28,0
+8495.0,2013,100758,Ford,taurus,1945,17,0
+4999.0,2012,141566,Chevrolet,malibu lt w1lt,1387,10,0
+19490.0,2021,75472,BMW,330i xdrive 330i xdrive,148,6,0
+12900.0,2016,74500,Jaguar,xf 35t r,2068,26,0
+22995.0,2021,22031,Hyundai,sonata sel,1904,24,0
+8499.0,2016,94917,Nissan,altima 25 s,467,42,0
+15285.0,2015,94071,BMW,335i xdrive 335i gran turismo xdrive,151,6,0
+11995.0,2012,112714,Toyota,camry,578,60,0
+6900.0,2014,109527,Ford,fusion,1098,17,0
+9800.0,2020,128364,Ford,fusion,1098,17,0
+33476.0,2022,46054,Chrysler,300 series s,118,11,0
+15950.0,2020,54637,Nissan,sentra sv,1846,42,0
+17595.0,2015,89401,BMW,3series 335i xdrive,172,6,0
+12450.0,2017,124158,Audi,a4 prestige,366,3,0
+67999.0,2024,11606,Mercedes-Benz,eqs 450,1013,36,0
+6999.0,2013,67913,Chevrolet,cruze ls,825,10,0
+38585.0,2014,46982,Mercedes-Benz,sclass s 63 amg 4matic,1801,36,0
+15750.0,2016,64732,Chrysler,300,96,11,0
+24900.0,2024,35459,Toyota,camry xse,598,60,0
+38999.0,2018,34486,Alfa Romeo,giulia quadrifoglio,1165,2,0
+16995.0,2020,51365,Chevrolet,impala lt,1217,10,0
+84900.0,2022,12509,Mercedes-Benz,sclass s580 4matic,1812,36,0
+4995.0,2011,145597,Hyundai,sonata,1889,24,0
+4900.0,2007,133857,BMW,3series i,175,6,0
+17995.0,2017,79856,Cadillac,ct6 36 luxury,853,9,0
+12995.0,2019,82330,Chevrolet,impala lt,1217,10,0
+5499.0,2006,157229,Toyota,avalon xl,508,60,0
+11995.0,2007,30025,Infiniti,g35 journey,1119,25,0
+19995.0,2017,26783,Mercedes-Benz,cclass 4matic designo pkg msrp,620,36,0
+5800.0,2016,147066,Chrysler,300 series,109,11,0
+13995.0,2020,81343,Jaguar,xe p250s sunroof blis heatseat mls,2060,26,0
+9999.0,2017,92558,Volkswagen,jetta 20t gli 6a,1255,61,0
+9500.0,2012,112000,Infiniti,m x,1346,25,0
+10389.0,2017,73799,Hyundai,elantra,995,24,0
+10995.0,2016,133366,Cadillac,cts 36l collection awd,866,9,0
+6250.0,2017,135693,Hyundai,sonata base,1892,24,0
+10995.0,2016,57942,Ford,fusion hybrid,1102,17,0
+18900.0,2019,50724,Honda,civic lx,704,21,0
+21750.0,2018,77662,Lexus,es 350,1020,30,0
+11995.0,2014,116245,Mercedes-Benz,eclass e 350 4matic,963,36,0
+29985.0,2020,16711,Lexus,300 f,105,30,0
+7495.0,2004,130625,Honda,accord ex,437,21,0
+20500.0,2023,40639,Toyota,camry,578,60,0
+8987.0,2015,133490,Honda,accord lx,447,21,0
+10900.0,2016,110494,BMW,528i xdrive 528i xdrive,220,6,0
+21999.0,2017,46572,Tesla,model s 75,1486,59,0
+9611.0,2014,107243,Mercedes-Benz,c300 c 300 luxury,564,36,0
+22500.0,2013,54449,Lexus,gs350 350,1189,30,0
+19995.0,2024,6705,Honda,civic ex,692,21,0
+8999.0,2019,122084,Ford,fusion,1098,17,0
+24785.0,2019,82226,Audi,a8 quattro l 30t,427,3,0
+15547.0,2024,23639,Kia,forte lxs,1092,28,0
+14495.0,2015,86103,Buick,lacrosse leather group,1292,8,0
+16900.0,2019,56212,Subaru,impreza 20i,1229,57,0
+20595.0,2016,102091,Subaru,wrx sti,2054,57,0
+9995.0,2014,104426,Dodge,charger,646,15,0
+17990.0,2020,54289,Honda,accord lx,447,21,0
+10900.0,2014,117812,Subaru,impreza wrx,1234,57,0
+13999.0,2018,61639,Toyota,corolla,773,60,0
+12900.0,2012,125322,Mercedes-Benz,cclass 4matic,619,36,0
+5500.0,2017,145784,Chevrolet,malibu lt,1386,10,0
+54999.0,2022,47311,BMW,8series m850i xdrive gran,336,6,0
+6900.0,2014,75517,Chevrolet,impala lt fleet,1218,10,0
+20995.0,2020,50118,Chrysler,300 touring,126,11,0
+9800.0,2003,130067,Lexus,gs,1185,30,0
+18998.0,2024,24004,Kia,forte lxs,1092,28,0
+14999.0,2022,93921,Toyota,corolla,773,60,0
+25995.0,2019,64550,BMW,540i xdrive 540i xdrive,231,6,0
+8999.0,2013,109649,Toyota,corolla l,782,60,0
+9900.0,2014,108767,Dodge,charger sxt,685,15,0
+7611.0,2012,194920,Toyota,camry,578,60,0
+8985.0,2010,98184,Mazda,6 automatic s grand touring,262,35,0
+16100.0,2018,76772,BMW,330i xdrive 330i xdrive,148,6,0
+1995.0,2002,106083,Jaguar,xtype 25l awd salvage,2115,26,0
+15999.0,2023,25405,Toyota,corolla,773,60,0
+8999.0,2018,170149,Ford,fusion,1098,17,0
+8990.0,2020,115376,Nissan,altima 25 s,467,42,0
+49495.0,2023,19587,BMW,5series 540i xdrive awd luxury wmexecutive p,250,6,0
+12988.0,2007,63545,Maserati,quattroporte automatic,1619,33,0
+7999.0,2013,80292,Suzuki,kizashi sls awd,1285,58,0
+63800.0,2021,25172,Porsche,taycan 4s,1957,47,0
+9900.0,2014,115000,Nissan,altima 25 sl,470,42,0
+5995.0,2016,73092,Chevrolet,sonic lt,1907,10,0
+5999.0,2015,114345,Chrysler,200,37,11,0
+8193.0,2013,99454,Volkswagen,passat tdi sel,1580,61,0
+5500.0,2014,97794,Nissan,versa sv,2043,42,0
+12900.0,2017,118370,Dodge,charger sxt awd,687,15,0
+11895.0,2019,63108,Kia,forte lxs,1092,28,0
+22999.0,2013,104600,Audi,s8 40t quattro,1750,3,0
+6995.0,2009,69492,Nissan,altima 25 s cvt,468,42,0
+19595.0,2019,89982,Subaru,wrx,2051,57,0
+37680.0,2024,22797,Mercedes-Benz,cclass c 300,623,36,0
+25999.0,2017,36128,Jaguar,xj xjl portfolio,2090,26,0
+13995.0,2018,100735,Chrysler,300 s,106,11,0
+15999.0,2018,110754,Toyota,camry,578,60,0
+870.0,2008,200000,BMW,3 series 328i,85,6,0
+15314.0,2016,86667,Honda,accord cvt,436,21,0
+26999.0,2004,38205,Mercury,marauder 46l v8 rare find 1 fl car,1394,37,0
+3000.0,2010,193200,Ford,fusion sel,1110,17,0
+5900.0,2013,103485,Hyundai,genesis 38l,1141,24,0
+32995.0,2006,53685,BMW,m5,1360,6,0
+1850.0,2006,187000,Volvo,s80 25t,1752,62,0
+38990.0,2017,102374,BMW,m3,1349,6,0
+12998.0,2016,92175,Chrysler,300 300s alloy,99,11,0
+32500.0,2019,36840,Audi,a6,384,3,0
+1595.0,2004,96693,BMW,7series 745li 745 salvage,309,6,0
+5500.0,2006,115000,Mercedes-Benz,sclass 500,1773,36,0
+16250.0,2007,54491,Lincoln,town car signature,2008,31,0
+7995.0,2015,121778,Audi,a4 quattro 20t plus sline,369,3,0
+17900.0,2021,42559,Honda,odyssey,1528,21,0
+26994.0,2022,12928,Subaru,wrx,2051,57,0
+9994.0,2010,74574,Acura,tsx,2016,1,0
+49490.0,2018,71288,BMW,m3,1349,6,0
+27998.0,2019,57000,Audi,a6 plus,393,3,0
+540.0,2005,146000,Mercedes-Benz,eclass,943,36,1
+28000.0,2021,21000,Acura,tlx shawd aspec package,1985,1,0
+18500.0,2014,69165,Maserati,quattroporte gts,1621,33,0
+14990.0,2002,82700,Lexus,300 automatic trans,102,30,0
+17500.0,2024,17900,Honda,civic w delivery call 7863283187,717,21,0
+43399.0,2022,37785,Maserati,quattroporte modena,1624,33,0
+38900.0,2008,83903,Audi,rs4 quattro,1668,3,0
+15990.0,2024,13500,Chevrolet,malibu lt,1386,10,0
+2500.0,2007,81942,Toyota,corolla,773,60,0
+32000.0,2025,1443,Lexus,es300h 300h,1030,30,0
+13990.0,2016,111219,Mazda,6 i touring 6a,266,35,0
+8998.0,2013,109939,Toyota,corolla s special,790,60,0
+37800.0,2018,76894,Lexus,ls 500,1319,30,0
+13999.0,2020,62000,Honda,civic,691,21,0
+12995.0,2018,93119,Infiniti,q50 awd 30tt luxetwin turbo,1608,25,0
+3999.0,2012,178000,Ford,fusion sel,1110,17,0
+15500.0,2022,49000,Toyota,corolla,773,60,0
+13900.0,2000,51539,Cadillac,deville brand top records stricking,911,9,0
+4450.0,2016,114441,Nissan,sentra sr,1844,42,0
+5999.0,2013,148274,Nissan,maxima sv,1422,42,0
+15897.0,2019,116947,Cadillac,ct6 36 luxury,853,9,0
+20995.0,2021,33900,Mercedes-Benz,cclass c300 panoroof burmester carplay ml,634,36,0
+19995.0,2012,68312,Porsche,panamera 4 awd,1540,47,0
+10900.0,2017,43500,Buick,regal turbo ii,1639,8,0
+24995.0,2015,41115,Mitsubishi,lancer gsr,1304,39,0
+76990.0,2025,1579,Audi,s6 29t quattro plus package s packag,1725,3,0
+19250.0,2018,103256,Toyota,camry xse,598,60,0
+78888.0,2023,23824,Porsche,taycan 4s,1957,47,0
+18000.0,2018,84342,Honda,civic exl,694,21,0
+4500.0,2014,68761,Chevrolet,cruze ls 1sb,826,10,0
+10995.0,2007,68998,Lexus,es 350 base,1022,30,0
+5495.0,2012,111268,Chevrolet,cruze eco,824,10,0
+7999.0,2018,101624,Volkswagen,jetta 14t s,1250,61,0
+8995.0,2015,148126,Honda,accord lx,447,21,0
+23133.0,2021,63333,BMW,3series 330i,169,6,0
+16995.0,2018,52363,Honda,civic lx,704,21,0
+17999.0,2020,110923,Honda,accord exl,440,21,0
+22200.0,2020,61784,BMW,530i xdrive 530i xdrive,225,6,0
+8746.0,2014,56856,Hyundai,sonata gls,1896,24,0
+15500.0,2014,98757,Dodge,charger rt,663,15,0
+8500.0,2002,85366,Jaguar,xj vanden plas,2080,26,0
+24588.0,2018,48640,Lexus,es350 350,1033,30,0
+9485.0,2013,196068,Honda,civic si,710,21,0
+5995.0,2011,141761,Chevrolet,malibu lt,1386,10,0
+8995.0,2019,82250,Nissan,sentra sv,1846,42,0
+14999.0,2020,122565,BMW,530i xdrive 530i xdrive,225,6,0
+16995.0,2017,38725,Nissan,maxima,1409,42,0
+39995.0,2017,60345,Dodge,charger srt hellcat chrysler 300s swapped,674,15,0
+22995.0,2022,63570,Honda,civic touring,711,21,0
+6499.0,2017,80846,Chevrolet,sonic lt,1907,10,0
+87298.0,2020,18232,Porsche,taycan turbo s pano mobile charger connect,1965,47,0
+7595.0,2016,118059,BMW,528i xdrive 528i xdrive,220,6,0
+21000.0,2023,20466,Honda,civic lx,704,21,0
+5000.0,2003,133037,BMW,3series 325i,162,6,0
+13999.0,2013,60931,Toyota,corolla special,793,60,0
+9999.0,2016,102300,Hyundai,sonata base pzev,1893,24,0
+14995.0,2015,113743,Subaru,wrx sti only recaro seats wheels,2055,57,0
+14995.0,2021,61943,Nissan,sentra sv,1846,42,0
+23988.0,2020,39997,Lincoln,mkzzephyr reserve,1453,31,0
+14499.0,2021,124779,Kia,k5 line,1279,28,0
+21995.0,2017,56149,Lexus,es es350 prem pkg sun blind heatcool seat,1027,30,0
+8900.0,2012,100536,Mercedes-Benz,s550 s 550,1712,36,0
+70888.0,2022,34884,Mercedes-Benz,sclass s 580 4matic awd,1796,36,0
+5695.0,2017,102577,Chevrolet,sonic ls,1906,10,0
+14499.0,2019,80334,Ford,taurus sel,1953,17,0
+25650.0,2022,33359,Tesla,model 3 long range,1460,59,0
+24995.0,2019,86661,Audi,a8 quattro l 30t,427,3,0
+6495.0,2013,120780,Kia,optima ex,1530,28,0
+9495.0,2019,97720,Hyundai,elantra sel,1004,24,0
+5995.0,2013,163132,Honda,accord exl,440,21,0
+20768.0,2019,47636,Honda,civic exl,694,21,0
+24900.0,2012,102518,Mercedes-Benz,sclass s600 amg trim,1825,36,0
+15890.0,2014,30445,Buick,lacrosse 1 pkg 36l v6 factory 18 alloys a beauty,1288,8,0
+29997.0,2025,9799,Honda,accord,433,21,0
+17975.0,2020,53080,Ford,fusion,1098,17,0
+9995.0,2015,90984,Mercedes-Benz,c300 c 300,561,36,0
+26980.0,2016,48277,Porsche,panamera,1538,47,0
+26995.0,2024,60321,Chevrolet,malibu 1lt,1383,10,0
+27890.0,2018,18457,Maserati,ghibli s q4 1 cars with only factory msrp,1151,33,0
+15999.0,2019,7652,Hyundai,elantra,995,24,0
+18650.0,2024,39222,Toyota,corolla,773,60,0
+18489.0,2019,68227,Maserati,ghibli s,1147,33,0
+26500.0,2024,16529,Honda,accord,433,21,0
+44495.0,2019,33465,Lexus,ls500 500,1332,30,0
+6290.0,2015,104546,Chevrolet,cruze 1lt,819,10,0
+28000.0,2007,48053,Dodge,charger,646,15,0
+16480.0,2018,66500,Honda,civic lx,704,21,0
+10999.0,2010,164375,Honda,accord ex,437,21,0
+9695.0,2013,116060,BMW,535i xdrive 535i xdrive,228,6,0
+9900.0,2017,167683,BMW,530i xdrive 530i xdrive,225,6,0
+18995.0,2019,80892,BMW,540i xdrive 540i xdrive,231,6,0
+7999.0,2017,150810,Infiniti,q50 20t,1601,25,0
+16995.0,2023,55262,Hyundai,sonata sel plus,1905,24,0
+7995.0,2013,133050,Toyota,corolla,773,60,0
+54985.0,2016,59822,Mercedes-Benz,mercedesmaybach s 600,1428,36,0
+12495.0,2013,99387,Audi,a8 quattro l 30t,427,3,0
+49995.0,2021,24200,Tesla,model s plaid,1499,59,0
+10890.0,2004,54931,Mercury,grand marquis 1 gs presidential formal coach,1179,37,0
+10995.0,2014,98315,Mercedes-Benz,claclass cla 250 4matic awd,725,36,0
+5500.0,2013,175342,BMW,320i 320i,138,6,0
+19986.0,2018,77315,Mazda,6 signature,269,35,0
+10999.0,2014,116985,BMW,535i xdrive 535i xdrive,228,6,0
+9999.0,2018,102255,Chrysler,300 touring,126,11,0
+15995.0,2019,77535,Toyota,yaris,2119,60,0
+69999.0,2024,22323,Porsche,taycan,1956,47,0
+8350.0,2015,132959,Chevrolet,impala ltz,1219,10,0
+22480.0,2024,29377,Chevrolet,malibu rs,1390,10,0
+16488.0,2019,61642,Subaru,wrx base,2052,57,0
+7995.0,2014,74312,Honda,civic lx,704,21,0
+3300.0,2010,136357,Mazda,3 s,82,35,0
+35999.0,2023,38236,Mercedes-Benz,eqs 450 11236000,1014,36,0
+64977.0,2014,28200,Bentley,continental flying spur,755,7,0
+42595.0,2015,57696,Mercedes-Benz,clsclass cls 63 s amg,739,36,0
+10777.0,2018,77480,Volkswagen,passat 20t,1570,61,0
+4999.0,2003,148055,Acura,32tl 32000000000000002,146,1,0
+17880.0,2018,60746,Mercedes-Benz,cclass c 300,623,36,0
+14895.0,2018,45495,Mercedes-Benz,c300 c 300,561,36,0
+14999.0,2021,64526,Toyota,corolla,773,60,0
+27995.0,2018,41891,Subaru,wrx sti,2054,57,0
+6499.0,2012,82959,Volkswagen,jetta,1247,61,0
+5495.0,2015,143745,Nissan,altima 25 s,467,42,0
+20995.0,2022,63056,Honda,accord,433,21,0
+16995.0,2018,80382,Audi,a5 20t quattro bo plus awd sun cam,381,3,0
+22900.0,2015,90270,BMW,alpina b7,461,6,0
+13495.0,2016,40689,Hyundai,sonata hybrid,1899,24,0
+8995.0,2010,120168,Honda,accord exl,440,21,0
+22995.0,2021,78871,Toyota,camry,578,60,0
+20995.0,2017,113751,Audi,s3 20t plus,1693,3,0
+19495.0,2018,92169,BMW,7series 750xi,317,6,0
+19980.0,2024,52315,Nissan,altima 25 sv,472,42,0
+6500.0,2014,144022,Toyota,corolla,773,60,0
+25995.0,2022,24334,Honda,accord only 15l turbo lowered 18s,450,21,0
+6900.0,2014,99983,BMW,3series i,175,6,0
+17995.0,2018,80997,Subaru,wrx,2051,57,0
+7495.0,2015,86981,Hyundai,sonata,1889,24,0
+72800.0,2023,11332,BMW,i7 xdrive60,1206,6,0
+7499.0,2017,148065,Acura,tlx 24 technology,1977,1,0
+3995.0,2006,134851,Cadillac,dts base,920,9,0
+8995.0,2010,44161,Ford,fusion sel,1110,17,0
+18885.0,2008,27231,Mercedes-Benz,s550 s 550,1712,36,0
+5499.0,2015,87129,Kia,rio lx,1642,28,0
+21250.0,2022,31771,Hyundai,sonata,1889,24,0
+13995.0,2018,50567,Jaguar,fpace 25t,1095,26,0
+11499.0,2017,106003,Infiniti,q50 30t,1602,25,0
+19990.0,2022,17423,Honda,civic,691,21,0
+17995.0,2023,65002,Dodge,charger,646,15,0
+10750.0,2012,66996,Lincoln,mkzzephyr base,1452,31,0
+22995.0,2020,59562,Honda,accord,433,21,0
+3499.0,2018,140656,Chevrolet,cruze lt,827,10,0
+16124.0,2023,50238,Hyundai,sonata sel,1904,24,0
+13999.0,2019,138144,Honda,accord exl,440,21,0
+25996.0,2024,510,Nissan,sentra sr,1844,42,0
+49999.0,2024,8351,Mercedes-Benz,c43 amg c 43 amg,571,36,0
+6990.0,2008,131095,Toyota,camry,578,60,0
+15995.0,2018,109664,Honda,accord 15t i4 cvt,434,21,0
+19999.0,2018,66136,Dodge,charger,646,15,0
+11895.0,2015,150066,Volkswagen,passat 20l tdi 6m,1568,61,0
+9350.0,2019,99419,Ford,fusion s,1108,17,0
+67500.0,2021,41146,BMW,m8 competition comp pkg drive assist pro ext shadowline,1371,6,0
+23995.0,2018,36975,Lexus,gs gs 350 f,1188,30,0
+4900.0,2011,124206,Mitsubishi,lancer eses,1295,39,0
+17995.0,2017,73563,Mercedes-Benz,cclass 300 4matic,618,36,0
+8999.0,2014,51212,Volkswagen,passat 18t 6a,1563,61,0
+18369.0,2016,48642,Mercedes-Benz,c450 amg c 450 amg,572,36,0
+12499.0,2016,66490,Ford,taurus sel,1953,17,0
+56880.0,2020,73109,BMW,m8 competition comfort seating driving assistance,1370,6,0
+8499.0,2019,67943,Nissan,sentra sv,1846,42,0
+18733.0,2018,71684,BMW,4series 430i gran,200,6,0
+23949.0,2025,2553,Honda,civic touring,711,21,0
+11500.0,2020,85656,Hyundai,accent,431,24,0
+3500.0,2009,123191,Nissan,altima 25,464,42,0
+21999.0,2023,50510,Chevrolet,malibu 1lt,1383,10,0
+7495.0,2016,109065,Hyundai,sonata,1889,24,0
+94999.0,2023,19200,Mercedes-Benz,sclass s 580 in options amg line night pkg,1797,36,0
+6795.0,2010,97053,Buick,lacrosse cxl,1290,8,0
+10795.0,2013,116298,Chrysler,300 s,106,11,0
+12500.0,2021,111484,Hyundai,sonata blue,1894,24,0
+8495.0,2017,111646,Hyundai,elantra,995,24,0
+34950.0,2004,49447,Bentley,arnage t,492,7,0
+8999.0,2020,63463,Mitsubishi,mirage g4,1438,39,0
+22186.0,2023,28777,Toyota,corolla,773,60,0
+31595.0,2016,102315,Mercedes-Benz,cclass c 63 s amg,627,36,0
+9995.0,2011,124176,Acura,tsx base,2018,1,0
+15499.0,2019,63574,Volkswagen,jetta rline,1265,61,0
+8995.0,2015,152480,Honda,civic lx,704,21,0
+17995.0,2022,57459,Kia,forte lxs,1092,28,0
+13996.0,2017,85882,Acura,tlx 24 technology,1977,1,0
+7995.0,2012,130377,Honda,civic ex,692,21,0
+17200.0,2023,71512,Toyota,camry,578,60,0
+11500.0,2018,72144,Volkswagen,passat,1561,61,0
+21995.0,2023,51476,Hyundai,sonata sel,1904,24,0
+4900.0,2014,164007,Honda,accord lx,447,21,0
+7985.0,2005,123453,Jaguar,xj xj vanden plas,2084,26,0
+54999.0,2021,58898,Audi,s8 40t,1749,3,0
+18500.0,2024,21791,Volkswagen,jetta,1247,61,0
+7989.0,2016,60551,Ford,focus s,1083,17,0
+7900.0,2015,117771,Kia,cadenza,576,28,0
+5900.0,2011,80720,Audi,a4 plus,363,3,0
+4900.0,2013,126353,BMW,3series i,175,6,0
+4500.0,2011,141445,Subaru,legacy 25i,1308,57,0
+2995.0,2017,109789,Nissan,altima 25 s salvage,469,42,0
+11995.0,2016,20378,Mazda,3 i,80,35,0
+16999.0,2017,86484,Tesla,model 3 long range,1460,59,0
+14295.0,2015,99874,BMW,535i xdrive 535i xdrive,228,6,0
+11990.0,2016,116434,Subaru,wrx base,2052,57,0
+28800.0,2025,5181,Honda,civic touring,711,21,0
+22000.0,2023,6586,Hyundai,elantra hybrid,997,24,0
+5100.0,2011,140724,BMW,5series 528i,240,6,0
+32800.0,2022,55137,Dodge,charger,646,15,0
+9991.0,2015,134093,Honda,accord lx,447,21,0
+12990.0,2015,59546,Audi,a4,354,3,0
+7250.0,2017,118887,Hyundai,sonata,1889,24,0
+72595.0,2024,15199,BMW,m3 competition,1351,6,0
+16995.0,2019,85825,Mercedes-Benz,c300 c300 4matic,566,36,0
+27480.0,2018,64767,BMW,540i xdrive 540i xdrive,231,6,0
+10999.0,2009,63987,Toyota,camry,578,60,0
+22000.0,2022,6587,Honda,civic,691,21,0
+15995.0,2023,10182,Nissan,sentra sv,1846,42,0
+23995.0,2017,64224,BMW,7series xdrive executive pkg msrp,331,6,0
+14999.0,2024,23784,Nissan,versa s,2041,42,0
+18800.0,2024,40027,Nissan,sentra sv,1846,42,0
+13900.0,2013,79847,Lexus,es350 350,1033,30,0
+28999.0,2021,53717,BMW,330i xdrive 330i xdrive,148,6,0
+7995.0,2014,171151,Honda,accord lx,447,21,0
+10995.0,2014,85390,Cadillac,cts 20t luxury collection awd,863,9,0
+18789.0,2019,97416,BMW,540i 540i,230,6,0
+14466.0,2019,117305,BMW,530i xdrive 530i xdrive,225,6,0
+22900.0,2020,29734,Honda,accord,433,21,0
+17995.0,2017,110495,BMW,540i xdrive 540i xdrive,231,6,0
+21350.0,2022,92314,Subaru,wrx,2051,57,0
+46995.0,2014,24714,Chevrolet,ss holden tribute,1920,10,0
+94888.0,2024,14453,BMW,7series 760i xdrive driving assist m professional pr,319,6,0
+14785.0,2019,103982,Audi,a4 quattro premiumplus,373,3,0
+6999.0,2008,160318,Lexus,2008 lexus,45,30,0
+23300.0,2023,56507,Toyota,camry,578,60,0
+9495.0,2013,117328,Honda,accord ex,437,21,0
+86500.0,2023,18205,Lexus,ls 500h awd lux pkg,1322,30,0
+9999.0,2015,114947,Mazda,3 i touring,81,35,0
+7999.0,2010,140949,Toyota,corolla base,777,60,0
+19995.0,2020,98330,Volkswagen,jetta 20t autobahn,1254,61,0
+87298.0,2020,18232,Porsche,taycan turbo s pano mobile charger connect,1965,47,0
+10995.0,2014,107393,Mercedes-Benz,eclass e 350,962,36,0
+18799.0,2022,0,Nissan,altima 25 sr,471,42,0
+16995.0,2024,38685,Nissan,altima 25 sr,471,42,0
+25995.0,2023,56093,Dodge,charger awd,651,15,0
+20784.0,2022,51302,Honda,accord,433,21,0
+19999.0,2023,37782,Hyundai,sonata,1889,24,0
+10999.0,2011,92173,BMW,335i 335i,149,6,0
+17999.0,2019,89122,Subaru,impreza 20i,1229,57,0
+13495.0,2017,103971,Honda,accord exl,440,21,0
+22985.0,2018,90823,BMW,750i xdrive alpina b7 xdrive,299,6,0
+21999.0,2019,57230,Honda,civic ex,692,21,0
+6900.0,2015,143584,Subaru,impreza 20i,1229,57,0
+5995.0,2014,106738,Hyundai,sonata gls,1896,24,0
+21999.0,2018,42640,Honda,civic ext w sensing,698,21,0
+9499.0,2014,113292,Honda,civic lx,704,21,0
+66298.0,2023,15414,Audi,rs etron carbon performance package msrp quattro,1664,3,0
+15990.0,2022,68259,Toyota,corolla,773,60,0
+19995.0,2018,69900,Subaru,wrx,2051,57,0
+17606.0,2023,54307,Kia,k5 lxs,1280,28,0
+26480.0,2017,49204,BMW,540i xdrive 540i xdrive,231,6,0
+9500.0,2011,60354,Hyundai,sonata gls,1896,24,0
+69991.0,2022,46866,Mercedes-Benz,sclass 4matic,1772,36,0
+26675.0,2022,50076,Chrysler,300 300s,98,11,0
+8495.0,2006,60725,BMW,325xi 325xi,141,6,0
+6995.0,2014,37107,Ford,fiesta,1054,17,0
+13750.0,2017,90540,Audi,a6 quattro 20t premiumplus,398,3,0
+10995.0,2020,93296,Kia,forte lxs,1092,28,0
+13199.0,2017,96935,Cadillac,ats base,498,9,0
+12985.0,2013,94518,Jaguar,xj xjl portfolio,2090,26,0
+25000.0,2014,90000,Porsche,panamera timeless gray exterior luxury technology garage kept,1555,47,0
+9480.0,2015,132248,Toyota,corolla s,787,60,0
+7495.0,2015,96762,Ford,focus,1082,17,0
+28995.0,2012,101451,Mercedes-Benz,sclass s65 amg twin turbo v12 624hp 738ft,1829,36,0
+17775.0,2016,57227,Dodge,charger rt,663,15,0
+13995.0,2019,109670,Honda,accord lx,447,21,0
+20900.0,2010,95307,Mitsubishi,lancer evolution mr touring,1301,39,0
+15499.0,2017,93505,Honda,accord,433,21,0
+38390.0,2025,15352,Toyota,crown,806,60,0
+27995.0,2003,95048,Mercury,marauder supercharged,1395,37,0
+14995.0,2024,57036,Mazda,3 25 s select,78,35,0
+9600.0,2013,110836,Mercedes-Benz,c300 c 300 luxury,564,36,0
+22788.0,2022,29660,Honda,accord,433,21,0
+8100.0,2011,121565,Cadillac,cts luxury,875,9,0
+13399.0,2019,63034,Acura,ilx base,1209,1,0
+23988.0,2020,40002,Lincoln,mkzzephyr reserve,1453,31,0
+19900.0,2009,87626,Audi,a8 quattro,425,3,0
+31995.0,2024,10872,Tesla,model 3,1456,59,0
+23499.0,2012,13452,Jaguar,xj,2075,26,0
+16995.0,2020,43238,Nissan,altima 25 sv awd,474,42,0
+15990.0,2019,56386,Dodge,charger rt,663,15,0
+26350.0,2023,42286,Kia,k5,1277,28,0
+20995.0,2016,100179,Mercedes-Benz,sclass s550 p1 pano burmester camera wood,1810,36,0
+40980.0,2018,61707,Dodge,charger srt hellcat,673,15,0
+3500.0,2012,154038,Mazda,3 i,80,35,0
+16999.0,2011,118050,Subaru,impreza wrx sti,1235,57,0
+23250.0,2023,18198,Honda,civic,691,21,0
+11900.0,2018,119330,Maserati,ghibli s,1147,33,0
+36995.0,2025,10771,Audi,a5 20l i4 quatro sline premium4dr hatchback awd,380,3,0
+19172.0,2023,43994,Kia,k5 lxs,1280,28,0
+94950.0,2009,79595,Rolls-Royce,phantom,1582,52,0
+14980.0,2016,86208,BMW,5series 535i xdrive,245,6,0
+7995.0,2013,85146,Volkswagen,passat,1561,61,0
+3495.0,2003,51880,BMW,r1150rt,1632,6,0
+46999.0,2024,8257,Mercedes-Benz,c300 c 300,561,36,0
+59995.0,2018,54133,BMW,m5 heated leather carbon fiber gps exhaust,1363,6,0
+24500.0,2025,3102,Hyundai,elantra n line,1001,24,0
+13995.0,2015,155644,Lexus,f,1046,30,0
+7999.0,2016,90547,Hyundai,sonata,1889,24,0
+43990.0,2015,24097,Mitsubishi,lancer evolution,1296,39,0
+10788.0,2016,169839,Honda,civic ex,692,21,0
+3500.0,2017,198804,Nissan,sentra s,1842,42,0
+24995.0,2023,21268,Tesla,model 3,1456,59,0
+24000.0,2014,110085,Porsche,panamera pdk dualclutch yellow calipers upgraded wheels,1551,47,0
+15900.0,2023,46731,Nissan,altima 25 sv,472,42,0
+24995.0,2015,117606,Lexus,ls 460 v8 heated ac leather moon gps airide,1318,30,0
+77900.0,2023,16221,Cadillac,ct5v blackwing,848,9,0
+10800.0,2013,93992,Cadillac,xts collection,2108,9,0
+20999.0,2019,64621,Ford,fusion plugin titanium,1107,17,0
+26450.0,2024,35312,Toyota,camry,578,60,0
+10999.0,2015,157104,Toyota,corolla s,787,60,0
+8900.0,2015,106118,Infiniti,q70 37000000000000002,1614,25,0
+16499.0,2014,114190,Lexus,ls460 460,1327,30,0
+59999.0,2015,23492,Bentley,flying spur w12,1080,7,0
+16995.0,2010,126387,Mercedes-Benz,c63 amg c 63 amg,573,36,0
+19133.0,2023,58345,Kia,forte,1086,28,0
+34999.0,2015,48895,Mitsubishi,evolution gsr,1039,39,0
+6500.0,2009,55947,Pontiac,2009 pontiac,46,46,0
+9999.0,2018,41005,Ford,focus,1082,17,0
+12800.0,2008,0,Mercedes-Benz,sclass s 550,1789,36,0
+25995.0,2022,31846,Honda,civic,691,21,0
+6495.0,2016,114939,Hyundai,sonata,1889,24,0
+7495.0,2017,129331,Hyundai,sonata,1889,24,0
+7999.0,2017,124556,Chevrolet,malibu ls,1384,10,0
+8495.0,2015,115632,Kia,optima lx,1532,28,0
+15750.0,2017,70707,Audi,a4 quattro premiumplus,373,3,0
+30985.0,2025,9747,Toyota,camry xse,598,60,0
+16990.0,2013,76070,Tesla,model s,1482,59,0
+16995.0,2021,85145,Dodge,charger 36l v6 awd police blue lightbar and led lights,649,15,0
+11911.0,2014,98044,Toyota,corolla eco,780,60,0
+99999.0,2023,20480,Mercedes-Benz,s580 s 580,1721,36,0
+4999.0,2003,132257,Toyota,camry,578,60,0
+10999.0,2016,160781,Tesla,model s 60d,1484,59,0
+16404.0,2024,54401,Nissan,altima 25 sv,472,42,0
+14495.0,2020,49842,Hyundai,sonata,1889,24,0
+23999.0,2022,60706,Kia,k5 line,1279,28,0
+41995.0,2021,55125,Dodge,charger scat pack,669,15,0
+3995.0,2010,155152,Subaru,legacy 25i,1308,57,0
+56985.0,2022,52610,Mercedes-Benz,s500 s 500,1708,36,0
+15987.0,2017,59348,Subaru,wrx sti,2054,57,0
+14995.0,2016,90655,Cadillac,ats 36l collection leather moon tires,497,9,0
+44999.0,2019,28371,Toyota,camry xse,598,60,0
+16500.0,2015,117190,Mercedes-Benz,s550 s 550,1712,36,0
+12999.0,2018,75412,Dodge,charger sxt,685,15,0
+10900.0,2015,84531,Subaru,legacy 25i,1308,57,0
+49950.0,2022,39927,Mercedes-Benz,e 53 amg w driver assist pkg warmth comfort pkg pa,926,36,0
+12890.0,2014,55628,Chevrolet,impala 1 ls 36l dohc 24v v6 sharp georgia car,1213,10,0
+6999.0,2012,130890,Honda,civic lx,704,21,0
+55985.0,2014,28487,Bentley,flying spur w12,1080,7,0
+30999.0,2019,72576,Audi,a8 l 55 tfsi quattro,421,3,0
+14995.0,2004,66138,Jaguar,xj8,2100,26,0
+17595.0,2015,79898,Subaru,impreza wrx,1234,57,0
+20595.0,2019,59837,Honda,accord,433,21,0
+17995.0,2018,68710,Tesla,model 3 long range autopilot pano heatseat,1461,59,0
+12995.0,2019,77941,Hyundai,sonata,1889,24,0
+8995.0,2014,117272,Mercedes-Benz,eclass e350,973,36,0
+8400.0,2013,128008,Ford,taurus,1945,17,0
+15777.0,2017,70744,Honda,civic exl wnavigation,695,21,0
+5999.0,2012,120944,Nissan,altima 25 s,467,42,0
+12495.0,2016,81000,Maserati,ghibli,1143,33,0
+21000.0,2024,15500,Toyota,corolla,773,60,0
+16999.0,2022,35410,Subaru,legacy,1307,57,0
+3000.0,2013,155834,Chrysler,200 series touring,44,11,0
+17800.0,2000,63634,Honda,torneo euro type r,1991,21,0
+21690.0,2019,43781,BMW,530i 530i,223,6,0
+10620.0,2022,0,Nissan,altima 25 sl,470,42,0
+18595.0,2017,121160,Lexus,200t,52,30,0
+9500.0,2003,130000,Audi,rs6,1671,3,0
+7000.0,2014,62336,Cadillac,cts performance collection,879,9,1
+12888.0,2013,63342,Hyundai,equus signature,1017,24,0
+49999.0,2021,56388,Maserati,quattroporte quattroporte trofeo v8 1,1625,33,0
+4300.0,2010,179000,Toyota,camry base,583,60,0
+12750.0,2013,145003,Audi,s4 plus,1700,3,0
+7400.0,2006,115835,BMW,5 series 525i automatic 30l,203,6,0
+24898.0,2010,18482,Bentley,flying spur,1071,7,0
+77990.0,2021,32149,BMW,m3 competition,1351,6,0
+8999.0,2012,120720,Audi,a6 quattro 30t quattro,402,3,0
+77420.69,2016,18000,Cadillac,cts,859,9,1
+8250.0,2014,90621,Kia,cadenza,576,28,0
+4495.0,2011,143802,Chevrolet,cruze lt,827,10,0
+16300.0,2023,18294,Tesla,model 3 no reserve super like,1468,59,1
+15000.0,2014,127211,Mercedes-Benz,sclass,1766,36,0
+54900.0,2002,70000,BMW,m5,1360,6,0
+3995.0,2013,119301,Chrysler,300 series awd salvage,113,11,0
+22500.0,2022,54100,Kia,gt1 awd w delivery call 7863283187,1193,28,0
+510.0,2024,10513,Volvo,s90 recharge plugin hybrid ultimate,1755,62,0
+23500.0,2022,55690,Toyota,camry,578,60,0
+16980.0,2015,87726,BMW,7series 750li xdrive,316,6,0
+7999.0,2014,102141,Volkswagen,jetta 20t gli autobahn,1256,61,0
+17795.0,2018,53516,Dodge,charger awd 57l v8 hemi police,654,15,0
+7600.0,2014,34885,Ford,fusion s,1108,17,0
+13900.0,2010,39955,Honda,accord ex,437,21,0
+6350.0,2008,104158,BMW,5series 535 beautiful condition 6314873881,244,6,0
+4500.0,2013,158000,Infiniti,g37,1120,25,0
+36500.0,2016,39000,Chevrolet,ss,1917,10,0
+1000.0,2006,91557,Cadillac,v,2026,9,0
+12900.0,2007,20413,Mercedes-Benz,eclass 350,946,36,0
+9900.0,2019,67900,Honda,civic,691,21,0
+4500.0,2011,157000,Nissan,sentra 20,1839,42,0
+6990.0,2018,44724,Toyota,mirai,1441,60,0
+12995.0,2018,148027,Honda,accord lx,447,21,0
+8995.0,2010,83068,Honda,accord exl,440,21,0
+15900.0,2017,66796,Audi,a4 ultra,379,3,0
+4900.0,2011,124206,Mitsubishi,lancer eses,1295,39,0
+30500.0,2023,42055,BMW,330i xdrive 330i xdrive,148,6,0
+20999.0,2020,99776,Toyota,camry xse,598,60,0
+16994.0,2023,54241,Toyota,corolla,773,60,0
+21999.0,2018,84965,Tesla,model s 100d,1483,59,0
+34999.0,2006,75849,Mitsubishi,lancer mr,1305,39,0
+4995.0,2002,179467,BMW,325xi 325xi,141,6,0
+19995.0,2020,67429,Mercedes-Benz,aclass a 220,456,36,0
+6990.0,2017,143644,Ford,fusion,1098,17,0
+17999.0,2019,84320,Chevrolet,impala premier,1220,10,0
+10499.0,2020,104158,Kia,forte line,1089,28,0
+12450.0,2016,115373,BMW,535i xdrive 535i xdrive,228,6,0
+27895.0,2024,771,Honda,civic touring,711,21,0
+7900.0,2011,83580,BMW,328i xdrive 328i xdrive,144,6,0
+9499.0,2010,108684,Lincoln,town car signature,2008,31,0
+10995.0,2011,87468,Acura,tl base,1972,1,0
+2990.0,2001,121040,Ford,taurus,1945,17,0
+3600.0,2017,90936,Lincoln,mkzzephyr reserve,1453,31,0
+24487.0,2022,47732,Subaru,wrx base,2052,57,0
+7900.0,2017,172722,Toyota,corolla,773,60,0
+14499.0,2017,75648,Honda,civic lx,704,21,0
+11950.0,2016,99630,Mercedes-Benz,eclass e350,973,36,0
+8250.0,2017,72503,Ford,fusion,1098,17,0
+21790.0,2020,85894,Dodge,charger rt,663,15,0
+19500.0,2015,78685,Dodge,charger rt road track,666,15,0
+61999.0,2023,27819,Porsche,taycan,1956,47,0
+7777.0,2018,108968,Ford,fusion,1098,17,0
+8995.0,2012,125852,Honda,civic lx,704,21,0
+21995.0,2004,93344,Cadillac,cts v,881,9,0
+40500.0,2023,11170,Mercedes-Benz,eqs 450,1013,36,0
+7789.0,2015,136332,Infiniti,q50 37,1606,25,0
+5995.0,2007,89682,Buick,lacrosse cx,1289,8,0
+14350.0,2017,102835,Volvo,s90 t6 inscription,1757,62,0
+29900.0,2016,82000,Mercedes-Benz,eclass e63 amg s,979,36,0
+19995.0,2023,33527,Subaru,wrx,2051,57,0
+13999.0,2015,153024,Dodge,charger rt,663,15,0
+17799.0,2015,45525,Maserati,ghibli s q4,1150,33,0
+8995.0,2012,131943,Honda,civic ex,692,21,0
+5395.0,2013,139085,Nissan,altima 25 sl,470,42,0
+8895.0,2013,119201,Honda,civic lx,704,21,0
+8999.0,2012,44803,Hyundai,elantra gls,996,24,0
+8995.0,2012,94133,Mercedes-Benz,c300 c300 4matic luxury,567,36,0
+9995.0,2012,122000,Infiniti,g37 g37x,1123,25,0
+14331.0,2024,52965,Nissan,altima 25 sv,472,42,0
+12500.0,2016,93653,Honda,accord ex,437,21,0
+15999.0,2015,94577,Tesla,model s 70d hatchack awd,1485,59,0
+26594.0,2020,36489,BMW,5 series 530i,204,6,0
+44550.0,2022,28858,Audi,etron prestige,1037,3,0
+17985.0,2017,59674,Mercedes-Benz,eclass e 300 4matic,959,36,0
+94000.0,2023,21380,BMW,m3 competition xdrive,1353,6,0
+28995.0,2025,18742,Toyota,camry,578,60,0
+28527.0,2023,26344,Dodge,charger,646,15,0
+15999.0,2020,81994,Honda,civic lx,704,21,0
+11995.0,2016,97795,Mazda,3 touring,95,35,0
+10500.0,2018,96064,Kia,optima ex,1530,28,0
+13995.0,2019,117657,Chevrolet,impala premiere,1221,10,0
+35995.0,2018,79300,Mercedes-Benz,sclass s 560 4matic,1793,36,0
+41999.0,2024,905,BMW,530i xdrive 530i xdrive,225,6,0
+9800.0,2008,90624,Volvo,s60 25t,1730,62,0
+14995.0,2022,114093,Dodge,charger sxt,685,15,0
+21260.0,2025,16457,Mazda,3 25 s preferred package,77,35,0
+17995.0,2023,51762,Dodge,charger sxt,685,15,0
+21750.0,2018,77662,Lexus,es 350,1020,30,0
+4500.0,2013,106337,Buick,regal,1635,8,0
+77985.0,2018,28679,Mercedes-Benz,mercedesmaybach sclass s 650,1431,36,0
+20994.0,2024,8842,Acura,integra 15t hatchback,1238,1,0
+20985.0,2020,67436,Audi,a6 quattro 45 tfsi premiumplus,404,3,0
+13995.0,2017,124809,Honda,civic ex,692,21,0
+8695.0,2015,141855,Honda,civic lx,704,21,0
+11499.0,2017,104082,BMW,530i xdrive 530i xdrive,225,6,0
+34885.0,2020,57752,BMW,m340i xdrive m340i xdrive,1357,6,0
+7995.0,2015,105252,BMW,328i xdrive 328i xdrive,144,6,0
+11995.0,2017,98477,Audi,a4,354,3,0
+9499.0,2019,97684,Hyundai,sonata,1889,24,0
+32500.0,2015,92681,BMW,m3,1349,6,0
+10500.0,2021,51122,Nissan,versa sv,2043,42,0
+15145.0,2019,82988,Audi,a4,354,3,0
+47226.0,2025,169,BMW,m235 xdrive gran m235i xdrive,1347,6,0
+7499.0,2014,88464,Ford,fusion,1098,17,0
+13900.0,2022,41611,Nissan,altima 25 sv,472,42,0
+2400.0,2012,101413,Mazda,3 i touring,81,35,0
+31900.0,2024,37320,BMW,2series xdrive gran m pkg heated front seats,74,6,0
+14495.0,2018,100191,Toyota,camry,578,60,0
+19750.0,2025,20970,Toyota,corolla,773,60,0
+37158.0,2025,19556,BMW,2 series 228 xdrive gran,34,6,0
+32995.0,2025,15145,Toyota,camry xse,598,60,0
+17100.0,2018,74589,Hyundai,sonata,1889,24,0
+14250.0,2020,47020,Toyota,corolla,773,60,0
+20595.0,2017,34148,BMW,530i xdrive 530i xdrive,225,6,0
+6900.0,2017,94416,Dodge,charger sxt,685,15,0
+17995.0,2024,28099,Volkswagen,jetta s,1266,61,0
+12250.0,2015,70200,Audi,a4,354,3,0
+27400.0,2023,30571,Subaru,wrx,2051,57,0
+13995.0,2018,100499,Audi,a3 quattro premiumplus,352,3,0
+18900.0,2019,77892,Maserati,quattroporte s granlusso,1628,33,0
+58999.0,2022,38763,Mercedes-Benz,sclass s 500 4matic,1787,36,0
+29995.0,2017,76199,Audi,s6 40t plus,1726,3,0
+14995.0,2020,55798,Dodge,charger sxt,685,15,0
+17077.0,2024,44381,Toyota,corolla,773,60,0
+11995.0,2014,90861,Chevrolet,impala lt,1217,10,0
+10495.0,2018,119630,Hyundai,sonata sel,1904,24,0
+13999.0,2018,93196,Chrysler,300 touring,126,11,0
+5995.0,2016,124165,Ford,focus,1082,17,0
+9999.0,2020,93277,Kia,forte,1086,28,0
+6570.0,2018,129850,Chevrolet,sonic premier,1908,10,0
+5495.0,2013,149550,Nissan,altima 25 sl,470,42,0
+15899.0,2018,88223,Toyota,camry,578,60,0
+15499.0,2017,106255,Honda,civic si,710,21,0
+10487.0,2017,131923,Honda,civic lx,704,21,0
+14995.0,2018,24459,Mazda,3 touring,95,35,0
+4700.0,2006,160553,Lincoln,town car signature,2008,31,0
+23488.0,2023,39952,Honda,civic ex,692,21,0
+37950.0,2009,66029,Cadillac,ctsv pano certified extremely fast car,886,9,0
+2995.0,2005,96653,Cadillac,cts base,870,9,0
+15995.0,2020,107073,BMW,330i xdrive 330i xdrive,148,6,0
+64950.0,2022,33435,Mercedes-Benz,s500 s 500,1708,36,0
+19995.0,2024,53368,Toyota,camry,578,60,0
+9999.0,2011,146688,Toyota,avalon base,506,60,0
+73880.0,2023,32150,BMW,m3 executive pkg leds parking assist 6speed m,1354,6,0
+21487.0,2025,30335,Honda,civic lx,704,21,0
+13299.0,2018,107566,Toyota,camry,578,60,0
+9800.0,2014,53040,Mercedes-Benz,eclass,943,36,0
+15750.0,2020,107378,Chrysler,300 300s,98,11,0
+16012.0,2022,61230,Toyota,corolla,773,60,0
+10999.0,2015,112183,Audi,a3 quattro 20t quattro plus awd,351,3,0
+15995.0,2018,126816,Acura,tlx advance,1983,1,0
+2695.0,2010,178250,Nissan,sentra sl,1843,42,0
+11990.0,2016,103846,Mercedes-Benz,e350 e 350,933,36,0
+9999.0,2018,121866,Honda,accord ex,437,21,0
+18500.0,2019,69621,Volkswagen,golf sportwagen 14t automatic,1174,61,0
+16995.0,2021,24377,Hyundai,sonata sel,1904,24,0
+21995.0,2018,55127,Subaru,wrx,2051,57,0
+25999.0,2022,29167,Hyundai,sonata sel,1904,24,0
+54777.0,2023,13071,BMW,m340i xdrive m340i xdrive,1357,6,0
+20988.0,2019,71908,Honda,accord,433,21,0
+13995.0,2012,65387,Jaguar,xj portfolio msrp,2077,26,0
+18900.0,2017,51824,Ford,fusion,1098,17,0
+11880.0,2014,76187,Subaru,impreza 20i,1229,57,0
+27295.0,2023,40761,Hyundai,elantra n n,1002,24,0
+20495.0,2023,52290,Dodge,charger,646,15,0
+28980.0,2018,57531,BMW,540i xdrive 540i xdrive,231,6,0
+25188.0,2020,20268,Honda,civic,691,21,0
+15499.0,2018,85437,Mazda,3 touring,95,35,0
+23250.0,2021,84150,Tesla,model 3 performance,1469,59,0
+16999.0,2017,93420,BMW,540i xdrive 540i xdrive,231,6,0
+16499.0,2022,70482,Toyota,corolla,773,60,0
+19995.0,2018,84695,Mercedes-Benz,eclass e400,976,36,0
+21880.0,2020,65698,Honda,accord,433,21,0
+7995.0,2017,76920,Kia,forte lx,1090,28,0
+16999.0,2008,102594,Mercedes-Benz,s63 amg s 63 amg,1744,36,0
+12246.0,2019,101090,Nissan,altima 25 sl,470,42,0
+19995.0,2021,37238,Dodge,charger awd 36l v6 police havis console and partition,652,15,0
+16099.0,2016,102669,BMW,750i 750i,294,6,0
+11999.0,2014,149572,Acura,rlx base,1646,1,0
+25625.0,2020,24256,BMW,330i xdrive 330i xdrive,148,6,0
+49985.0,2018,70351,Mercedes-Benz,mercedesamg sclass s 63 amg,1427,36,0
+6495.0,2014,70850,Nissan,versa s,2041,42,0
+11795.0,2019,126175,Dodge,charger awd 57l v8 hemi police,654,15,0
+50900.0,2025,8193,Lexus,f w big display power moonroof panora,1047,30,0
+75900.0,2016,22373,Mercedes-Benz,mercedesmaybach s 600 amg v12 power extended wheelbase,1429,36,0
+13996.0,2020,86801,Hyundai,sonata sel,1904,24,0
+14995.0,2019,37470,Infiniti,q50 30t luxe,1604,25,0
+17991.0,2021,31325,Volkswagen,jetta s 6spd epa 41mpg hwy,1269,61,0
+15900.0,2016,136314,Honda,civic ex,692,21,0
+11399.0,2013,142670,Honda,civic si,710,21,0
+17500.0,2024,23765,Kia,forte lxs,1092,28,0
+5995.0,2012,90224,Chevrolet,cruze lt,827,10,0
+22979.0,2023,35084,Toyota,camry,578,60,0
+27210.0,2024,40891,Honda,accord l,446,21,0
+27995.0,2021,73282,Mercedes-Benz,c43 amg c 43 amg,571,36,0
+6495.0,2012,138198,Infiniti,g25 g25x,1116,25,0
+9990.0,2018,126741,Mercedes-Benz,c300 c 300,561,36,0
+75999.0,2017,29604,ASTON MARTIN,rapide,1633,0,0
+19995.0,2018,35675,Dodge,charger awd 57l v8 hemi police,654,15,0
+20124.0,2023,61253,Toyota,camry,578,60,0
+16999.0,2020,49974,Hyundai,elantra value,1007,24,0
+14999.0,2018,99860,Honda,civic ex,692,21,0
+20000.0,2006,6520,Maserati,quattroporte base,1620,33,0
+22994.0,2020,18853,Honda,accord,433,21,0
+23995.0,2021,42462,Subaru,wrx,2051,57,0
+7495.0,2012,99092,Buick,verano leather group,2036,8,0
+15995.0,2020,79323,Dodge,charger sxt,685,15,0
+39995.0,2018,60591,Mercedes-Benz,sclass s 560 4matic,1793,36,0
+14588.0,2017,75183,BMW,530i xdrive 530i xdrive,225,6,0
+9995.0,2013,167642,Honda,accord exl,440,21,0
+9999.0,2018,70715,Ford,fusion,1098,17,0
+15995.0,2022,71336,Toyota,camry,578,60,0
+30785.0,2019,51686,BMW,m550i xdrive m550i xdrive,1366,6,0
+6499.0,2011,75355,Ford,focus sel,1084,17,0
+15995.0,2019,81620,Mercedes-Benz,e300 e 300,928,36,0
+8999.0,2018,115192,Kia,optima lx,1532,28,0
+7999.0,2012,145787,Honda,civic lx,704,21,0
+13499.0,2016,62724,Mercedes-Benz,c300 c 300,561,36,0
+7900.0,2016,110822,Volkswagen,cc 20t rline,612,61,0
+23999.0,2021,40116,Hyundai,sonata sel,1904,24,0
+17999.0,2022,81525,Dodge,charger sxt,685,15,0
+19499.0,2014,94019,Mercedes-Benz,s550 s 550,1712,36,0
+9999.0,2016,126705,Nissan,maxima platinum,1418,42,0
+6999.0,2014,172443,Honda,civic exl,694,21,0
+8250.0,2015,84034,Nissan,altima 25 sl,470,42,0
+13499.0,2016,104887,Dodge,charger rt,663,15,0
+7999.0,2014,139826,Honda,civic ex,692,21,0
+23879.0,2025,34729,Toyota,camry,578,60,0
+8219.0,2011,86766,Mercedes-Benz,c300 c 300,561,36,0
+6495.0,2011,96327,Mercedes-Benz,c300 c 300,561,36,0
+23999.0,2024,24710,Toyota,camry,578,60,0
+17995.0,2017,72007,Subaru,wrx,2051,57,0
+6900.0,2003,164635,Toyota,camry,578,60,0
+19501.0,2022,41155,Kia,k5 lxs,1280,28,0
+24999.0,2018,72876,Maserati,ghibli s gransport,1149,33,0
+72995.0,2022,12322,Dodge,charger srt hellcat widebody smoke show 23t pkg harmankardon,681,15,0
+6995.0,2015,150879,Audi,a4 quattro premiumplus,373,3,0
+8890.0,2010,126635,Cadillac,cts 1 30l v6 white diamond tricoat pearl,860,9,0
+16995.0,2012,66125,Cadillac,cts 36l performance awd heated leather pano gps,867,9,0
+5299.0,2007,162836,Honda,accord exl,440,21,0
+10900.0,2012,141614,Toyota,camry,578,60,0
+23495.0,2022,50576,Dodge,charger,646,15,0
+7995.0,2014,92892,Ford,taurus police awd,1950,17,0
+7495.0,2012,170378,Toyota,camry,578,60,0
+22900.0,2022,60269,Toyota,camry,578,60,0
+10999.0,2016,132711,Mazda,6 i touring,265,35,0
+7795.0,2015,96472,Ford,taurus police awd,1950,17,0
+16711.0,2023,32170,Kia,forte line,1089,28,0
+11500.0,2007,129065,Audi,s6,1723,3,0
+23995.0,2023,101485,Toyota,camry xse,598,60,0
+21995.0,2019,104657,Honda,civic lx,704,21,0
+9495.0,2014,169136,Nissan,maxima sv,1422,42,0
+20995.0,2023,42394,Dodge,charger,646,15,0
+15495.0,2018,37896,Ford,fusion s hybrid,1109,17,0
+7995.0,2012,102495,Hyundai,genesis 37999999999999998,1139,24,0
+6500.0,2011,88787,Chevrolet,malibu ls,1384,10,0
+7895.0,2016,142036,Nissan,altima 25 sr,471,42,0
+11999.0,2016,123922,Mercedes-Benz,c300 c 300,561,36,0
+21995.0,2022,91129,Tesla,model 3 performance awd fsd3 autopilot pano heatseat,1470,59,0
+7900.0,2015,137907,Audi,a3 18t,347,3,0
+9995.0,2017,89419,Chevrolet,sonic lt,1907,10,0
+6995.0,2014,111762,Chevrolet,cruze 1lt,819,10,0
+23499.0,2018,33810,Tesla,model s 75d,1487,59,0
+20938.0,2025,13120,Hyundai,sonata sel,1904,24,0
+24433.0,2023,24496,Hyundai,sonata,1889,24,0
+7995.0,2014,89831,Chevrolet,impala lt,1217,10,0
+11999.0,2016,122855,Toyota,camry,578,60,0
+10999.0,2019,107249,Nissan,sentra sr,1844,42,0
+7995.0,2017,127615,Hyundai,elantra,995,24,0
+17999.0,2019,49724,Dodge,charger sxt,685,15,0
+8990.0,2014,149265,Toyota,corolla s,787,60,0
+6995.0,2012,121801,Honda,accord lx,447,21,0
+9999.0,2020,117455,Hyundai,elantra,995,24,0
+53685.0,2025,4148,Mercedes-Benz,c300 c 300,561,36,0
+53760.0,2025,7,Mercedes-Benz,c300 c 300,561,36,0
+5000.0,2013,181126,Chevrolet,cruze ls,825,10,0
+6999.0,2013,105840,Acura,tl base,1972,1,0
+6999.0,2019,113414,Kia,optima lx,1532,28,0
+14795.0,2019,48451,Hyundai,elantra,995,24,0
+11633.0,2015,98968,Mercedes-Benz,c300 c 300,561,36,0
+8499.0,2018,105815,Hyundai,sonata sel,1904,24,0
+69000.0,2014,39000,Bentley,flying spur luxury blue on beige leather,1075,7,0
+11995.0,2018,81369,Hyundai,sonata eco,1895,24,0
+8750.0,2012,132802,Subaru,legacy 36r,1311,57,0
+23900.0,2023,34370,Honda,accord ex,437,21,0
+84880.0,2023,19563,Mercedes-Benz,sclass s 580,1794,36,0
+10995.0,2013,120294,Mercedes-Benz,c300 c300 4matic,566,36,0
+9999.0,2015,126533,Infiniti,q40 base,1596,25,0
+11395.0,2016,111799,Toyota,corolla,773,60,0
+18750.0,2024,39987,Toyota,corolla,773,60,0
+8999.0,2015,147639,Honda,civic exl,694,21,0
+73799.0,2022,40392,Mercedes-Benz,s580 s 580,1721,36,0
+13899.0,2024,23179,Nissan,sentra sv,1846,42,0
+11795.0,2019,71448,Hyundai,sonata sel,1904,24,0
+6995.0,2013,108228,Nissan,altima 25 sv,472,42,0
+27477.0,2022,36640,BMW,330i xdrive 330i xdrive,148,6,0
+5980.0,2015,86625,Hyundai,elantra,995,24,0
+33819.0,2019,20850,Lexus,es350 350,1033,30,0
+11950.0,2013,72847,Acura,tl base,1972,1,0
+14368.0,2020,49932,Kia,optima,1529,28,0
+13995.0,2017,66646,Honda,accord touring,452,21,0
+71985.0,2019,35662,Mercedes-Benz,mercedesmaybach sclass s 560 4matic,1430,36,0
+38416.0,2025,17549,BMW,228 xdrive gran 228 xdrive gran,59,6,0
+10499.0,2013,129374,Honda,accord,433,21,0
+15800.0,2019,92936,Toyota,camry l,591,60,0
+13999.0,2018,183877,Honda,accord lx,447,21,0
+8795.0,2015,93503,Lincoln,mkz base,1446,31,0
+11808.0,2021,96149,Volkswagen,jetta 14t s,1250,61,0
+10998.0,2015,86825,Ford,fusion titanium,1111,17,0
+14999.0,2020,126053,Tesla,model 3 long range,1460,59,0
+5995.0,2015,177541,Volkswagen,passat 18t s,1564,61,0
+67990.0,2023,17643,Audi,rs 3 25t,1658,3,0
+7995.0,2017,123795,Hyundai,elantra value,1007,24,0
+14885.0,2016,93822,BMW,550i xdrive 550i xdrive,234,6,0
+21985.0,2021,43539,Toyota,corolla cvt,779,60,0
+32225.0,2022,33000,Tesla,model s,1482,59,0
+9995.0,2021,123863,Toyota,corolla,773,60,0
+10900.0,2017,113405,Lincoln,mkz premiere,1448,31,0
+17995.0,2021,76614,BMW,330i xdrive 330i xdrive,148,6,0
+9995.0,2017,117148,Nissan,altima 25 s,467,42,0
+5995.0,2012,120336,Hyundai,sonata gls,1896,24,0
+7449.0,2013,113053,Hyundai,sonata gls,1896,24,0
+20995.0,2019,60569,BMW,5series 530e iperformance,241,6,0
+29781.0,2015,83899,Mitsubishi,lancer final,1303,39,0
+9491.0,2015,115523,Cadillac,ats base,498,9,0
+11900.0,2016,75447,Hyundai,sonata,1889,24,0
+17999.0,2021,78969,Nissan,maxima sv,1422,42,0
+11999.0,2015,137586,Honda,accord exl,440,21,0
+33436.0,2018,86258,Porsche,panamera,1538,47,0
+20995.0,2022,49962,Honda,civic,691,21,0
+26499.0,2023,14588,Toyota,camry,578,60,0
+22111.0,2022,55035,Kia,k5 line,1279,28,0
+4999.0,2005,183887,Acura,tl 32,1971,1,0
+3500.0,2008,132965,Saturn,aura xe,501,54,0
+9999.0,2012,138802,Acura,tsx base,2018,1,0
+12995.0,2015,110594,Infiniti,q70l l 37,1617,25,0
+20100.0,2024,45847,Nissan,altima 25 sv,472,42,0
+25299.0,2006,50049,Bentley,continental flying spur,755,7,0
+13290.0,2018,80705,Honda,civic ex,692,21,0
+6295.0,2010,156166,Honda,accord exl,440,21,0
+20690.0,2019,72019,Honda,accord exl,440,21,0
+7991.0,2016,133578,Hyundai,sonata,1889,24,0
+18750.0,2016,107898,Tesla,model s 75d,1487,59,0
+8998.0,2013,136184,Toyota,corolla 18lt 4 cylinder,775,60,0
+23999.99,2002,61050,Mercedes-Benz,e55 amg original,940,36,0
+17999.0,2014,85448,Audi,a8 l tdi turbo diesel quattro only,424,3,0
+6521.25,2013,98415,Buick,lacrosse,1287,8,0
+9999.0,2018,129000,Audi,a3,346,3,0
+10977.0,2016,112412,Kia,k900 v8 luxury vip plus package,1281,28,0
+17580.0,2008,160930,Mitsubishi,lancer evolution gsr,1298,39,0
+20500.0,2012,97007,Mitsubishi,lancer evolution gsr,1298,39,0
+7499.0,2010,92587,Honda,civic lx 5a,705,21,0
+9950.0,2015,135000,Dodge,charger sxt,685,15,0
+8995.0,2002,47000,Cadillac,deville,910,9,0
+20995.0,2022,18417,Alfa Romeo,giulia veloce,1170,2,0
+15500.0,2014,101550,Audi,a6,384,3,0
+33900.0,2023,2944,Honda,civic type r hatchback,715,21,0
+696.0,2001,184442,Lexus,gs,1185,30,1
+7895.0,2014,57611,Chevrolet,cruze 1lt bkcam,820,10,0
+6995.0,2010,152619,Lexus,hs,1202,30,1
+5495.0,2010,76572,Chevrolet,cobalt lt,747,10,0
+17494.0,2018,71793,Honda,civic lx,704,21,0
+14499.0,2020,126103,Dodge,charger,646,15,0
+33985.0,2022,12840,Jaguar,xf p300 rdynamic,2070,26,0
+16950.0,2016,43407,Maserati,ghibli s q4,1150,33,0
+10995.0,2014,90769,Cadillac,xts luxury collection awd,2111,9,0
+85900.0,2020,35965,Mercedes-Benz,s 650 maybach msrp,1684,36,0
+33995.0,2023,51317,Audi,a4 quattro s line 45 tfsi premiumplus,375,3,0
+7995.0,2010,114081,Honda,accord lx,447,21,0
+52900.0,2014,35469,Bentley,flying spur,1071,7,0
+23900.0,2022,61556,Genesis,g70 20t,1125,19,0
+18695.0,2013,97512,Lexus,gs350 350,1189,30,0
+8999.0,2015,135636,Acura,tlx 35,1979,1,0
+74999.0,2024,3391,Mercedes-Benz,c63 amg s e performance c 63 s amg,574,36,0
+16999.0,2023,167068,Tesla,model 3 long range,1460,59,0
+12999.0,2016,102524,Toyota,camry,578,60,0
+28990.0,2017,55560,Subaru,wrx sti,2054,57,0
+13999.0,2023,35497,Kia,forte lxs,1092,28,0
+23480.0,2017,87255,BMW,540i xdrive 540i xdrive,231,6,0
+10900.0,2010,116626,Mercedes-Benz,s550 s 550,1712,36,0
+6500.0,2014,116770,Dodge,dart sxt,898,15,0
+6800.0,2019,94407,Infiniti,q50,1600,25,0
+55999.0,2024,6226,Mercedes-Benz,c43 amg c 43 amg,571,36,0
+19995.0,2025,19432,Toyota,corolla,773,60,0
+19499.0,2023,32756,Hyundai,sonata sel,1904,24,0
+7900.0,2019,128928,Volkswagen,passat 20t wolfsburg,1571,61,0
+20907.0,2022,66566,Nissan,altima 25 sv,472,42,0
+13995.0,2022,84163,Nissan,altima sv,481,42,0
+20400.0,2024,42856,Nissan,altima 25 sv,472,42,0
+19895.0,2018,97019,Audi,s4 premiumplus,1701,3,0
+10280.0,2018,85738,Hyundai,sonata,1889,24,0
+8000.0,2016,146326,Lincoln,mkzzephyr,1451,31,0
+17604.0,2024,52083,Chevrolet,malibu 1lt,1383,10,0
+16950.0,2019,108375,Subaru,wrx,2051,57,0
+6995.0,2010,98603,Nissan,altima 25,464,42,0
+7999.0,2014,125996,Nissan,altima 25 sv,472,42,0
+12999.0,2018,130391,Honda,accord exl,440,21,0
+10990.0,2017,109244,Ford,fusion 1 dual power cloth 25l non ecoboost,1100,17,0
+27985.0,2023,43003,Nissan,maxima platinum,1418,42,0
+8499.0,2019,115751,Ford,fusion,1098,17,0
+32977.0,2023,22622,Mercedes-Benz,c300 c 300,561,36,0
+47454.0,2025,7572,Mercedes-Benz,c300 c 300,561,36,0
+67999.0,2024,11609,Mercedes-Benz,eqs 450,1013,36,0
+13995.0,2022,80059,Toyota,corolla,773,60,0
+6900.0,2009,120212,Honda,civic lx,704,21,0
+7999.0,2011,83903,Audi,a4 quattro 20t,368,3,0
+10995.0,2019,90100,Nissan,sentra s,1842,42,0
+24818.0,2024,17397,Honda,civic,691,21,0
+12995.0,2015,86006,Toyota,camry xse,598,60,0
+8750.0,2014,45937,Hyundai,sonata,1889,24,0
+13995.0,2017,111023,Honda,accord lx,447,21,0
+25995.0,2007,66760,Mercedes-Benz,eclass amg,953,36,0
+34450.0,2025,18755,Tesla,model 3 long range,1460,59,0
+10999.0,2013,76918,Acura,tsx base,2018,1,0
+13900.0,2008,196096,Dodge,charger rt daytona,664,15,0
+27900.0,2020,27033,Jaguar,xe p250 s black exterior pack meridian sound turbo,2059,26,0
+11500.0,2017,101422,Nissan,maxima s,1420,42,0
+17985.0,2024,32354,Toyota,corolla,773,60,0
+14495.0,2022,58410,Toyota,corolla,773,60,0
+17795.0,2018,61374,Dodge,charger awd 57l v8 hemi police,654,15,0
+15499.0,2019,63574,Volkswagen,jetta rline,1265,61,0
+63999.0,2023,19443,Audi,rs etron,1663,3,0
+92991.0,2022,20404,Cadillac,ct5 vseries blackwing carbon brakes ultraview moonroo,844,9,0
+15395.0,2013,87135,Lexus,es350 350,1033,30,0
+33913.0,2024,325,Nissan,altima 20 sr,463,42,0
+5999.0,2017,111545,Nissan,altima 25 s,467,42,0
+12999.0,2021,107173,Hyundai,elantra sel,1004,24,0
+11499.0,2021,104601,Hyundai,elantra sel,1004,24,0
+18999.0,2023,75503,Toyota,corolla,773,60,0
+38695.0,2016,81302,Audi,rs7 prestige,1677,3,0
+14999.0,2018,110701,Dodge,charger,646,15,0
+8495.0,2017,111646,Hyundai,elantra,995,24,0
+5995.0,2010,121238,Chevrolet,malibu ls,1384,10,0
+22999.0,2022,94883,Kia,k5 line,1279,28,0
+8995.0,2014,160970,Mercedes-Benz,eclass e 350 4matic awd,964,36,0
+13499.0,2018,84841,Subaru,legacy 25i,1308,57,0
+45590.0,2020,44753,BMW,3 series m340i xdrive,94,6,0
+68999.0,2018,54612,Mercedes-Benz,mercedesmaybach sclass s 650,1431,36,0
+13499.0,2014,75533,Honda,accord exl,440,21,0
+13984.0,2023,56365,Nissan,sentra sv,1846,42,0
+12200.0,2020,90297,Nissan,altima 25 s,467,42,0
+19839.0,2024,33464,Toyota,corolla,773,60,0
+15995.0,2019,55537,Chevrolet,malibu ls,1384,10,0
+24480.0,2017,82944,BMW,540i xdrive 540i xdrive,231,6,0
+17995.0,2020,80515,Tesla,model 3 fsd3 autopilot panoroof leather,1459,59,0
+9995.0,2014,132910,Honda,accord exl,440,21,0
+13925.0,2024,31208,Nissan,versa sv,2043,42,0
+15785.0,2019,93926,Infiniti,q50 30t luxe,1604,25,0
+4995.0,2014,144334,Ford,focus,1082,17,0
+13995.0,2018,67953,Hyundai,sonata eco,1895,24,0
+24695.0,2021,17525,Kia,k5 line,1279,28,0
+8979.0,2020,99323,Kia,optima lx,1532,28,0
+24295.0,2018,72296,BMW,7series 740e xdrive,306,6,0
+51999.0,2023,566,Mercedes-Benz,c43 amg c 43 amg,571,36,0
+14995.0,2017,58485,Toyota,camry,578,60,0
+11750.0,2014,93609,Audi,a6 quattro 30t prestige,401,3,0
+22999.0,2020,101670,Audi,a6 quattro 55 tfsi premiumplus,406,3,0
+9995.0,2015,139732,Honda,civic ex,692,21,0
+13991.0,2018,46783,Hyundai,sonata sel,1904,24,0
+19990.0,2020,75267,Toyota,camry,578,60,0
+69900.0,2022,12800,Audi,rs 5 sportback 29t quattro dynamic plus pkg driver assist pkg,1661,3,0
+14480.0,2016,145064,Lexus,is300 300,1244,30,0
+21990.0,2022,52856,Honda,accord,433,21,0
+17495.0,2023,35053,Hyundai,elantra hybrid hev,998,24,0
+24350.0,2024,42728,Toyota,camry,578,60,0
+9999.0,2011,43366,Hyundai,sonata,1889,24,0
+11095.0,2016,70393,Volkswagen,passat 18t,1562,61,0
+48785.0,2022,54694,BMW,m850i xdrive gran m850i xdrive,1374,6,0
+10999.0,2013,56075,Nissan,altima 25 sv,472,42,0
+25995.0,2021,79532,Acura,tlx 20 waspec pkg,1975,1,0
+23995.0,2024,36702,Honda,civic ex,692,21,0
+8999.0,2014,156071,Honda,civic lx,704,21,0
+15295.0,2017,99538,Acura,tlx 35 technology,1980,1,0
+20500.0,2023,43465,Toyota,corolla,773,60,0
+27995.0,2020,98174,Honda,accord,433,21,0
+25854.0,2020,50048,Mercedes-Benz,e350 e 350,933,36,0
+8999.0,2017,121550,Cadillac,cts 20 luxury,861,9,0
+19980.0,2023,17664,Kia,forte line,1089,28,0
+25785.0,2020,55912,Mercedes-Benz,a35 amg amg a 35,353,36,0
+14499.0,2021,26074,Nissan,sentra sv,1846,42,0
+5499.0,2009,138161,Audi,a4 quattro 20t,368,3,0
+49999.0,2024,8351,Mercedes-Benz,c43 amg c 43 amg,571,36,0
+14999.0,2018,98389,Alfa Romeo,giulia ti awd,1168,2,0
+25388.0,2025,3872,Subaru,legacy,1307,57,0
+9900.0,2015,157079,Acura,tlx 35,1979,1,0
+21995.0,2016,52748,Chrysler,300 series 300s,112,11,0
+10995.0,2016,88618,Audi,a4 plus sline,364,3,0
+19450.0,2024,48656,Nissan,altima 25 sv,472,42,0
+15499.0,2018,123756,Toyota,avalon,504,60,0
+9990.0,2009,146834,Ford,crown victoria 1 p71 police interceptor hd ho rhino coat,810,17,0
+20495.0,2024,45922,Toyota,camry,578,60,0
+21999.0,2017,46572,Tesla,model s 75,1486,59,0
+8995.0,2015,83055,Nissan,altima 25 s,467,42,0
+6895.0,2012,154187,Buick,verano base,2034,8,0
+7900.0,2000,81187,BMW,5series,238,6,0
+29999.0,2021,30733,Mercedes-Benz,c300 c 300,561,36,0
+13499.0,2016,93186,Audi,a6 quattro 30t premiumplus,400,3,0
+5689.0,2013,126378,Ford,taurus sel,1953,17,0
+21460.0,2023,29563,Chevrolet,malibu rs,1390,10,0
+7999.0,2012,90143,Buick,regal 1,1636,8,0
+32495.0,2019,71910,BMW,5series m550i xdrive,258,6,0
+7999.0,2008,75720,Mercedes-Benz,c300 c 300 luxury,564,36,0
+21995.0,2019,86104,BMW,540i xdrive 540i xdrive,231,6,0
+10985.0,2019,92997,Ford,fusion titanium,1111,17,0
+60800.0,2019,55910,Mercedes-Benz,s63 amg s 63 amg,1744,36,0
+15995.0,2019,89623,Dodge,charger sxt,685,15,0
+15999.0,2017,80495,Honda,accord exl,440,21,0
+17199.0,2022,108504,Toyota,camry,578,60,0
+10495.0,2014,137555,Lexus,is250 250,1243,30,0
+17777.0,2024,8173,Nissan,sentra sv,1846,42,0
+13495.0,2017,130363,Toyota,camry,578,60,0
+29777.0,2021,37675,Audi,a6 quattro 55 tfsi,405,3,0
+24980.0,2024,36210,Toyota,camry,578,60,0
+14499.0,2021,64155,Nissan,sentra sv,1846,42,0
+17111.0,2018,71411,BMW,530i xdrive 530i xdrive,225,6,0
+5999.0,2010,141010,Acura,tsx base,2018,1,0
+29985.0,2024,35787,Audi,a6 quattro 45 tfsi premiumplus,404,3,0
+6995.0,2014,108122,Chevrolet,cruze lt,827,10,0
+20995.0,2025,27093,Nissan,altima 25 sv,472,42,0
+6999.0,2014,114150,Chevrolet,cruze 1lt,819,10,0
+24900.0,2004,37620,Cadillac,cts 4 door,869,9,0
+20395.0,2021,18840,Honda,civic ex,692,21,0
+20725.0,2017,95567,Subaru,wrx sti sti,2056,57,0
+13995.0,2015,82250,Subaru,wrx,2051,57,0
+3842.0,2011,119060,Chevrolet,malibu ls,1384,10,0
+14995.0,2021,61943,Nissan,sentra sv,1846,42,0
+17895.0,2021,27717,Honda,accord lx,447,21,0
+25995.0,2023,33483,Kia,k5 line,1279,28,0
+27590.0,2022,50764,Toyota,camry xse,598,60,0
+19999.0,2019,82890,Cadillac,cts 36 luxury,865,9,0
+16995.0,2018,28868,Ford,fusion s hybrid,1109,17,0
+17353.0,2024,43039,Nissan,altima 25 sv,472,42,0
+7995.0,2016,117299,Hyundai,sonata,1889,24,0
+6995.0,2012,108361,Volkswagen,jetta,1247,61,0
+18795.0,2021,96145,Honda,accord special,451,21,0
+8999.0,2016,101876,Audi,a3 quattro 20t,350,3,0
+19998.0,2018,51800,Honda,civic exl,694,21,0
+29800.0,2019,49426,Audi,s4 premiumplus,1701,3,0
+20995.0,2024,44342,Nissan,altima 25 sv,472,42,0
+15499.0,2017,81680,Honda,accord,433,21,0
+76585.0,2015,8119,ASTON MARTIN,rapide,1633,0,0
+6489.0,2013,130929,Dodge,charger,646,15,0
+11499.0,2017,52368,Ford,fusion plugin luxury,1106,17,0
+32031.0,2021,51637,Audi,s4 30t plus,1697,3,0
+8995.0,2012,135369,Honda,civic ex,692,21,0
+77900.0,2017,5969,Cadillac,cts,859,9,0
+24991.0,2021,36008,Dodge,charger blacktop 1,656,15,0
+14785.0,2018,94787,Honda,accord,433,21,0
+15900.0,2022,48892,Chevrolet,malibu lt,1386,10,0
+15985.0,2019,72439,Mercedes-Benz,c300 c 300,561,36,0
+25433.0,2021,53852,Audi,a6 45 tfsi plus,390,3,0
+34995.0,2015,35501,Mitsubishi,lancer evolution gsr,1298,39,0
+13999.0,2019,85200,Chevrolet,impala lt,1217,10,0
+15999.0,2020,71621,Nissan,altima 25 s,467,42,0
+22733.0,2018,31866,Subaru,wrx,2051,57,0
+12795.0,2017,35751,Nissan,altima 25 sl,470,42,0
+58950.0,2022,57632,Mercedes-Benz,sclass s580,1811,36,0
+5900.0,2018,146425,Ford,fusion,1098,17,0
+7999.0,2017,135915,Nissan,altima 25 sr,471,42,0
+14499.0,2017,94088,Honda,accord,433,21,0
+14995.0,2021,103706,Kia,k5 line,1279,28,0
+15999.0,2019,154600,Toyota,camry,578,60,0
+31900.0,2024,21413,Cadillac,ct4 luxury,835,9,0
+7699.0,2015,90824,Chevrolet,malibu ls,1384,10,0
+17595.0,2015,89603,Subaru,impreza wrx,1234,57,0
+5499.0,2013,171997,Acura,ilx base,1209,1,0
+8500.0,2016,94244,Chevrolet,malibu ls,1384,10,0
+25379.0,2019,90335,Mercedes-Benz,c43 amg c 43 amg,571,36,0
+11900.0,2015,119948,Chrysler,300 awd,103,11,0
+11999.0,2019,84669,Hyundai,sonata sel,1904,24,0
+32850.0,2017,37359,Maserati,quattroporte gts gransport,1622,33,0
+13826.0,2020,68244,Kia,optima,1529,28,0
+8995.0,2015,133228,Honda,civic lx,704,21,0
+9999.0,2020,96903,Hyundai,elantra sel,1004,24,0
+3995.0,2015,98337,Ford,fiesta,1054,17,0
+23999.0,2020,53000,Alfa Romeo,giulia,1162,2,0
+19999.0,2017,85555,Tesla,model s 90d,1488,59,0
+5900.0,2011,87899,Nissan,versa s,2041,42,0
+11995.0,2018,23236,Chevrolet,cruze,818,10,0
+9995.0,2014,117301,Cadillac,ats luxury,499,9,0
+25950.0,2019,55087,Audi,a6 55 tfsi prestige,391,3,0
+19900.0,2023,34345,Nissan,altima 25 sr,471,42,0
+4995.0,2009,97750,Buick,lucerne cxl,1336,8,0
+8895.0,2020,106101,Nissan,versa 16 s,2038,42,0
+23287.0,2024,6177,Honda,accord ex,437,21,0
+32995.0,2018,80321,Lexus,ls ls 500 hud sun radar cruise m lev,1324,30,0
+20994.0,2024,11248,Acura,integra 15t hatchback,1238,1,0
+22657.0,2024,47535,Honda,accord ex,437,21,0
+17495.0,2018,68811,Chevrolet,malibu premier,1389,10,0
+19895.0,2022,75760,Honda,accord special,451,21,0
+13995.0,2022,59052,Toyota,corolla,773,60,0
+64999.0,2023,44089,BMW,i7 xdrive60,1206,6,0
+16990.0,2020,77146,Honda,accord lx,447,21,0
+23650.0,2021,26799,Audi,a4 quattro 40 tfsi,371,3,0
+5000.0,2013,101735,Dodge,dart aero,897,15,0
+15999.0,2016,138268,Honda,accord exl,440,21,0
+7495.0,2012,90930,Audi,a4 quattro 20t,368,3,0
+5999.0,2013,128066,Cadillac,xts platinum collection,2113,9,0
+9995.0,2019,62072,Kia,rio s,1644,28,0
+67900.0,2024,11580,Audi,etron quattro prestige pkg performance pkg full leathe,1038,3,0
+24999.0,2021,22835,Volkswagen,jetta 14t,1248,61,0
+22414.0,2024,58328,Honda,civic,691,21,0
+91999.0,2023,17016,Porsche,taycan 4s,1957,47,0
+28987.0,2018,34995,Subaru,wrx sti sti,2056,57,0
+59900.0,2025,6848,Audi,s5 30t quattro plus w black optic plus pkg,1706,3,0
+20995.0,2022,29187,Honda,accord,433,21,0
+21999.0,2016,80834,Lexus,es350 350,1033,30,0
+13698.0,2014,87604,Acura,rlx base,1646,1,0
+6999.0,2017,147263,Nissan,altima 25 sv,472,42,0
+17997.0,2014,87558,Lexus,250 automatic,64,30,0
+9380.0,2014,100224,Cadillac,cts 20 luxury collection,862,9,0
+29333.0,2019,42686,Audi,a6 55 tfsi prestige,391,3,0
+14999.0,2021,97952,Nissan,altima 25 s,467,42,0
+66995.0,2022,13679,Mercedes-Benz,sclass s 500 4matic,1787,36,0
+17400.0,2023,57336,Kia,forte lxs ivt,1093,28,0
+89996.0,2023,14178,Mercedes-Benz,sclass s 500 4matic,1787,36,0
+23900.0,2024,61203,Toyota,camry,578,60,0
+26590.0,2018,61261,Tesla,model s 75d,1487,59,0
+19950.0,2019,83075,BMW,530i xdrive 530i xdrive,225,6,0
+18250.0,2023,38709,Hyundai,elantra sel,1004,24,0
+99999.0,2023,8707,Mercedes-Benz,s580 s 580,1721,36,0
+13495.0,2018,34735,Ford,fusion s,1108,17,0
+93680.0,2022,16108,Cadillac,ct5 vseries,843,9,0
+25999.0,2020,46127,Honda,civic si,710,21,0
+8222.0,2009,159178,Lexus,is250 250,1243,30,0
+17995.0,2016,92818,Cadillac,cts ct6 30tt awd leather pano tires,871,9,0
+18979.0,2019,86416,Honda,civic touring cvt,712,21,0
+16499.0,2019,88958,Honda,accord lx,447,21,0
+9999.0,2017,113261,Mazda,6,261,35,0
+18252.0,2018,71268,Mercedes-Benz,eclass e300,970,36,0
+14999.0,2024,2201,Mitsubishi,mirage g4 es,1440,39,0
+18650.0,2024,43214,Toyota,corolla,773,60,0
+17999.0,2024,26439,Volkswagen,jetta 15t s,1253,61,0
+7281.0,2018,137306,Ford,focus s,1083,17,0
+60888.0,2020,39970,Mercedes-Benz,amg 53 awd,486,36,0
+64900.0,2019,45035,Mercedes-Benz,s63 amg s 63 amg,1744,36,0
+22478.0,2023,18937,Subaru,legacy,1307,57,0
+15995.0,2017,79649,Buick,lacrosse,1287,8,0
+8900.0,2013,78473,Dodge,avenger rt,512,15,0
+16499.0,2019,73532,Audi,a4,354,3,0
+12999.0,2022,140066,Hyundai,sonata sel plus,1905,24,0
+12995.0,2014,121885,Audi,a8 quattro l 40t,428,3,0
+34996.0,2019,64458,Dodge,charger rt scat pack,667,15,0
+13995.0,2021,88511,Volkswagen,passat,1561,61,0
+9795.0,2019,90684,Nissan,sentra sv,1846,42,0
+3999.0,2017,181259,Ford,focus,1082,17,0
+20980.0,2021,54964,Tesla,model 3 standard range plus,1473,59,0
+22995.0,2018,138205,Mercedes-Benz,s560 s 560,1716,36,0
+21995.0,2022,34985,Alfa Romeo,giulia ti veloce,1169,2,0
+25250.0,2023,28929,Tesla,model 3,1456,59,0
+22995.0,2016,63305,Subaru,wrx sti,2054,57,0
+5000.0,2008,122062,Saturn,aura xr,502,54,0
+20895.0,2021,58349,Dodge,charger,646,15,0
+13499.0,2020,104694,Nissan,altima 25 sr,471,42,0
+18995.0,2022,6047,Hyundai,elantra,995,24,0
+11990.0,2019,84146,Volkswagen,jetta 14t sel,1252,61,0
+10888.0,2018,64175,Ford,fusion s,1108,17,0
+10450.0,2017,111708,Hyundai,elantra,995,24,0
+36994.0,2025,14859,BMW,3 series 330i,88,6,0
+92899.0,2023,22217,Mercedes-Benz,s580 s 580,1721,36,0
+9499.0,2018,73711,Ford,fusion,1098,17,0
+7900.0,2017,131018,Volkswagen,passat 18t,1562,61,0
+19733.0,2020,49620,Honda,civic ex,692,21,0
+3999.0,2010,134820,Chrysler,sebring touring,1835,11,0
+19300.0,2024,29064,Toyota,corolla,773,60,0
+6500.0,2008,98537,Cadillac,cts,859,9,0
+18149.0,2024,35424,Volkswagen,jetta 15t s,1253,61,0
+10908.0,2015,60166,Hyundai,sonata 20t,1890,24,0
+5999.0,2019,117858,Nissan,sentra sv,1846,42,0
+21990.0,2018,83423,Honda,civic si,710,21,0
+8495.0,2013,144053,Chrysler,300 300s,98,11,0
+12999.0,2012,19943,Hyundai,elantra,995,24,0
+11999.0,2014,101436,BMW,3series 320i,160,6,0
+6999.0,2016,102494,Chevrolet,cruze 1lt,819,10,0
+15287.0,2019,92381,Audi,a4 quattro premiumplus,373,3,0
+12995.0,2017,124981,Toyota,avalon,504,60,0
+12588.0,2018,80310,BMW,330i xdrive 330i xdrive,148,6,0
+12678.0,2019,96679,Hyundai,elantra sel,1004,24,0
+13999.0,2017,96294,Cadillac,xts luxury,2109,9,0
+10999.0,2012,63300,Hyundai,sonata gls,1896,24,0
+36595.0,2018,96859,Mercedes-Benz,cclass c 63 s amg,627,36,0
+8999.0,2013,76067,Kia,optima lx,1532,28,0
+24987.0,2023,26951,Honda,accord ex,437,21,0
+8999.0,2016,96470,Ford,fusion,1098,17,0
+10388.0,2019,77544,Kia,optima lx,1532,28,0
+24395.0,2025,26078,Honda,accord,433,21,0
+5999.0,2010,168812,Honda,civic lx,704,21,0
+9999.0,2016,100652,Cadillac,xts luxury collection,2110,9,0
+15047.0,2019,110323,Acura,tlx 35 technology,1980,1,0
+8200.0,2011,77072,Audi,a4 quattro 20t,368,3,0
+17999.0,2016,97927,Tesla,model s 75,1486,59,0
+76999.0,2022,17156,Mercedes-Benz,s580 s 580,1721,36,0
+15999.0,2020,71959,Nissan,altima 25 s,467,42,0
+21599.0,2021,95108,Honda,accord touring,452,21,0
+9990.0,2018,145505,Nissan,maxima s,1420,42,0
+17995.0,2018,61358,Dodge,charger awd 57l v8 hemi police,654,15,0
+16995.0,2020,57075,Hyundai,elantra sel,1004,24,0
+8499.0,2017,108916,Kia,forte s,1094,28,0
+22890.0,2025,1341,Nissan,altima 25 sv,472,42,0
+12295.0,2015,83399,Mercedes-Benz,c300 c 300,561,36,0
+4899.0,2012,148883,Chevrolet,impala ls,1216,10,0
+15495.0,2020,59375,Honda,accord lx,447,21,0
+22890.0,2019,63382,Dodge,charger 1 57l hemi pursuit interceptor police cruiser,647,15,0
+13400.0,2015,119662,Honda,accord,433,21,0
+23520.0,2024,52080,Chevrolet,malibu lt,1386,10,0
+54999.0,2019,77214,Mercedes-Benz,clsclass cls53 amg,740,36,0
+9999.0,2018,57620,Nissan,sentra sv,1846,42,0
+18995.0,2017,89244,Honda,civic touring,711,21,0
+11795.0,2019,127812,Nissan,altima 25 sl,470,42,0
+5995.0,2015,126668,Chevrolet,cruze 1lt,819,10,0
+20369.0,2023,26256,Toyota,camry,578,60,0
+9950.0,2013,133366,Honda,accord,433,21,0
+59410.0,2025,1445,Mercedes-Benz,c300 c 300,561,36,0
+57160.0,2025,11,Mercedes-Benz,c300 c 300,561,36,0
+12899.0,2013,96091,Cadillac,xts collection,2108,9,0
+18999.0,2021,62204,Honda,civic lx,704,21,0
+11495.0,2015,130726,Subaru,wrx,2051,57,0
+8999.0,2015,149314,Acura,tlx 23999999999999999,1976,1,0
+20480.0,2022,81139,Toyota,camry,578,60,0
+42900.0,2016,53660,BMW,alpina b6,459,6,0
+19995.0,2021,32661,Honda,insight touring,1237,21,0
+18495.0,2019,74557,Honda,accord,433,21,0
+10999.0,2014,96192,Cadillac,cts 20 luxury collection,862,9,0
+23433.0,2021,39138,Honda,accord special,451,21,0
+6499.0,2015,111165,Volvo,s60 t5 premier 5,1738,62,0
+17150.0,2023,72739,Toyota,camry,578,60,0
+12660.0,2019,79375,Volkswagen,jetta 14t s,1250,61,0
+18995.0,2013,100563,Subaru,impreza wrx sti,1235,57,0
+9650.0,2019,103157,Kia,cadenza,576,28,0
+7995.0,2015,120287,Buick,verano base,2034,8,0
+17890.0,2018,60345,Ford,fusion 1 hybrid heated dual power leather,1101,17,0
+21998.0,2024,24052,Nissan,altima 25 sr,471,42,0
+18550.0,2024,15635,Kia,forte lxs,1092,28,0
+28995.0,2012,84816,Chrysler,300 series srt8,121,11,0
+5995.0,2006,89057,Nissan,sentra 18t s,1838,42,0
+20867.0,2022,84560,Honda,accord special,451,21,0
+57885.0,2021,69956,BMW,m5 base,1361,6,0
+5900.0,2014,148000,Chevrolet,cruze 1lt,819,10,0
+15995.0,2020,64139,Honda,civic lx,704,21,0
+11999.0,2016,154863,Toyota,corolla,773,60,0
+6999.0,2014,170694,Mazda,3 i touring,81,35,0
+6499.0,2010,113081,Volkswagen,jetta,1247,61,0
+19457.0,2021,52237,BMW,228i xdrive gran 228i xdrive,60,6,0
+20480.0,2022,17581,Chevrolet,malibu lt,1386,10,0
+14995.0,2018,95998,Honda,accord,433,21,0
+33990.0,2021,42535,Subaru,wrx sti,2054,57,0
+19995.0,2021,49469,Honda,accord,433,21,0
+15495.0,2022,63510,Dodge,charger sxt,685,15,0
+25591.0,2021,38229,Audi,a4 s line plus,377,3,0
+13999.0,2015,128850,Honda,civic si,710,21,0
+21471.0,2017,86615,Subaru,wrx sti sti,2056,57,0
+16899.0,2019,93243,Volvo,s60 t6 rdesign,1741,62,0
+10999.0,2011,135321,Dodge,charger rt,663,15,0
+11999.0,2017,105228,Toyota,corolla,773,60,0
+13999.0,2019,83028,Toyota,corolla xse,795,60,0
+23395.0,2018,34041,BMW,330i xdrive 330i xdrive,148,6,0
+22499.0,2021,80770,Toyota,avalon,504,60,0
+7775.0,2013,127104,BMW,328i xdrive 328i xdrive,144,6,0
+10995.0,2013,104510,Infiniti,g37 g37x,1123,25,0
+8895.0,2016,102314,Cadillac,xts collection,2108,9,0
+8990.0,2018,175302,Cadillac,xts platinum,2112,9,0
+18988.0,2016,29053,Tesla,model s 60d,1484,59,0
+23980.0,2025,19350,Mazda,3 25 s carbon,76,35,0
+23600.0,2024,27306,Toyota,camry,578,60,0
+74999.0,2023,7012,Mercedes-Benz,s500 s 500,1708,36,0
+13990.0,2016,65165,Chevrolet,impala 1 pursuit 9c1 interceptor ho dohc 36l,1214,10,0
+11900.0,2016,133848,Toyota,corolla,773,60,0
+7900.0,2015,133804,Mercedes-Benz,cla250 cla 250,719,36,0
+17999.0,2014,72894,BMW,535i xdrive 535i xdrive,228,6,0
+60985.0,2014,27537,Bentley,flying spur w12,1080,7,0
+15995.0,2021,60952,Nissan,versa sv,2043,42,0
+49999.0,2024,31266,BMW,i5 m60,1205,6,0
+11616.0,2009,72952,Mercedes-Benz,s550 s 550,1712,36,0
+19500.0,2020,35136,Acura,ilx,1207,1,0
+23977.0,2022,17459,Hyundai,sonata n line,1900,24,0
+9300.0,2022,77072,Mitsubishi,mirage g4,1438,39,0
+13495.0,2020,50905,Kia,forte lxs,1092,28,0
+16698.0,2022,66204,Chevrolet,malibu lt,1386,10,0
+21685.0,2019,53265,Honda,civic touring,711,21,0
+11995.0,2022,118878,Chevrolet,malibu ls,1384,10,0
+8990.0,2010,112492,Ford,fusion 1 25l dohc 16v 4cyl cruise ac,1099,17,0
+19990.0,2020,62415,Honda,civic exl,694,21,0
+16997.0,2021,125855,Tesla,model 3 standard range plus,1473,59,0
+24477.0,2024,54250,Honda,accord,433,21,0
+12999.0,2017,125353,Chevrolet,impala lt,1217,10,0
+7135.0,2015,111947,Nissan,altima 25 sl,470,42,0
+19499.0,2018,68055,Volvo,s90 t5 momentum,1756,62,0
+9995.0,2016,125028,Toyota,camry special,594,60,0
+17995.0,2021,43444,Nissan,sentra sr,1844,42,0

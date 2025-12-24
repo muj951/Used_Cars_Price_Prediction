@@ -1,0 +1,1 @@
+{"features": ["year", "mileage", "brand_encoded", "model_encoded", "reviews_count", "is_auction", "is_fresh_listing"]}
