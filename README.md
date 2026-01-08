@@ -17,7 +17,7 @@ An end-to-end Machine Learning project that scrapes eBay listings, cleans data u
 ## 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/muj951/Used_Cars_Price_Prediction.git](https://github.com/muj951/Used_Cars_Price_Prediction.git)
+   git clone https://github.com/muj951/Used_Cars_Price_Prediction.git
    ```
 
 2. Build and Run:
